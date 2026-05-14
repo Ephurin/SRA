@@ -72,12 +72,13 @@
 
 ![Luồng hoạt động Cá nhân hóa giao diện](<./images/Cá nhân hóa giao diện đọc.png>)
 - **Kịch bản chi tiết:**
-  | Bước | Basic Flow | Exception Flow |
+  | Bước | Basic Flow (Luồng cơ bản) | Exception / Alternative Flow (Luồng ngoại lệ / rẽ nhánh) |
   | :--- | :--- | :--- |
-  | 1 | Hệ thống hiển thị bảng tùy chỉnh (Font, Size, Background). | |
-  | 2 | Người dùng kéo slider để chỉnh cỡ chữ hoặc chọn màu nền. | |
-  | 3 | Hệ thống cập nhật CSS/Theme trực tiếp trên màn hình đọc. | |
-  | 4 | Hệ thống lưu thông tin cấu hình. | Lỗi lưu trữ: Hiển thị thông báo không thể đồng bộ cài đặt. |
+  | 1 | Độc giả (Reader) nhấn vào biểu tượng "Cài đặt" (bánh răng) trên thanh công cụ của giao diện đọc truyện. | |
+  | 2 | Hệ thống hiển thị Bottom Sheet chứa các tùy chọn cá nhân hóa: Font chữ, Cỡ chữ (slider), Màu nền (Sáng, Tối, Xám, Vàng), Khoảng cách dòng. | |
+  | 3 | Reader thay đổi thông số theo ý muốn (ví dụ: kéo slider tăng cỡ chữ hoặc đổi sang Dark Mode). | |
+  | 4 | Hệ thống ngay lập tức (real-time) áp dụng thay đổi lên màn hình để người dùng xem trước. | |
+  | 5 | Reader đóng bảng cài đặt. Hệ thống lưu cấu hình này vào Local Storage và đồng bộ lên Database (nếu đã đăng nhập). | **5a. Mất kết nối mạng:** Hệ thống lưu cục bộ và báo "Đã lưu cài đặt offline. Sẽ đồng bộ khi có mạng". |
 
 #### UC-RD-02: Tìm kiếm, Lọc truyện nâng cao
 - **Objective:** Cho phép tìm kiếm tác phẩm theo từ khóa, thể loại, tình trạng, và các bộ lọc kết hợp.
@@ -85,12 +86,14 @@
 - **Trigger:** Truy cập thanh tìm kiếm hoặc trang danh mục.
 - **Post-condition:** Hiển thị danh sách truyện phù hợp, sắp xếp theo độ liên quan/lượt xem.
 - **Kịch bản chi tiết:**
-  | Bước | Basic Flow | Alternative Flow |
+  | Bước | Basic Flow (Luồng cơ bản) | Exception / Alternative Flow (Luồng ngoại lệ / rẽ nhánh) |
   | :--- | :--- | :--- |
-  | 1 | Người dùng nhập từ khóa và chọn các tiêu chí lọc (Thể loại, Tình trạng). | |
-  | 2 | Hệ thống gửi request lọc đến Backend. | Nếu không có từ khóa, chỉ lọc theo tiêu chí sẵn có. |
-  | 3 | Backend trả về danh sách kết quả. | Nếu không tìm thấy: Báo "Không có kết quả" và gợi ý truyện phổ biến. |
-  | 4 | Hệ thống hiển thị kết quả (dạng List/Grid). | |
+  | 1 | Reader nhấn vào thanh tìm kiếm hoặc nút "Lọc" tại màn hình Khám phá. | |
+  | 2 | Hệ thống hiển thị giao diện nhập từ khóa và danh sách các bộ lọc đa chiều (Thể loại, Tình trạng, Số chương...). | |
+  | 3 | Reader nhập từ khóa và tích chọn các bộ lọc mong muốn, sau đó nhấn "Tìm kiếm". | **3a. Không nhập từ khóa:** Hệ thống bỏ qua bước quét text (search), chỉ thực hiện lọc bằng Query SQL thông thường. |
+  | 4 | Backend tiếp nhận request, kết hợp AI Service (nếu search ngữ nghĩa) để quét dữ liệu truyện. | |
+  | 5 | Backend trả về danh sách kết quả phù hợp, ưu tiên sắp xếp theo độ khớp và lượt xem. | **5a. Không có kết quả khớp:** Hệ thống trả về kết quả gần giống nhất hoặc báo "Không có kết quả chính xác" kèm gợi ý truyện phổ biến. |
+  | 6 | Hệ thống hiển thị danh sách (Grid/List). Reader nhấn vào một mục để xem Chi tiết truyện. | |
 
 ### 4.5 Module 5: Tương tác & Cộng đồng
 
@@ -102,7 +105,17 @@
 - **Post-condition:** Bình luận được hiển thị công khai hoặc đưa vào diện chờ duyệt.
 - **Luồng hoạt động (Activities Flow):**
 
-![Luồng hoạt động Tương tác cộng đồng](<./images/Tương tác & Cộng đồng.png>)
+![Luồng hoạt động Bình luận theo chương đoạn](<./images/Bình luận theo chương đoạn.png>)
+
+- **Kịch bản chi tiết:**
+  | Bước | Basic Flow (Luồng cơ bản) | Exception / Alternative Flow (Luồng ngoại lệ / rẽ nhánh) |
+  | :--- | :--- | :--- |
+  | 1 | Reader bôi đen một đoạn văn bản trong lúc đọc hoặc kéo xuống cuối chương. | |
+  | 2 | Hệ thống hiển thị Popup/Nút "Bình luận". Reader nhấn vào nút này. | **2a. Chưa đăng nhập:** Hệ thống bật hộp thoại yêu cầu Đăng nhập/Đăng ký. |
+  | 3 | Hệ thống hiển thị khung nhập liệu. Reader điền nội dung và nhấn "Gửi". | **3a. Bị khóa mõm (Muted):** Hệ thống chặn và báo "Tài khoản của bạn đang bị giới hạn tính năng này". |
+  | 4 | Backend tiếp nhận nội dung và gửi qua AI Service để kiểm duyệt từ khóa (toxic, văng tục...). | **4a. Vi phạm AI Check:** Hệ thống từ chối bình luận, báo lỗi "Nội dung vi phạm tiêu chuẩn cộng đồng" hoặc chuyển sang trạng thái "Chờ admin duyệt". |
+  | 5 | Nếu hợp lệ, Backend lưu bình luận vào Database với liên kết (reference) tới đoạn văn/chương cụ thể. | |
+  | 6 | Hệ thống cập nhật giao diện, hiển thị số đếm bình luận ngay cạnh đoạn văn đó (VD: icon chat + 1). | |
 
 #### UC-IN-02: Like và Bookmark
 - **Objective:** Đánh dấu lưu lại truyện (Bookmark) hoặc thích (Like) để tăng độ phổ biến.
@@ -110,12 +123,36 @@
 - **Trigger:** Nhấn nút "Thêm vào tủ sách" (Bookmark) hoặc "Thích" (Like).
 - **Pre-condition:** Đã đăng nhập.
 - **Post-condition:** Tác phẩm thêm vào Tủ sách cá nhân; lượt Like tăng.
+- **Luồng hoạt động (Activities Flow):**
+
+![Luồng hoạt động Like và Bookmark](<./images/Like và Bookmark.png>)
+
+- **Kịch bản chi tiết (Bookmark):**
+  | Bước | Basic Flow (Luồng cơ bản) | Exception / Alternative Flow |
+  | :--- | :--- | :--- |
+  | 1 | Tại giao diện Chi tiết truyện hoặc khi đang đọc, Reader nhấn "Thêm vào tủ sách". | |
+  | 2 | Hệ thống kiểm tra session đăng nhập. | **2a. Guest:** Yêu cầu đăng nhập. |
+  | 3 | Hệ thống gọi API lưu trữ thông tin (User ID, Story ID, Current Chapter) vào Database. | |
+  | 4 | Hệ thống đổi màu icon Bookmark thành active và hiển thị Toast "Đã thêm vào tủ sách". | **4a. Bỏ Bookmark:** Nếu truyện đã có trong tủ, hành động này sẽ xóa truyện khỏi tủ sách. |
+  | 5 | Truyện tự động hiển thị trong tab "Đã lưu" ở màn hình Tủ sách của User. | |
 
 #### UC-IN-03: Theo dõi tác giả & Thông báo đẩy
 - **Objective:** Nhận thông báo khi tác giả yêu thích ra chương mới.
 - **Actor:** Reader
 - **Trigger:** Nhấn "Theo dõi" tại trang hồ sơ tác giả.
 - **Post-condition:** Hệ thống tự động đẩy thông báo (Push Notification) đến thiết bị khi có update.
+- **Luồng hoạt động (Activities Flow):**
+
+![Luồng hoạt động Theo dõi tác giả và nhận thông báo](<./images/Theo dõi tác giả và nhận thông báo.png>)
+
+- **Kịch bản chi tiết:**
+  | Bước | Basic Flow (Luồng cơ bản) | Exception / Alternative Flow |
+  | :--- | :--- | :--- |
+  | 1 | Reader truy cập màn hình "Hồ sơ tác giả" và nhấn nút "Theo dõi". | |
+  | 2 | Backend tạo record mapping giữa Reader ID và Author ID trong bảng Follows. | |
+  | 3 | Nút bấm đổi thành "Đang theo dõi" (Following). | |
+  | 4 | Khi tác giả publish một chương mới, Backend trigger dịch vụ Push Notification (VD: Firebase Cloud Messaging). | |
+  | 5 | Hệ thống đẩy thông báo hiển thị lên màn hình điện thoại của Reader: "Tác giả [X] vừa ra chương mới cho truyện [Y]". | **5a. Tắt thông báo:** Nếu Reader tắt quyền nhận thông báo OS, họ chỉ nhận được cảnh báo đỏ (badge) bên trong in-app. |
 ### 4.6 Module 6: Quản trị & Thống kê (Admin Dashboard)
 *   Kiểm duyệt nội dung, Quản lý người dùng.
 *   Thống kê lượt xem, doanh thu (nếu có), biểu đồ tăng trưởng.
