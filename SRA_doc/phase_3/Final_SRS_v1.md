@@ -126,58 +126,12 @@ The following matrix defines the level of access and actions (CRUD) each actor c
 *Legend: C = Create, R = Read, U = Update, D = Delete*
 
 
-## CHƯƠNG III: DATA REQUIREMENTS & WORKFLOWS
+## CHAPTER III: DATA REQUIREMENTS & WORKFLOWS
 
 ### 3.1 Entity Relationship Diagram (ERD)
 The system utilizes a relational database (PostgreSQL) for structured data and MongoDB for non-structured data. Below is the ERD for the core components:
 
-```mermaid
-erDiagram
-    USER ||--o{ NOVEL : "composes"
-    USER ||--o{ COMMENT : "writes"
-    USER ||--o{ TRANSACTION : "performs"
-    USER ||--o{ READING_HISTORY : "has"
-    
-    NOVEL ||--o{ CHAPTER : "includes"
-    NOVEL ||--o{ TAG : "has"
-    NOVEL }|--|| GENRE : "belongs to"
-    CHAPTER ||--o{ COMMENT : "has"
-    CHAPTER ||--o{ UNLOCK_RECORD : "is unlocked"
-    
-    USER {
-        int id PK
-        string username
-        string email
-        string password_hash
-        string role "READER/AUTHOR/ADMIN"
-        decimal coin_balance
-        date birth_date
-        datetime created_at
-    }
-    
-    NOVEL {
-        int id PK
-        string title
-        string description
-        string cover_url
-        int author_id FK
-        int genre_id FK
-        string status "ONGOING/COMPLETED"
-        string age_rating "ALL/13+/16+/18+"
-        int total_views
-    }
-    
-    CHAPTER {
-        int id PK
-        int novel_id FK
-        string title
-        text content
-        int order_index
-        boolean is_premium
-        decimal price
-        datetime published_at
-    }
-```
+![Entity Relationship Diagram](./images/memberA/ERD.png)
 
 #### Data Dictionary Summary
 - **USER**: Stores identification, roles, and wallet balance (Coin).
@@ -188,9 +142,21 @@ erDiagram
 ### 3.2 Business Workflows
 
 #### 3.2.1 Registration & Authentication (JWT)
-*(To be added by the Account Module owner)*
+This workflow ensures secure access to the platform using JSON Web Tokens (JWT) for session management.
 
-#### 3.2.2 Quy trình Sáng tác & Xuất bản (Process of publish new novels)
+![Registration & Authentication Workflow](./images/memberA/3.2.1.png)
+
+**Registration & Login Process:**
+1.  **Request**: User submits registration/login credentials (Email, Password).
+2.  **Validation**: The Auth Service verifies the input format and checks against the User Database.
+3.  **Token Generation**: Upon successful authentication, the system generates a pair of tokens:
+    *   **Access Token**: Short-lived (e.g., 1 hour) for authorizing API requests.
+    *   **Refresh Token**: Long-lived (e.g., 7 days) to obtain new access tokens without re-logging.
+4.  **Authorized Access**: The client stores the token and includes it in the `Authorization: Bearer <token>` header for all subsequent requests to microservices.
+
+*(A technical Sequence Diagram will be provided as a supplementary asset)*
+
+#### 3.2.2 Creative & Publishing Workflow
 
 **a. Publish a new novel**
 ![Process of publish a new novel](./images/memberB/image2.png)
@@ -230,47 +196,20 @@ This is a unique feature of Ephurin, helping standardize content from the start:
     *   Detects sensitive topics to warn about mandatory Age Rating tags.
 4.  **Feedback & Selection**: The author reviews the suggestions and selects which ones to apply. This improves search accuracy for readers.
 
-**a. Publish a new novel**
-![Process of publish a new novel](./images/memberB/image2.png)
-*Figure : Process of author request to publish a new novel*
+#### 3.2.4 Admin Moderation Workflow
+This workflow describes how content is reviewed and moderated through a hybrid system involving AI automated scanning and Admin final decision-making.
 
-**Detailed Specification:**
-1.  **Initiation**: Author starts by requesting to add a new novel.
-2.  **Information Entry**: Author fills in metadata (title, description, genre).
-3.  **AI Validation**: 
-    *   System checks format: Title must be < 255 chars, description > 500 chars.
-    *   AI checks for content violations (sensitive topics, hate speech).
-4.  **Chapter Creation**: Author must add and save chapters as drafts.
-5.  **Requirement Check**: The AI system ensures the novel has at least 5 chapters before allowing a "Publish Request".
-6.  **Human Review**: Once submitted, an Admin reviews the novel content.
-7.  **Final Action**: If approved, the novel is published; otherwise, it is sent back for edits.
+![Admin Moderation Workflow](./images/memberA/3.2.4.png)
 
-**b. Publish new chapter**
-![Process of publish new chapter](./images/memberB/image3.png)
-*Figure : Process of author request to publish a new chapter*
+**Moderation Process:**
+1.  **Trigger**: A moderation request is triggered when an Author publishes new content or when a Reader reports a violation.
+2.  **AI Automated Scan**: The AI Service immediately scans the text for policy violations (hate speech, sensitive topics, spam).
+    *   *If safe*: Content remains visible or is approved for publishing.
+    *   *If suspicious*: AI flags the content and moves it to the "Pending Review" queue.
+3.  **Human Review**: The Admin accesses the Moderation Dashboard to review flagged items and reports.
+4.  **Final Action**: Admin makes a final decision (Approve, Reject/Edit Required, or Delete/Ban).
+5.  **Notification**: The system notifies the relevant User of the final decision and updates the content status.
 
-**Detailed Specification:**
-1.  **Selection**: Author selects an existing novel to add a new chapter.
-2.  **Drafting**: Author enters chapter title and content.
-3.  **AI Guardrails**: AI validates content length (> 500 chars) and scans for policy violations.
-4.  **Submission**: Author saves the draft and sends a publish request.
-5.  **Moderation**: Admin verifies the chapter content. Upon approval, the chapter becomes visible to readers.
-
-#### 3.2.3 Quy trình AI hỗ trợ metadata (Gợi ý Tag/Thể loại)
-Đây là quy trình đặc trưng của Ephurin, giúp chuẩn hóa nội dung ngay từ bước đầu:
-
-![AI Metadata Workflow](./images/memberA/Screenshot%202026-05-14%20144034.png)
-
-
-1.  **Gửi yêu cầu**: Khi tác giả soạn thảo xong nội dung chương hoặc mô tả truyện, hệ thống gửi văn bản về AI Service.
-2.  **Trích xuất đặc trưng**: AI sử dụng mô hình NLP (PhoBERT/Transformer) để phân tích từ khóa, ngữ cảnh và văn phong.
-3.  **Phân loại & Gợi ý**:
-    -   AI so sánh với bộ Taxonomy (thể loại/tag) hiện có để đưa ra Top 5 gợi ý phù hợp nhất.
-    -   Phát hiện các chủ đề nhạy cảm để cảnh báo gắn tag độ tuổi (Age Rating).
-4.  **Phản hồi & Lựa chọn**: Tác giả xem danh sách gợi ý và chọn áp dụng vào tác phẩm. Kết quả này giúp tăng độ chính xác khi độc giả tìm kiếm.
-
-#### 3.2.4 Quy trình Kiểm duyệt nội dung (Admin Review)
-*(Sẽ được bổ sung bởi thành viên phụ trách Module Quản trị)*
 
 ## CHƯƠNG IV: ĐẶC TẢ CHI TIẾT CÁC YÊU CẦU CHỨC NĂNG
 
