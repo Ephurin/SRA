@@ -43,9 +43,17 @@ Trong toàn bộ quá trình đó, **khó khăn lớn nhất** đối với em l
 **Trung:**
 "Dạ em phụ trách luồng Đăng truyện cho Tác giả. **Điểm khó khăn nhất** của em là phải **mô hình hóa một luồng nghiệp vụ xuất bản có sự can thiệp liên tục của AI**. Em phải suy nghĩ cách diễn đạt luồng đồng bộ: *Tác giả viết -> AI tự động quét lỗi -> Hệ thống lưu nháp -> Đủ 5 chương mới cho phép gửi duyệt -> Admin kiểm tra*. Việc phải liệt kê không thiếu sót bất kỳ một **điều kiện ràng buộc** hay **luồng thay thế** nào trong Activity Diagram là một thử thách lớn, nhưng nó giúp team dev sau này không bị bối rối khi code."
 
-### 2.4. Tùng: Phân quyền & Admin
+### 2.4. Tùng: Quản lý Tài khoản, Phân quyền & Quản trị Admin
 **Tùng:**
-"Em đảm nhận phần Account, Phân quyền và Admin. **Khó khăn lớn nhất** của em là **xử lý độ phức tạp của việc phân quyền và bảo mật**. Em đã tốn rất nhiều thời gian để rà soát và xây dựng **Bảng Phân Quyền (Permission Matrix)** sao cho không bị xung đột giữa 5 nhóm đối tượng (Guest, Reader, Author, Admin, AI). Bên cạnh đó, việc phải mô tả quy trình cấp phát Token (Access/Refresh Token) qua OAuth 2.0 bằng sơ đồ luồng cũng rất khó khăn vì đòi hỏi sự chính xác tuyệt đối về mặt kỹ thuật."
+"Dạ phần công việc được giao của em trong tài liệu tập trung vào các mảng chính sau:
+*   **Thứ nhất:** Viết phần Tổng quan tài liệu, xác định rõ Mục đích và Phạm vi của dự án.
+*   **Thứ hai:** Đặc tả module Quản lý Tài khoản (Account Management) và phân tích các yêu cầu hỗ trợ hạ tầng bảo mật.
+*   **Thứ ba:** Thực hiện phân tích module Quản trị (Admin Dashboard), bao gồm việc thiết lập Bảng ma trận phân quyền (Permission Matrix) và thiết kế luồng xử lý hàng đợi kiểm duyệt (Moderation Queue) khi AI báo cáo vi phạm.
+
+Trong quá trình phân tích, **khó khăn lớn nhất** của em là **đảm bảo tính toàn vẹn trong hệ thống Phân quyền và Bảo mật**. Khác với các ứng dụng nhỏ, kiến trúc Microservices của Ephurin khiến việc cấp quyền trở nên rất phức tạp. Em đã phải rà soát rất kỹ **Bảng Phân Quyền (Permission Matrix)** nhằm tránh xung đột giữa 5 nhóm đối tượng (Guest, Reader, Author, Admin, AI) trên hàng loạt tài nguyên. Chỉ cần sai sót nhỏ là hệ thống sẽ có lỗ hổng lớn. Ngoài ra, việc dùng sơ đồ để đặc tả chuẩn xác luồng cấp phát Token (Access/Refresh Token) qua OAuth 2.0 cũng đòi hỏi kỹ thuật phân tích rất khắt khe.
+
+Từ những khó khăn đó, em đề xuất một vài **ý tưởng cải tiến cho tương lai**:
+Về cơ chế bảo mật, hệ thống có thể nâng cấp từ phân quyền theo vai trò (RBAC) lên **Phân quyền theo thuộc tính (ABAC)** để quản lý quyền hạn linh hoạt hơn theo ngữ cảnh. Về khâu Quản trị, em dự định thiết kế thêm hệ thống chống gian lận (Anti-fraud) và cơ chế tự động xử lý (Auto-ban) đối với các vi phạm độ tin cậy 100% từ AI, qua đó tự động hóa hoàn toàn quy trình duyệt thay vì chỉ hỗ trợ như hiện tại."
 
 ---
 
