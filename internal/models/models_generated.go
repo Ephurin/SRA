@@ -77,6 +77,18 @@ var generatedModels = []ModelEntry{
 	{Provider: "glm", ID: "glm-5.1", Name: "GLM 5.1", ContextWindow: 202752, MaxTokens: 0, InputCostPer1M: 0.98, OutputCostPer1M: 3.08, CacheReadCostPer1M: 0.182, CacheWriteCostPer1M: 0},
 	{Provider: "glm", ID: "glm-5v-turbo", Name: "GLM 5V Turbo", ContextWindow: 202752, MaxTokens: 131072, InputCostPer1M: 1.2, OutputCostPer1M: 4.0, CacheReadCostPer1M: 0.24, CacheWriteCostPer1M: 0},
 
+	// groq
+	{Provider: "qwen", ID: "qwen3.6-27b", Name: "Qwen 3.6 27B", ContextWindow: 131072, MaxTokens: 8192},
+	{Provider: "qwen", ID: "qwen/qwen3.6-27b", Name: "Qwen 3.6 27B", ContextWindow: 131072, MaxTokens: 8192},
+	{Provider: "groq", ID: "qwen3.6-27b", Name: "Qwen 3.6 27B", ContextWindow: 131072, MaxTokens: 8192},
+	{Provider: "groq", ID: "qwen/qwen3.6-27b", Name: "Qwen 3.6 27B", ContextWindow: 131072, MaxTokens: 8192},
+	{Provider: "openai", ID: "gpt-oss-120b", Name: "GPT-OSS 120B", ContextWindow: 131072, MaxTokens: 8192},
+	{Provider: "openai", ID: "openai/gpt-oss-120b", Name: "GPT-OSS 120B", ContextWindow: 131072, MaxTokens: 8192},
+	{Provider: "groq", ID: "gpt-oss-120b", Name: "GPT-OSS 120B", ContextWindow: 131072, MaxTokens: 8192},
+	{Provider: "groq", ID: "openai/gpt-oss-120b", Name: "GPT-OSS 120B", ContextWindow: 131072, MaxTokens: 8192},
+	{Provider: "groq", ID: "compound", Name: "Groq Compound", ContextWindow: 131072, MaxTokens: 8192},
+	{Provider: "groq", ID: "groq/compound", Name: "Groq Compound", ContextWindow: 131072, MaxTokens: 8192},
+
 	// grok
 	{Provider: "grok", ID: "grok-4.20", Name: "Grok 4.20", ContextWindow: 2000000, MaxTokens: 0, InputCostPer1M: 1.25, OutputCostPer1M: 2.5, CacheReadCostPer1M: 0.2, CacheWriteCostPer1M: 0},
 	{Provider: "grok", ID: "grok-4.20-multi-agent", Name: "Grok 4.20 Multi-Agent", ContextWindow: 2000000, MaxTokens: 0, InputCostPer1M: 2.0, OutputCostPer1M: 6.0, CacheReadCostPer1M: 0.2, CacheWriteCostPer1M: 0},

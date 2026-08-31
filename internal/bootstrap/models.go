@@ -258,6 +258,22 @@ func NewModelSet(cfg Config) (*ModelSet, error) {
 	return ms, nil
 }
 
+// maxTokensEnforcingModel đảm bảo mọi yêu cầu gửi đến LLM không vượt quá maxTokens an toàn (ví dụ 8192 cho Groq).
+type maxTokensEnforcingModel struct {
+	agentcore.ChatModel
+	maxTokens int
+}
+
+func (m *maxTokensEnforcingModel) Generate(ctx context.Context, messages []agentcore.Message, tools []agentcore.ToolSpec, opts ...agentcore.CallOption) (*agentcore.LLMResponse, error) {
+	opts = append(opts, agentcore.WithMaxTokens(m.maxTokens))
+	return m.ChatModel.Generate(ctx, messages, tools, opts...)
+}
+
+func (m *maxTokensEnforcingModel) GenerateStream(ctx context.Context, messages []agentcore.Message, tools []agentcore.ToolSpec, opts ...agentcore.CallOption) (<-chan agentcore.StreamEvent, error) {
+	opts = append(opts, agentcore.WithMaxTokens(m.maxTokens))
+	return m.ChatModel.GenerateStream(ctx, messages, tools, opts...)
+}
+
 // createModelFromConfig tạo hoặc tái sử dụng instance ChatModel.
 func createModelFromConfig(providerKey, model string, pc ProviderConfig, cache map[string]agentcore.ChatModel) (agentcore.ChatModel, error) {
 	cacheKey := providerKey + "|" + model
@@ -270,7 +286,7 @@ func createModelFromConfig(providerKey, model string, pc ProviderConfig, cache m
 		return nil, fmt.Errorf("phân tích kiểu nhà cung cấp thất bại: %w", err)
 	}
 
-	m, err := llm.NewModel(providerType, model,
+	rawModel, err := llm.NewModel(providerType, model,
 		llm.WithAPIKey(pc.APIKey),
 		llm.WithBaseURL(pc.BaseURL),
 		llm.WithStreamIdleTimeout(streamIdleTimeout),
@@ -280,6 +296,12 @@ func createModelFromConfig(providerKey, model string, pc ProviderConfig, cache m
 	if err != nil {
 		return nil, fmt.Errorf("provider %s (%s): %w: %w", providerKey, providerType, errs.ErrProvider, err)
 	}
+
+	var m agentcore.ChatModel = rawModel
+	if strings.Contains(strings.ToLower(providerKey), "groq") || strings.Contains(strings.ToLower(model), "groq") {
+		m = &maxTokensEnforcingModel{ChatModel: rawModel, maxTokens: 1024}
+	}
+
 	cache[cacheKey] = m
 	return m, nil
 }

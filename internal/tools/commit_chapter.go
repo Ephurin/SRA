@@ -155,9 +155,31 @@ func (t *CommitChapterTool) Execute(_ context.Context, args json.RawMessage) (js
 			return nil, fmt.Errorf("kiểm tra biên giới cung thất bại chapter=%d: %w: %w", a.Chapter, errs.ErrStoreRead, bErr)
 		}
 		if b == nil {
-			return nil, fmt.Errorf(
-				"chương %d nằm ngoài phạm vi đề cương phân lớp: cần expand_arc để mở rộng cung hoặc append_volume để thêm cuốn trước khi viết; nếu toàn bộ sách đã hoàn thành hãy gọi save_foundation type=complete_book: %w",
-				a.Chapter, errs.ErrToolPrecondition)
+			// Tự động sửa chữa khi đề cương phân tầng thiếu Cung chi tiết, tránh bế tắc coordinator
+			volumes, lErr := t.store.Outline.LoadLayeredOutline()
+			if lErr == nil {
+				if len(volumes) == 0 {
+					volumes = []domain.VolumeOutline{{Index: 1, Title: "Tập 1", Theme: "Khởi đầu"}}
+				}
+				if len(volumes[0].Arcs) == 0 {
+					volumes[0].Arcs = []domain.ArcOutline{{Index: 1, Title: "Cung 1", Goal: "Khởi hành", Chapters: []domain.OutlineEntry{}}}
+				}
+				targetCount := a.Chapter
+				if targetCount < 10 {
+					targetCount = 10
+				}
+				existingChCount := len(volumes[0].Arcs[0].Chapters)
+				for i := existingChCount + 1; i <= targetCount; i++ {
+					volumes[0].Arcs[0].Chapters = append(volumes[0].Arcs[0].Chapters, domain.OutlineEntry{
+						Chapter: i,
+						Title:   fmt.Sprintf("Chương %d", i),
+					})
+				}
+				_ = t.store.Outline.SaveLayeredOutline(volumes)
+				_ = t.store.Outline.SaveOutline(domain.FlattenOutline(volumes))
+				_ = t.store.Progress.SetTotalChapters(domain.TotalChapters(volumes))
+				b, _ = t.store.Outline.CheckArcBoundary(a.Chapter)
+			}
 		}
 		boundary = b
 	}

@@ -397,6 +397,7 @@ func (s *ProgressStore) ClearPendingRewrites() error {
 
 // ValidateChapterWork kiểm tra xem chương hiện tại có được phép lập kế hoạch hoặc lưu không.
 // Trong luồng trau chuốt/viết lại, chỉ được xử lý các chương có trong PendingRewrites.
+// Trong luồng viết mới (FlowWriting), bắt buộc phải viết tuần tự theo thứ tự tăng dần.
 func (s *ProgressStore) ValidateChapterWork(chapter int) error {
 	p, err := s.Load()
 	if err != nil {
@@ -405,21 +406,34 @@ func (s *ProgressStore) ValidateChapterWork(chapter int) error {
 	if p == nil {
 		return nil
 	}
-	if p.Flow != domain.FlowRewriting && p.Flow != domain.FlowPolishing {
-		return nil
-	}
-	if _, err := normalizePendingRewrites(p.PendingRewrites, p.CompletedChapters); err != nil {
-		return err
-	}
-	if slices.Contains(p.PendingRewrites, chapter) {
-		return nil
+	if p.Flow == domain.FlowRewriting || p.Flow == domain.FlowPolishing {
+		if _, err := normalizePendingRewrites(p.PendingRewrites, p.CompletedChapters); err != nil {
+			return err
+		}
+		if slices.Contains(p.PendingRewrites, chapter) {
+			return nil
+		}
+
+		verb := "viết lại"
+		if p.Flow == domain.FlowPolishing {
+			verb = "trau chuốt"
+		}
+		return fmt.Errorf("chương %d không có trong hàng đợi %s, hàng đợi hiện tại: %v. Hãy xử lý các chương trong hàng đợi trước, rồi mới sang chương mới: %w", chapter, verb, p.PendingRewrites, errs.ErrToolConflict)
 	}
 
-	verb := "viết lại"
-	if p.Flow == domain.FlowPolishing {
-		verb = "trau chuốt"
+	// Luồng viết mới (FlowWriting): Bắt buộc kiểm tra tính tuần tự nghiêm ngặt
+	maxCompleted := 0
+	for _, c := range p.CompletedChapters {
+		if c > maxCompleted {
+			maxCompleted = c
+		}
 	}
-	return fmt.Errorf("chương %d không có trong hàng đợi %s, hàng đợi hiện tại: %v. Hãy xử lý các chương trong hàng đợi trước, rồi mới sang chương mới: %w", chapter, verb, p.PendingRewrites, errs.ErrToolConflict)
+	nextExpected := maxCompleted + 1
+	if chapter != nextExpected && !slices.Contains(p.CompletedChapters, chapter) {
+		return fmt.Errorf("chương %d không hợp lệ: chương tiếp theo bắt buộc phải là Chương %d (tiếp nối chương đã hoàn thành gần nhất %d): %w", chapter, nextExpected, maxCompleted, errs.ErrToolConflict)
+	}
+
+	return nil
 }
 
 func normalizePendingRewrites(chapters, completed []int) ([]int, error) {

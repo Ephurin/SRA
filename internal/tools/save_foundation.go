@@ -70,10 +70,20 @@ func (t *SaveFoundationTool) Execute(_ context.Context, args json.RawMessage) (j
 
 	result := map[string]any{"saved": true, "type": a.Type, "scale": a.Scale}
 
-	// Giai đoạn viết cấm ghi đè toàn bộ đề cương, chỉ cho phép thao tác tăng dần (expand_arc / append_volume)
+	// Giai đoạn viết cấm ghi đè toàn bộ đề cương khi đề cương đã hoàn chỉnh, chỉ cho phép thao tác tăng dần (expand_arc / append_volume)
 	if (a.Type == "outline" || a.Type == "layered_outline") && t.isWriting() {
-		return nil, fmt.Errorf(
-			"giai đoạn viết cấm dùng %s để ghi đè toàn bộ đề cương. Hãy dùng expand_arc để mở rộng cung truyện khung xương, hoặc append_volume để thêm tập mới: %w", a.Type, errs.ErrToolPrecondition)
+		existingVols, _ := t.store.Outline.LoadLayeredOutline()
+		hasExpandedArcs := false
+		for _, v := range existingVols {
+			if len(v.Arcs) > 0 {
+				hasExpandedArcs = true
+				break
+			}
+		}
+		if hasExpandedArcs {
+			return nil, fmt.Errorf(
+				"giai đoạn viết cấm dùng %s để ghi đè toàn bộ đề cương. Hãy dùng expand_arc để mở rộng cung truyện khung xương, hoặc append_volume để thêm tập mới: %w", a.Type, errs.ErrToolPrecondition)
+		}
 	}
 
 	decode := func(typeName string, out any) error {
