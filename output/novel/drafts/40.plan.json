@@ -1,0 +1,33 @@
+{
+  "chapter": 40,
+  "title": "Trạm tiếp tế ngầm",
+  "goal": "Tìm nơi trú ẩn an toàn, sơ cứu và khám phá manh mối tại trạm tiếp tế ngầm.",
+  "conflict": "Sự kiệt sức của Kael sau trận chiến và việc hé lộ bí mật đen tối của Helios qua đoạn video cũ.",
+  "hook": "Trên màn hình máy tính cổ điển tại trạm, một đoạn video ghi hình cũ hé lộ mối liên hệ giữa người sáng lập Helios và di tích sa mạc.",
+  "emotion_arc": "Từ trạng thái cảnh giác cao độ chuyển sang lo âu, bàng hoàng khi xem đoạn video.",
+  "notes": "Giữ bầu không khí u ám, lạnh lẽo, tĩnh mịch của trạm tiếp tế ngầm bị bỏ hoang.",
+  "contract": {
+    "required_beats": [
+      "Sơ cứu vết thương cho Kael.",
+      "Khám phá trạm tiếp tế ngầm.",
+      "Tìm thấy đoạn video cũ trong máy tính.",
+      "Xem đoạn video và phản ứng của nhân vật."
+    ],
+    "forbidden_moves": [
+      "Kael bình phục hoàn toàn ngay lập tức.",
+      "Video hé lộ mọi bí mật của Helios một cách quá dễ hiểu."
+    ],
+    "continuity_checks": [
+      "Kael bị thương ở bắp tay trái từ chương 38-39.",
+      "Hệ thống trinh sát Helios bị tê liệt do xung điện ở cuối chương 39.",
+      "Kaela sở hữu phiến đá mật mã và kiến thức cổ ngữ."
+    ],
+    "evaluation_focus": [
+      "Mô tả cảm giác vật lý của Kael khi bị thương.",
+      "Đối thoại giữa Kael và Kaela trong không gian hầm ngầm.",
+      "Cảm xúc khi xem đoạn video cổ."
+    ],
+    "emotion_target": "Căng thẳng và bàng hoàng.",
+    "hook_goal": "Tạo sự kinh ngạc về nguồn gốc thực sự của Helios."
+  }
+}

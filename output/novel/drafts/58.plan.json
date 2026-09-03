@@ -1,0 +1,27 @@
+{
+  "chapter": 58,
+  "title": "Phá rào chắn biên phòng",
+  "goal": "Phá vỡ trạm gác biên phòng Helios bằng bạo lực và thoát khỏi sự truy đuổi ban đầu của thiết bị tự hủy.",
+  "conflict": "Trạm kiểm soát Helios từ chối xác thực; Kael phải tông xe phá rào chắn dưới làn đạn và sự truy đuổi của máy bay không người lái.",
+  "hook": "Thiết bị phát tín hiệu trên xe bị kích hoạt chế độ tự hủy, thu hút toàn bộ phi đội máy bay không người lái truy đuổi sát gót.",
+  "emotion_arc": "Từ căng thẳng ngột ngạt chuyển sang bùng nổ xung đột bạo lực và tẩu tốc độ cao.",
+  "contract": {
+    "required_beats": [
+      "Hệ thống từ chối xác thực và tiếng báo động đỏ vang lên.",
+      "Kael đạp ga tông thẳng qua cổng chắn bằng thép hợp kim.",
+      "Làn đạn laser và sự xuất hiện của cảnh sát cơ giới Helios.",
+      "Pha né tránh ngoạn mục trên đoạn đường cao tốc gợn sóng và kích hoạt tự hủy của thiết bị phát tín hiệu."
+    ],
+    "forbidden_moves": [
+      "Không dùng các cụm từ sáo rỗng như 'thời gian như ngừng trôi', 'có thể thấy rằng'."
+    ],
+    "continuity_checks": [
+      "Kiểm tra sự nhất quán về vết thương tay phải của Kael (đã nhắc ở chương 57: đau nhức do siết vô lăng).",
+      "Đảm bảo không sử dụng các từ cấm hoặc sáo ngữ AI (tựa như, dường như, v.v.)."
+    ],
+    "evaluation_focus": [
+      "Mô tả cận cảnh hành động lái xe, phản ứng vật lý của cơ thể Kael và Kaela, nhịp điệu dồn dập của trận đột phá."
+    ],
+    "emotion_target": "Cảm giác nghẹt thở, hồi hộp từng giây khi chiếc xe gầm rú phá vỡ vòng vây."
+  }
+}

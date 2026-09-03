@@ -1,0 +1,64 @@
+{
+  "chapter": 32,
+  "scope": "arc",
+  "issues": [
+    {
+      "type": "pacing",
+      "severity": "warning",
+      "description": "Mặc dù nội dung rất tốt, cần đảm bảo duy trì sự nhất quán về độ dài chương trong các chương tiếp theo để không bị quá tải so với kế hoạch.",
+      "evidence": "Chương hiện tại có độ dài lớn, cần kiểm soát để tránh ảnh hưởng đến tiến độ tổng thể của cung truyện.",
+      "suggestion": "Tiếp tục duy trì chất lượng nhưng chú ý phân bổ tình tiết vừa đủ cho mỗi chương."
+    }
+  ],
+  "dimensions": [
+    {
+      "dimension": "consistency",
+      "score": 92,
+      "verdict": "pass",
+      "comment": "Thiết lập nhất quán với các chương trước, đặc biệt là các ràng buộc về năng lực của Kael và công nghệ của Helios."
+    },
+    {
+      "dimension": "character",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Tính cách Kael và Kaela được thể hiện rõ qua hành động và phản ứng trước áp lực, đúng với thiết lập."
+    },
+    {
+      "dimension": "pacing",
+      "score": 88,
+      "verdict": "pass",
+      "comment": "Nhịp điệu bám sát cung truyện, chuyển cảnh từ hành động sang sự nguy hiểm tiềm tàng rất hợp lý."
+    },
+    {
+      "dimension": "continuity",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Chuyển cảnh giữa các khu vực của thành phố ngầm tự nhiên, logic nhân quả thông suốt."
+    },
+    {
+      "dimension": "foreshadow",
+      "score": 95,
+      "verdict": "pass",
+      "comment": "Phục bút về sự truy đuổi của Valerius được phát triển tốt, dẫn đến hook cuối chương rất hiệu quả."
+    },
+    {
+      "dimension": "hook",
+      "score": 95,
+      "verdict": "pass",
+      "comment": "Điểm móc câu cuối chương về việc căn khoang đã bị phục kích tạo sức hút mạnh mẽ."
+    },
+    {
+      "dimension": "aesthetic",
+      "score": 92,
+      "verdict": "pass",
+      "comment": "Văn phong miêu tả trực quan, tránh sáo ngữ AI, sử dụng tốt các giác quan để tăng độ đắm chìm. Trích dẫn: 'Hơi nóng phả ra từ các đường ống xả công nghiệp đặc quánh mùi lưu huỳnh và dầu mỏ chưa tinh chế.'"
+    }
+  ],
+  "contract_status": "met",
+  "contract_notes": "Chương hoàn thành tốt các mục tiêu về hành động và tạo dựng bầu không khí căng thẳng. Tuy nhiên, cần chú ý độ dài chương theo yêu cầu (tối thiểu 2000 từ). Chương hiện tại chỉ có 7373 từ (thông báo hệ thống cho thấy đây là nội dung chương, cần kiểm tra lại quy tắc đếm từ, có vẻ như chương này đã vượt xa yêu cầu tối thiểu). Nội dung đạt yêu cầu về thẩm mỹ và nhịp điệu.",
+  "verdict": "accept",
+  "summary": "Cung truyện đang diễn ra đúng tiến độ, mục tiêu của Kael và Kaela trong việc thâm nhập thành phố ngầm đã đạt được nhưng tình thế trở nên nguy hiểm hơn khi rơi vào bẫy của Valerius. Nhân vật được xây dựng nhất quán, phục bút hiệu quả. Cung truyện tiếp theo cần tập trung vào cuộc đối đầu trực diện trong căn khoang bị phục kích.",
+  "affected_chapters": [
+    32
+  ]
+}

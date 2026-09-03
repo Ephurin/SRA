@@ -1,0 +1,32 @@
+{
+  "chapter": 75,
+  "title": "Hẻm tối tầng đáy",
+  "goal": "Đưa Kael và Kaela vào được khu dân cư nghèo tầng đáy thành phố mà không bị Helios bắt giữ.",
+  "conflict": "Kaela cần hack hệ thống an ninh thành phố trong khi bị phi đội Helios bao vây, đồng thời phải tránh sự chú ý của các băng đảng địa phương tại tầng đáy nghèo nàn.",
+  "hook": "Một thủ lĩnh băng đảng địa phương, kẻ nắm quyền kiểm soát khu hẻm, trực tiếp chặn đường họ.",
+  "emotion_arc": "Từ căng thẳng cực độ khi đối mặt với an ninh thành phố đến sự đề phòng, cảnh giác khi thâm nhập vào khu vực băng đảng tầng đáy.",
+  "notes": "Tập trung vào bầu không khí của thành phố trôi nổi, nhấn mạnh vào sự rỉ sét, mùi dầu máy và ánh đèn neon lờ mờ.",
+  "contract": {
+    "required_beats": [
+      "Kaela thao tác hack cổng vào dưới áp lực của máy bay an ninh.",
+      "Hai người trốn thoát thành công vào mê cung hẻm rỉ sét.",
+      "Cảm nhận về sự nguy hiểm và ánh mắt dò xét từ những kẻ sống dưới đáy xã hội."
+    ],
+    "forbidden_moves": [
+      "Kael không được sử dụng Gia tốc nhận thức trong chương này (đang quá tải).",
+      "Không được giải thích chi tiết quá trình hack của Kaela bằng thuật ngữ máy tính hiện đại."
+    ],
+    "continuity_checks": [
+      "Kael đang bị thương nhẹ và kiệt sức sau trận chiến với Valerius.",
+      "Kaela có thiết bị đo lường năng lượng nhưng đã hư hại một phần sau vụ nổ.",
+      "Thành phố trôi nổi có cấu trúc lộn ngược, tầng đáy là nơi tập trung rác thải và dân cư nghèo."
+    ],
+    "evaluation_focus": [
+      "Mô tả sự tương phản giữa vẻ hào nhoáng của tầng thượng và sự rỉ sét của tầng đáy.",
+      "Sự phối hợp giữa Kael (cảnh giác) và Kaela (hack hệ thống).",
+      "Sự xuất hiện của băng đảng địa phương phải tự nhiên, không lộ liễu."
+    ],
+    "emotion_target": "Cảm giác ngột ngạt, nguy hiểm rình rập ở nơi không thể tin tưởng bất kỳ ai.",
+    "hook_goal": "Tạo ra một tình thế bị kẹt giữa sự truy đuổi của Helios bên trên và sự uy hiếp của băng đảng bên dưới."
+  }
+}

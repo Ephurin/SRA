@@ -1,0 +1,143 @@
+# Dòng thời gian
+
+- **Chương 1 [Ngày đầu tiên thám hiểm vành đai sa mạc]**：Kael và Kaela chạm trán bọ cạp cơ khí trong bão cát Sahara và phát hiện lối vào hầm ngầm.
+- **Chương 2 [Ngay sau chương 1]**：Tiến vào hành lang ngầm của tàn tích cổ đại.（Kael、Kaela）
+- **Chương 3 [Ngày đầu tiên thám hiểm tàn tích ngầm]**：Kael và Kaela tiêu diệt các đơn vị tự động hóa trong phòng điều khiển ngầm và phát hiện ký hiệu Helios.
+- **Chương 4 [Ngày đầu tiên thám hiểm tàn tích ngầm]**：Hội ngộ Alistair trong trạm quan sát ngầm và nhận phiến đá cổ.（Kael、Kaela、Alistair）
+- **Chương 5 [Ngay sau khi Alistair hy sinh]**：Kích hoạt phiến đá cổ và hệ thống báo động tàn tích.（Kael、Kaela）
+- **Chương 6 [Ngày đầu tiên thám hiểm - Sự kiện bao vây tàn tích]**：Lực lượng Helios bao vây trạm quan sát và Kael đơn độc nghênh chiến.
+- **Chương 7 [Ngày đầu tiên thám hiểm - Giai đoạn giao tranh tàn tích]**：Kael tiêu diệt tiểu đội lính đánh thuê Helios tại hẻm núi đá ngầm và rút lui vào đường hầm.（Kael）
+- **Chương 8 [Ngày đầu tiên thám hiểm - Giai đoạn chạy trốn tầng ngầm]**：Hội quân trong hầm mỏ tinh thể cổ và đối mặt với dị biến năng lượng do Helios gây ra.（Kael、Kaela、Alistair）
+- **Chương 9 [Ngày đầu tiên thám hiểm - Giai đoạn tiến vào phòng lõi]**：Kael hội quân cùng Kaela tại hành lang phòng lõi ngầm dưới tàn tích Sahara.（Kael、Kaela）
+- **Chương 9 [Ngày đầu tiên thám hiểm - Giai đoạn giao tranh hành lang]**：Valerius và lực lượng đặc nhiệm Helios bao vây, giao chiến trực diện với Kael.（Kael、Valerius）
+- **Chương 9 [Ngày đầu tiên thám hiểm - Sự kiện mở cửa phòng lõi]**：Kaela bẻ khóa thành công cơ chế cánh cửa phòng lõi đúng thời điểm then chốt.（Kaela）
+- **Chương 10 [Ngày đầu tiên thám hiểm - Sự kiện đột phá phòng lõi]**：Kael và Kaela tiến vào phòng lõi chứa hồ Mana nguyên thủy; Valerius xuất hiện bao vây và khai hỏa tấn công.（Kael、Kaela、Valerius）
+- **Chương 11 [Ngày đầu tiên thám hiểm - Sự kiện tẩu thoát khỏi phòng lõi]**：Kael và Kaela tẩu thoát khỏi phòng lõi ngầm tàn tích Sahara nhờ xung kích năng lượng.
+- **Chương 11 [Ngày đầu tiên thám hiểm - Giai đoạn di chuyển biên giới]**：Cả hai di chuyển qua vành đai sa mạc đến Trạm kiểm soát biên giới số Bốn của tập đoàn Helios.
+- **Chương 11 [Ngày đầu tiên thám hiểm - Sự kiện kích hoạt báo động biên giới]**：Hệ thống kiểm soát biên giới phát tín hiệu báo động đỏ do phát hiện cộng hưởng năng lượng cổ đại.
+- **Chương 12 [Ngày thứ hai sau khi thoát khỏi tàn tích Sahara]**：Đến thị trấn Oakhaven và ẩn náu trong tiệm sửa chữa cơ khí.（Kael、Kaela）
+- **Chương 12 [Ngày thứ hai sau khi thoát khỏi tàn tích Sahara]**：Bị quân đội Helios bao vây tại thị trấn chợ đen.（Kael、Kaela、Lão thợ máy、Kẻ thông tin）
+- **Chương 13 [Đêm thứ hai sau khi thoát khỏi tàn tích Sahara]**：Quán trọ Lồng Sắt bị lính Helios tập kích ban đêm.（Kael、Kaela）
+- **Chương 13 [Đêm thứ hai sau khi thoát khỏi tàn tích Sahara]**：Phá vòng vây, tẩu thoát khỏi quán trọ qua cửa sổ tầng hai trước khi vụ nổ từ trường xảy ra.（Kael、Kaela）
+- **Chương 13 [Đêm thứ hai sau khi thoát khỏi tàn tích Sahara]**：Chạm trán thực thể bí ẩn trong con hẻm tối sau khi chạy trốn.（Kael、Kaela）
+- **Chương 14 [Ngày thứ hai - Sáng sớm]**：Kael và Kaela cướp xe tải bọc thép Helios tại bãi hậu cần Oakhaven.
+- **Chương 14 [Ngày thứ hai - Buổi trưa]**：Hệ thống định vị bị Helios phát hiện; trạm kiểm soát cơ giới chặn đường cao tốc.
+- **Chương 14 [Ngày thứ hai - Buổi trưa]**：Kael kích hoạt Gia tốc nhận thức điều khiển xe tải tông qua rào chắn kiểm soát.
+- **Chương 15 [Ngày thứ hai - Buổi trưa]**：Kael giao chiến trên mui xe tải với phi đội máy bay không người lái Helios trên cao tốc sa mạc.（Kael、Kaela）
+- **Chương 16 [Ngày thứ hai - Buổi chiều]**：Xe tải bọc thép phát nổ do chế độ tự hủy; Kael và Kaela trốn vào rừng công nghiệp sương mù.（Kael、Kaela）
+- **Chương 17 [Ngày thứ hai - Buổi chiều muộn]**：Giao chiến với người máy tàng hình của Helios trong rừng công nghiệp và phát hiện lối vào trạm ngầm.（Kael、Kaela）
+- **Chương 18 [Ngày thứ hai sau khi thoát khỏi tàn tích Sahara - Buổi tối]**：Kael đấu tay không với Roland; phát hiện dữ liệu cổ đại.（Kael、Kaela、Roland）
+- **Chương 19 [Ngày thứ hai sau khi thoát khỏi tàn tích Sahara - Đêm muộn]**：Lực lượng Helios tấn công và bao vây trạm ngầm của phe kháng chiến.
+- **Chương 19 [Ngày thứ hai sau khi thoát khỏi tàn tích Sahara - Đêm muộn]**：Kael đẩy lùi đợt tấn công đầu tiên trong hành lang hẹp bằng Gia tốc nhận thức.
+- **Chương 19 [Ngày thứ hai sau khi thoát khỏi tàn tích Sahara - Đêm muộn]**：Valerius phát tối hậu thư qua màn hình CRT yêu cầu giao nộp phiến đá cổ trong mười phút.
+- **Chương 20 [Đêm muộn ngày thứ hai sau khi thoát khỏi tàn tích Sahara]**：Kael tạo nổ sập hầm ngầm, chặn đứng sự truy đuổi của Valerius.（Kael、Kaela、Valerius）
+- **Chương 20 [Đêm muộn ngày thứ hai sau khi thoát khỏi tàn tích Sahara]**：Nhóm Kael và Kaela tiến vào thành phố ngầm cổ đại.（Kael、Kaela）
+- **Chương 21 [Ngay sau khi rời khỏi trạm ngầm bị sập]**：Đặt chân đến thành phố ngầm trôi nổi Aethelgard và bị sát thủ địa phương bám đuôi.（Kael、Kaela）
+- **Chương 21 [Đêm thứ hai tại Aethelgard]**：Kael hạ gục sát thủ liên minh tầng dưới trong hẻm ngầm và nhận cảnh báo qua bộ đàm từ Valerius.（Kael、Kaela）
+- **Chương 22 [Ngày thứ hai tại thành phố ngầm Aethelgard]**：Kael và Kaela gặp gỡ Logan tại căn cứ ngầm để trao đổi vật phẩm lấy Mana lỏng.（Kael、Kaela、Logan）
+- **Chương 23 [Ngày thứ hai tại thành phố ngầm Aethelgard - Đêm]**：Giao dịch thông tin tuyến vận chuyển tại sòng bạc neon ngầm và đụng độ lính Helios.（Kael、Kaela、Orson）
+- **Chương 24 [Ngày thứ hai tại thành phố ngầm Aethelgard - Đêm muộn]**：Lính đánh thuê Helios tập kích phòng trọ ngầm của Kael và Kaela.
+- **Chương 25 [Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard]**：Cướp xe tải Helios và di chuyển qua các tầng ngầm Aethelgard.（Kael、Kaela）
+- **Chương 25 [Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard]**：Tiến sát trạm kiểm soát số bảy của tập đoàn Helios.（Kael、Kaela）
+- **Chương 26 [Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard]**：Phá vỡ rào chắn biên phòng Helios và bỏ xe tháo chạy dưới sự truy đuổi của máy bay không người lái.（Kael、Kaela）
+- **Chương 27 [Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard]**：Tẩu thoát khỏi khu vực xe tải bị nổ và xâm nhập vào hệ thống thông gió công nghiệp.（Kael、Kaela）
+- **Chương 28 [Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard]**：Đụng độ robot tàng hình Helios trong hệ thống ống thông gió ngầm.（Kael、Kaela）
+- **Chương 29 [Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard]**：Xâm nhập trạm tiếp tế ngầm và phát hiện dữ liệu quan trọng về Helios.（Kael、Kaela）
+- **Chương 30 [Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard]**：Trạm tiếp tế sụp đổ, Kael và Kaela tẩu thoát xuống thành phố ngầm.（Kael、Kaela、Valerius）
+- **Chương 31 [Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard]**：Hạ xuống thành phố ngầm Aethelgard.（Kael、Kaela）
+- **Chương 32 [Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard]**：Trốn chạy và đột nhập thành công vào khoang chứa ngầm dưới thành phố.（Kael、Kaela）
+- **Chương 33 [Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard]**：Phát hiện bẫy trong khoang ngầm và tẩu thoát qua hệ thống thông gió.（Kael、Kaela）
+- **Chương 34 [Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard]**：Lẩn trốn vào thị trấn chợ đen và chạm trán kẻ thông tin bí ẩn.（Kael、Kaela）
+- **Chương 35 [Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard]**：Giao tranh tại quán trọ ngầm trong thị trấn biên mậu.（Kael、Kaela、Gã lính đánh thuê thứ nhất、Gã lính đánh thuê thứ hai）
+- **Chương 36 [Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard]**：Cướp xe tải Helios và di chuyển qua con đường cao tốc bỏ hoang tới trạm kiểm soát thứ hai.（Kael、Kaela）
+- **Chương 37 [Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard]**：Phá rào chắn biên phòng và bị phi đội máy bay Helios truy đuổi.（Kael、Kaela）
+- **Chương 38 [Đêm muộn ngày thứ hai tại khu vực công nghiệp Helios]**：Chạy trốn vào rừng công nghiệp sương mù sau khi xe tải bị phá hủy.（Kael、Kaela）
+- **Chương 39 [Đêm muộn ngày thứ hai tại khu vực công nghiệp Helios]**：Kael tiêu diệt người máy tàng hình và phá hủy hệ thống trinh sát của Helios trong khu vực.（Kael、Kaela）
+- **Chương 40 [Đêm muộn ngày thứ hai tại khu vực công nghiệp Helios]**：Tìm thấy trạm tiếp tế ngầm và phát hiện bí mật của Helios.（Kael、Kaela）
+- **Chương 41 [Đêm muộn ngày thứ hai tại khu vực công nghiệp Helios]**：Valerius bao vây trạm tiếp tế ngầm và đưa ra tối hậu thư mười phút cho Kael.（Kael、Kaela、Valerius）
+- **Chương 42 [Đêm muộn ngày thứ hai tại khu vực công nghiệp Helios]**：Kael và Kaela đào tẩu khỏi trạm tiếp tế ngầm, tiến vào thành phố Aethelgard.（Kael、Kaela、Valerius）
+- **Chương 43 [Đêm muộn ngày thứ hai tại khu vực công nghiệp Helios]**：Kael và Kaela đặt chân đến thung lũng ngầm Aethelgard và đối mặt với mối nguy hiểm từ lòng đất.（Kael、Kaela）
+- **Chương 44 [Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard]**：Trận chiến với nhện thép canh khe núi ngầm.（Kael、Kaela）
+- **Chương 45 [Đêm muộn ngày thứ hai tại Aethelgard]**：Sơ cứu vết thương cho Kael và khám phá bích họa cổ trong hang động ngầm.（Kael、Kaela）
+- **Chương 46 [Đêm muộn ngày thứ hai tại Aethelgard]**：Giải mã bí mật bích họa và phát hiện nhóm thợ săn tiền thưởng Helios.（Kael、Kaela）
+- **Chương 47 [Đêm muộn ngày thứ hai tại thung lũng ngầm Aethelgard]**：Kael tiêu diệt nhóm thợ săn tiền thưởng và thu giữ thiết bị liên lạc của Helios.（Kael、Kaela）
+- **Chương 48 [Mười lăm phút trước khi cỗ máy khoan hoàn tất việc hút lõi Mana.]**：Kael và Kaela xâm nhập vào khu vực công trường khoan của Helios.（Kael、Kaela）
+- **Chương 49 [Mười phút trước khi cỗ máy khoan hoàn tất việc hút lõi Mana]**：Kael và Kaela di chuyển qua hầm mỏ và kích hoạt nhầm hệ thống báo động tinh thể.（Kael、Kaela）
+- **Chương 50 [Mười phút trước khi cỗ máy khoan hoàn tất việc hút lõi Mana]**：Kael và Kaela tiêu diệt tiểu đội Helios tại trạm van điều tiết.（Kael、Kaela）
+- **Chương 51 [Bốn phút trước khi cỗ máy khoan chạm đến hồ lõi Mana]**：Kael và Kaela tiếp cận công trường khoan ngầm và rơi vào ổ phục kích của Đại tá Valerius.（Kael、Kaela、Valerius）
+- **Chương 52 [Thời điểm lõi Mana bị khoan thủng.]**：Kael tấn công Valerius và cỗ máy khoan kích hoạt phát súng cuối cùng vào lõi Mana.（Kael、Kaela、Valerius）
+- **Chương 53 [Ngay sau thời điểm lõi Mana bị khoan thủng.]**：Vụ nổ lõi Mana đưa tất cả vào không gian cộng hưởng.（Kael、Kaela、Valerius）
+- **Chương 54 [Ngay sau vụ nổ lõi Mana]**：Thoát khỏi không gian cộng hưởng và tiếp cận trạm kiểm soát biên giới.（Kael、Kaela）
+- **Chương 55 [Ngay sau chương 54]**：Trốn thoát khỏi trạm kiểm soát biên giới Helios.（Kael、Kaela）
+- **Chương 55 [Vài giờ sau khi thoát khỏi biên giới]**：Gặp gỡ gã thông tin tại Chợ Đen Tầng Sáu.（Kael、Kaela、Gã thông tin）
+- **Chương 56 [Đêm muộn tại Chợ Đen Tầng Sáu]**：Lính đánh thuê Helios tập kích quán trọ Cánh Quạ Sắt.
+- **Chương 56 [Ngay sau trận tập kích]**：Kael tiêu diệt nhóm lính đánh thuê và phát hiện thiết bị định vị bị kích hoạt.
+- **Chương 57 [Đêm muộn sau vụ tập kích quán trọ]**：Cướp xe tải Helios và di chuyển qua đường cao tốc bỏ hoang.（Kael、Kaela）
+- **Chương 57 [Gần sáng]**：Tiến sát trạm kiểm soát thứ hai của tập đoàn Helios và đối mặt với yêu cầu xác thực sinhometric.（Kael、Kaela）
+- **Chương 58 [Rạng sáng sau đêm trốn chạy từ chợ đen]**：Kael tông xe phá vỡ trạm kiểm soát biên phòng thứ hai của tập đoàn Helios và trốn chạy khỏi sự truy đuổi của máy bay không người lái.（Kael、Kaela）
+- **Chương 59 [Ngay sau khi xe tải phát nổ ở chương 58]**：Kael và Kaela bỏ xe tải và chạy vào rừng công nghiệp nhân tạo.（Kael、Kaela）
+- **Chương 60 [Rạng sáng sau cuộc trốn chạy]**：Đụng độ và tiêu diệt người máy tàng hình Helios trong rừng công nghiệp nhân tạo.（Kael、Kaela）
+- **Chương 61 [Rạng sáng sau cuộc trốn chạy khỏi khu công nghiệp]**：Thâm nhập trạm tiếp tế ngầm, sơ cứu vết thương và xem đoạn video ghi hình cũ về người sáng lập Helios.（Kael、Kaela）
+- **Chương 62 [Rạng sáng tại trạm tiếp tế ngầm]**：Valerius bao vây trạm tiếp tế ngầm và phát tối hậu thư mười phút qua màn hình giám sát.（Kael、Kaela、Valerius）
+- **Chương 63 [Rạng sáng tại trạm tiếp tế ngầm]**：Kael và Kaela kích hoạt thuốc nổ trốn thoát khỏi vòng vây của Valerius bằng thang máy khẩn cấp xuống thành phố ngầm.（Kael、Kaela、Valerius）
+- **Chương 64 [Ngay sau khi trốn chạy khỏi trạm tiếp tế ngầm]**：Kael và Kaela bước ra khỏi thang máy khẩn cấp, thám hiểm thung lũng mạch ngầm Aethelgard.（Kael、Kaela）
+- **Chương 64 [Sau khi di chuyển ba dặm qua thung lũng ngầm]**：Phát hiện sinh vật canh gác khổng lồ ẩn giấu trong khe núi ngầm.（Kael、Kaela）
+- **Chương 65 [Ngay sau khi thám hiểm thung lũng ngầm]**：Giao chiến với cỗ máy nhện thép cổ đại tại khe núi ngầm Aethelgard.（Kael、Kaela）
+- **Chương 66 [Ngay sau trận chiến với cỗ máy nhện thép trong thung lũng ngầm]**：Kael và Kaela trú ẩn trong hang động ngầm, sơ cứu vết thương và khám phá bích họa cổ.
+- **Chương 67 [Ngay sau khi băng bó xong vết thương]**：Kaela giải mã thành công ký ức sống của mạch Mana và hang động bắt đầu biến đổi.（Kael、Kaela）
+- **Chương 67 [Ngay sau khi Kael và Kaela rút lui vào đường hầm]**：Nhóm thợ săn Helios xuất hiện tại hang động và bắt đầu truy quét.（Kael、Kaela、Đội trưởng thợ săn Helios）
+- **Chương 68 [Ngay sau khi rút lui vào đường hầm hang động ngầm]**：Kael phục kích nhóm thợ săn tiền thưởng Helios trong đường hầm và thu giữ thiết bị liên lạc quân sự.（Kael、Kaela、Đội trưởng thợ săn Helios）
+- **Chương 69 [Ngay sau khi thu giữ thiết bị liên lạc]**：Kael và Kaela lên kế hoạch đột kích công trường khoan của Valerius sau khi nghe đoạn ghi âm.
+- **Chương 69 [Mười phút sau khi rời hang động]**：Đột nhập thành công qua đường ống ngầm và né tránh cảm biến nhiệt của Helios.
+- **Chương 69 [Năm phút trước thời điểm máy khoan đạt điểm tới hạn]**：Kaela hack thành công bảng điều khiển, trong khi Kael giao chiến với quân địch.
+- **Chương 69 [Ngay sau khi máy khoan bị khóa tạm thời]**：Valerius xuất hiện qua đài quan sát và kích hoạt cơ chế tự hủy công trường.
+- **Chương 70 [Ngay sau khi rời công trường khoan tạm thời]**：Vượt qua bãi mìn quang học trong hầm mỏ bỏ hoang.（Kael、Kaela）
+- **Chương 70 [Mười phút sau khi di chuyển trong hầm mỏ]**：Kaela chạm vào chùm tinh thể cộng hưởng làm kích hoạt hệ thống báo động Helios.（Kael、Kaela）
+- **Chương 70 [Ngay sau tiếng chuông báo động]**：Kael đỡ đạn và đưa Kaela ẩn nấp vào khe đá hẹp trước sự truy sát của quân địch.（Kael、Kaela）
+- **Chương 71 [Ngay sau khi tiếng chuông báo động ở chương trước vang lên]**：Trận chiến tại trạm van điều tiết ngầm kết thúc với sự rút lui tạm thời của quân địch.（Kael、Kaela）
+- **Chương 72 [Ngay sau sự kiện tại trạm van điều tiết]**：Kael và Kaela tiếp cận công trường khoan hồ lõi Mana và đối mặt với vòng vây của Valerius.（Kael、Kaela、Valerius）
+- **Chương 73 [Thời điểm Valerius ra lệnh khai hỏa]**：Kael đột phá vòng vây laze của Helios bằng Gia tốc nhận thức.
+- **Chương 73 [Ngay trước khi mũi khoan chạm lõi Mana]**：Kaela kích hoạt hệ thống quá tải phản hồi của cỗ máy khoan.
+- **Chương 73 [Ngay sau pha giáp lá cà trên đài chỉ huy]**：Kael đánh bại Valerius và hồ lõi Mana phát nổ cộng hưởng nuốt chửng toàn bộ công trường.
+- **Chương 74 [Ngay sau vụ nổ cộng hưởng hồ lõi Mana]**：Bước ra khỏi thang máy thoát hiểm và đặt chân đến thành phố trôi nổi Aethelgard Thượng tầng.（Kael、Kaela）
+- **Chương 74 [Mười phút sau khi đến thành phố trôi nổi]**：Bị phi đội máy bay an ninh không người lái của thành phố bao vây tại bệ phóng dịch vụ.（Kael、Kaela）
+- **Chương 75 [Ngay sau sự kiện tại bệ phóng dịch vụ]**：Kaela hack hệ thống an ninh thành phố và mở cửa trốn vào tầng đáy.（Kael、Kaela）
+- **Chương 75 [Mười phút sau khi thâm nhập tầng đáy thành phố]**：Bị băng đảng địa phương chặn đường tại hẻm rỉ sét tầng đáy.（Kael、Kaela）
+- **Chương 76 [Ngay sau sự kiện tại tầng đáy thành phố trôi nổi]**：Kael tiêu diệt băng đảng địa phương và lấy được thẻ ra vào cấp cao.（Kael、Kaela）
+- **Chương 77 [Ngay sau sự kiện tại tầng đáy]**：Thâm nhập tầng trung lưu của thành phố trôi nổi.（Kael、Kaela）
+- **Chương 77 [Mười phút sau khi thâm nhập tầng trung lưu]**：Phát hiện Valerius chiếm đóng tòa tháp trung tâm.（Kael、Kaela）
+- **Chương 77 [Ngay sau khi nghe lệnh của Valerius trên bộ đàm]**：Ẩn nấp vào đường ống kỹ thuật để tránh sự truy lùng của quân đội Helios.（Kael、Kaela）
+- **Chương 78 [Ngay sau khi rời khỏi hệ thống thông gió]**：Thâm nhập thành công vào cửa khẩu kiểm soát tòa tháp trung tâm.（Kael、Kaela）
+- **Chương 78 [Ngay sau khi quét sinh trắc học]**：Bị hệ thống quét an ninh phát hiện danh tính thật của Kael.（Kael、Kaela）
+- **Chương 79 [Ngay sau sự kiện tại chốt kiểm soát (chương 78)]**：Kael và Kaela thâm nhập vào sảnh tòa tháp trung tâm và bị quân đội Helios bao vây.（Kael、Kaela）
+- **Chương 79 [Ngay sau khi Kael hạ gục tiểu đội an ninh trong sảnh tòa tháp]**：Valerius đối đầu trực diện với Kael tại hành lang phòng lõi.（Kael、Valerius）
+- **Chương 80 [Ngay sau trận chiến tại phòng lõi tháp trung tâm]**：Kael phá hủy bộ khuếch đại năng lượng và Valerius kích hoạt cơ chế tự hủy của thành phố.（Kael、Kaela、Valerius）
+- **Chương 81 [Ngay sau sự kiện tại chương 80]**：Kael cầm chân Valerius trong khi Kaela giải mã hệ thống tự hủy.（Kael、Kaela、Valerius）
+- **Chương 82 [Ngay sau sự kiện tại chương 81]**：Kaela vô hiệu hóa thành công hệ thống tự hủy của tháp Aethelgard.（Kael、Kaela、Valerius）
+- **Chương 82 [Ngay sau khi hệ thống tự hủy bị tắt]**：Kael khống chế và tước vũ khí của Đại tá Valerius.（Kael、Valerius）
+- **Chương 82 [Ngay sau khi Valerius bị tước vũ khí]**：Lõi Mana nguyên thủy thức tỉnh, biến đổi toàn bộ kiến trúc thành phố trôi nổi.（Kael、Kaela）
+- **Chương 83 [Ngay sau sự kiện vô hiệu hóa hệ thống tự hủy]**：Kael và Kaela quan sát thành phố Aethelgard tái sinh từ đỉnh tháp.（Kael、Kaela）
+- **Chương 83 [Ngay sau cuộc trò chuyện trên ban công tháp]**：Phát hiện tín hiệu lạ từ tầng sâu dưới lòng đất Aethelgard.（Kael、Kaela）
+- **Chương 84 [Ngay sau khi rời khỏi thang máy khẩn cấp]**：Kael và Kaela rời khỏi thang máy khẩn cấp, bước vào quảng trường trung tâm Aethelgard và nép mình tránh đội tuần tra Helios.（Kael、Kaela）
+- **Chương 85 [Ngay sau khi rời khỏi quảng trường trung tâm]**：Lẩn trốn vào khu ổ chuột thành phố trôi nổi.（Kael、Kaela）
+- **Chương 86 [Ngay sau sự kiện tại khu ổ chuột vành đai ngoài]**：Kael và Kaela né tránh đội truy sát Helios và trốn vào ống dẫn nhiệt.
+- **Chương 86 [Cuối chương 86]**：Hệ thống an ninh Aethelgard quét được dấu vết sinhometric của Kaela, kích hoạt báo động đỏ.
+- **Chương 87 [Ngày thứ 14 tại thành phố trôi nổi Aethelgard]**：
+- **Chương 88 [Ngày thứ 14 tại thành phố trôi nổi Aethelgard]**：Kaela giải mã dữ liệu ký ức luân hồi và vô tình kích hoạt hệ thống phòng thủ tự động của viện nghiên cứu.（Kael、Kaela）
+- **Chương 89 [Ngày thứ 14 tại thành phố trôi nổi Aethelgard]**：Kael tiêu diệt hệ thống pháo tự động và Kaela ngắt kết nối an ninh viện nghiên cứu ngầm.（Kael、Kaela）
+- **Chương 89 [Ngay sau trận chiến với hệ thống phòng thủ ngầm]**：Đại tá Valerius phát đi thông điệp khiêu chiến qua màn hình trung tâm.（Kael、Kaela、Valerius）
+- **Chương 90 [Sau cuộc tập kích của hệ thống pháo tự động]**：Kaela giải mã bản đồ năng lượng ngầm và phát hiện buồng giam Bán Bất Lão.
+- **Chương 91 [Ngày thứ 14 tại thành phố trôi nổi Aethelgard]**：Kael và Kaela đối mặt với tay súng bắn tỉa trên cầu treo thành phố.（Kael、Kaela）
+- **Chương 92 [Ngày thứ 14 tại thành phố trôi nổi Aethelgard]**：Kael tiêu diệt tay súng bắn tỉa của Helios trên cầu treo thành phố trôi nổi Aethelgard.（Kael、Kaela）
+- **Chương 93 [Ngày thứ 14 tại thành phố trôi nổi Aethelgard]**：Đối đầu trực diện tại chân tháp trung tâm Aethelgard.（Kael、Kaela、Valerius）
+- **Chương 94 [Hiện tại]**：Trận chiến trước cổng tháp trung tâm bùng nổ.（Kael、Kaela、Valerius）
+- **Chương 95 [Ngày thứ 12 của hành trình ngầm]**：Kaela vô hiệu hóa màn chắn năng lượng tháp trung tâm.
+- **Chương 95 [Ngày thứ 12 của hành trình ngầm]**：Kael và Kaela tiến vào sảnh ký ức vĩnh hằng bên trong tháp Aethelgard.
+- **Chương 96 [Ngày thứ mười lăm tại thành phố trôi nổi]**：Valerius đối đầu trực diện với Kael và Kaela bên trong sảnh chính tháp trung tâm.
+- **Chương 97 [Ngày thâm nhập tháp trung tâm]**：Kael giao tranh tay đôi và đánh bị thương Đại tá Valerius tại sảnh tháp trung tâm Aethelgard.
+- **Chương 97 [Ngày thâm nhập tháp trung tâm]**：Valerius kích hoạt cơ chế tự hủy của tháp Aethelgard, bắt đầu đếm ngược 300 giây.
+- **Chương 98 [12 giây trước khi nổ]**：Kaela vô hiệu hóa lệnh tự hủy của tháp.（Kael、Kaela、Valerius）
+- **Chương 99 [Thời điểm cuối cùng tại sảnh tháp Aethelgard]**：Kael hạ gục Valerius trong sảnh tháp trung tâm; cột tinh thể chính bị vỡ nát giải phóng năng lượng quá tải.（Kael、Kaela、Valerius）
+- **Chương 100 [Sau trận chiến quyết định]**：Tháp trung tâm Aethelgard vô hiệu hóa lệnh tự hủy; thành phố bắt đầu hạ cánh.（Kael、Kaela、Valerius）
+- **Chương 101 [Bình minh sau trận chiến]**：Thành phố trôi nổi hạ cánh xuống mặt đất hoang mạc.（Kael、Kaela）
+- **Chương 102 [Sau khi thành phố hạ cánh xuống mặt đất.]**：Rời khỏi tháp trung tâm Aethelgard, bắt đầu hành trình tự do mới.（Kael、Kaela）

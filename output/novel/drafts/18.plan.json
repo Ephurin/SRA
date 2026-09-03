@@ -1,0 +1,20 @@
+{
+  "chapter": 18,
+  "title": "Trạm tiếp tế ngầm",
+  "goal": "Viết trọn vẹn Chương 18 theo đúng yêu cầu người dùng: Kael đấu tay không kết hợp Mana Skin với thủ lĩnh kháng chiến dưới sự phân tích chiến trận của Kaela.",
+  "conflict": "Kael bước vào trận đấu thử thách tay không với thủ lĩnh phe kháng chiến tại trạm ngầm nhằm chứng minh thực lực mà không gây sát thương chí mạng.",
+  "hook": "Màn hình CRT cũ kỹ chớp tắt, hé lộ đoạn video ghi hình cũ về mối liên hệ giữa người sáng lập Helios và di tích sa mạc.",
+  "emotion_arc": "Từ căng thẳng dò xét đến bùng nổ xung lực cận chiến và sự thấu hiểu ngầm qua giao tranh.",
+  "contract": {
+    "required_beats": [
+      "Kael bước vào khu vực thi đấu tay không trong trạm ngầm.",
+      "Trận đấu diễn ra căng thẳng giữa Kael (dùng Mana Skin) và thủ lĩnh kháng chiến (tên thủ lĩnh: Roland).",
+      "Kaela đứng ngoài quan sát, phân tích các chỉ số dòng chảy Mana và nhịp độ chiến đấu.",
+      "Kết thúc trận đấu trong sự kiềm chế sát thương, tạo tiền đề cho sự tin tưởng.",
+      "Hook cuối chương bằng đoạn video lịch sử trên màn hình CRT."
+    ],
+    "continuity_checks": [
+      "Giữ đúng bối cảnh hành động cận chiến, không dùng từ ngữ tóm tắt, tuân thủ yêu cầu Show Don't Tell và văn phong điện ảnh."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "chapter": 14,
+  "title": "Chuyến xe ngụy trang",
+  "goal": "Miêu tả chi tiết màn cướp xe tải bọc thép của tập đoàn Helios và cuộc chạy đua tốc độ cao xuyên sa mạc.",
+  "conflict": "Kael và Kaela cướp xe tải quân sự Helios, đối mặt với hệ thống an ninh và sự truy đuổi sát nút trên đường cao tốc xuyên sa mạc.",
+  "hook": "Trạm kiểm soát tiếp theo yêu cầu mã xác thực sinhometric cấp cao mà chiếc xe không hề sở hữu, đẩy họ vào thế tiến thoái lưỡng nan.",
+  "emotion_arc": "Từ căng thẳng tột độ khi thâm nhập đến sự bùng nổ adrenaline trong pha cướp xe và tăng tốc đột phá.",
+  "contract": {
+    "required_beats": [
+      "Đột nhập khu đỗ xe hậu cần của Helios tại vùng ngoại ô Oakhaven.",
+      "Kael dùng bạo lực và kỹ năng chiến đấu xử lý lính canh để chiếm đoạt chiếc xe tải hạng nặng.",
+      "Pha tăng tốc thô bạo trên cao tốc sa mạc với tiếng động cơ gầm rú và đạn ma pháp sượt qua thân xe.",
+      "Kaela thao túng bảng điều khiển để che giấu tín hiệu định vị trong chốc lát."
+    ],
+    "continuity_checks": [
+      "Đảm bảo không sử dụng tên nhân vật ngoài hệ thống hoặc các từ ngữ bị cấm.",
+      "Duy trì văn phong điện ảnh, nhịp độ nhanh, tập trung vào hành động và giác quan."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "chapter": 1,
+  "title": "Bão cát ngoài vành đai",
+  "goal": "Mở đầu câu chuyện, giới thiệu Kael, Kaela và thiết lập thế giới sa mạc Sahara hậu chiến qua trận chiến sinh tồn đầu tiên.",
+  "conflict": "Kael và Kaela bị kẹt giữa trận bão cát chứa bức xạ Mana và bầy bọ cạp cơ khí rỉ sét đang lao đến.",
+  "hook": "Thiết bị định vị cầm tay của Kaela phát ra tiếng bíp dồn dập, hiển thị một tọa độ cấu trúc ngầm chưa từng có trên bản đồ quân sự.",
+  "emotion_arc": "Từ căng thẳng, ngột ngạt trong bão cát đến bùng nổ adrenaline trong giao tranh và kết thúc bằng sự tò mò khi phát hiện tín hiệu ngầm.",
+  "contract": {
+    "required_beats": [
+      "Miêu tả bầu không khí và cái nóng ngột ngạt của bão cát Sahara.",
+      "Kael sử dụng kiếm khí và Gia tốc nhận thức để xử lý nhóm bọ cạp cơ khí.",
+      "Kaela thu thập dữ liệu bằng thiết bị đo lường trước khi tìm ra lối xuống hầm."
+    ],
+    "continuity_checks": [
+      "Đảm bảo không dùng từ ngữ cấm trong danh sách fatigue_words quá mức.",
+      "Kiểm tra đúng tên nhân vật Kael và Kaela.",
+      "Giữ vững tiêu chuẩn văn phong Show, Don't Tell và 5 giác quan."
+    ]
+  }
+}

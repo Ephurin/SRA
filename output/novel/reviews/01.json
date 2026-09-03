@@ -1,0 +1,61 @@
+{
+  "chapter": 1,
+  "scope": "chapter",
+  "issues": [
+    {
+      "type": "aesthetic",
+      "severity": "warning",
+      "description": "Sử dụng một số từ ngữ cần tránh (fatigue_words) như 'bỗng nhiên', 'im lặng', 'như thể', 'một nhịp thở'.",
+      "evidence": "'bỗng nhiên chậm lại', 'bỗng hạ xuống', 'như thể từng mảnh', 'vài nhịp thở ngắn ngủi'",
+      "suggestion": "Thay thế bằng các từ ngữ miêu tả phản ứng vật lý trực tiếp hơn hoặc lược bỏ các từ chỉ thời gian không cần thiết."
+    }
+  ],
+  "dimensions": [
+    {
+      "dimension": "consistency",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Thiết lập thế giới hậu tận thế, các quy tắc năng lượng và nhân vật Kael/Kaela nhất quán với mô tả."
+    },
+    {
+      "dimension": "character",
+      "score": 88,
+      "verdict": "pass",
+      "comment": "Hành động và suy nghĩ của Kael/Kaela phù hợp với thiết lập tính cách lạnh lùng/uyên bác."
+    },
+    {
+      "dimension": "pacing",
+      "score": 85,
+      "verdict": "pass",
+      "comment": "Nhịp độ tốt, chuyển cảnh giữa chiến đấu và tìm tòi hợp lý."
+    },
+    {
+      "dimension": "continuity",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Chuyển cảnh từ chiến đấu sang phát hiện hầm ngầm tự nhiên."
+    },
+    {
+      "dimension": "foreshadow",
+      "score": 92,
+      "verdict": "pass",
+      "comment": "Gieo phục bút về cấu trúc ngầm và tín hiệu cổ đại."
+    },
+    {
+      "dimension": "hook",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Kết thúc chương bằng việc phát hiện nắp hầm chứa biểu tượng cổ, tạo tò mò."
+    },
+    {
+      "dimension": "aesthetic",
+      "score": 85,
+      "verdict": "pass",
+      "comment": "Văn phong mô tả trực quan, giác quan tốt. Trích dẫn: 'Mỗi nhịp thở đều kéo theo cảm giác bỏng rát ở vòm họng, như thể từng mảnh than hồng đang trôi tuột xuống thực quản.'"
+    }
+  ],
+  "contract_status": "met",
+  "contract_notes": "Chương 1 đã hoàn thành các mục tiêu cốt truyện (chiến đấu, khám phá, hook). Độ dài vượt chuẩn nhưng chất lượng tốt.",
+  "verdict": "accept",
+  "summary": "Chương 1 mở đầu ấn tượng với bối cảnh sa mạc khắc nghiệt, thiết lập được năng lực của Kael và sự phối hợp với Kaela. Cốt truyện tiến triển mạch lạc, phục bút tốt. Cần lưu ý giảm thiểu các từ sáo ngữ đã được quy định."
+}

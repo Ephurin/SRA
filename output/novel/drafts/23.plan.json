@@ -1,0 +1,21 @@
+{
+  "chapter": 23,
+  "title": "Sòng Bạc Neon Và Tuyến Vận Chuyển",
+  "goal": "Viết chương 23 với đầy đủ các phân cảnh giao dịch ngầm tại sòng bạc neon và cuộc đụng độ bất ngờ, đảm bảo độ dài từ 2000 đến 4500 từ.",
+  "conflict": "Kael và Kaela tham gia một cuộc giao dịch ngầm tại sòng bạc neon để lấy thông tin về tuyến vận chuyển của Helios, dẫn đến một cuộc đụng độ bất ngờ.",
+  "hook": "Một kẻ thông tin bí ẩn áp sát Kaela trong tiếng nhạc điện tử inh ỏi, thốt ra con số tiền thưởng khổng lồ mà tập đoàn Helios đang treo trên đầu họ.",
+  "emotion_arc": "Từ căng thẳng, cảnh giác chuyển sang bùng nổ xung đột hành động dồn dập trong không gian hẹp.",
+  "contract": {
+    "required_beats": [
+      "Kaela và Kael bước vào sòng bạc neon ngập tràn khói thuốc và âm thanh hỗn tạp.",
+      "Giao dịch thông tin với tay mối lái về tuyến vận chuyển của Helios.",
+      "Sự xuất hiện bất ngờ của nhóm lính đánh thuê hoặc sát thủ dưới trướng Helios.",
+      "Pha phản kích sắc bén của Kael trong không gian chật hẹp."
+    ],
+    "continuity_checks": [
+      "Duy trì phong cách phương Tây và tên nhân vật đúng quy chuẩn",
+      "Tập trung Show, Don't Tell và không dùng từ sáo rỗng",
+      "Đảm bảo độ dài tối thiểu 2000 từ"
+    ]
+  }
+}

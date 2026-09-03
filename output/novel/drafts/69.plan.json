@@ -1,0 +1,38 @@
+{
+  "chapter": 69,
+  "title": "Tần số của kẻ thù",
+  "goal": "Kael và Kaela xác định vị trí cỗ máy khoan và lập kế hoạch đột kích.",
+  "conflict": "Kael và Kaela đối mặt với thời gian hữu hạn trước khi cỗ máy khoan phá hủy thung lũng ngầm và sự đe dọa từ Đại tá Valerius.",
+  "hook": "Thời gian đếm ngược chỉ còn chưa đầy 15 phút, và một đội tuần tra của Helios vừa xuất hiện ngay trước mắt họ.",
+  "emotion_arc": "Từ bàng hoàng, phẫn nộ sang quyết tâm lạnh lùng và tập trung cao độ.",
+  "notes": "Cần đảm bảo số từ tối thiểu 2000 từ bằng cách miêu tả chi tiết môi trường, quá trình phân tích kỹ thuật của Kaela và sự chuẩn bị vũ khí của Kael.",
+  "contract": {
+    "required_beats": [
+      "Lắng nghe đoạn liên lạc của Helios.",
+      "Kaela phân tích nguy cơ sụp đổ.",
+      "Lập kế hoạch đột kích.",
+      "Di chuyển áp sát công trường."
+    ],
+    "forbidden_moves": [
+      "Tóm tắt quá nhiều về quá khứ.",
+      "Kael bỗng nhiên trở nên yếu đuối hoặc Kaela trở nên vô dụng.",
+      "Valerius xuất hiện trực tiếp quá sớm (hắn chỉ xuất hiện qua thiết bị)."
+    ],
+    "continuity_checks": [
+      "Vết thương bắp tay trái của Kael vẫn còn đau và ảnh hưởng đến vận động.",
+      "Thiết bị liên lạc thu giữ từ thợ săn Helios là nguồn tin duy nhất.",
+      "Cỗ máy khoan xuyên tầng là công nghệ của Helios, cần sự hiểu biết của Kaela để phá hủy."
+    ],
+    "evaluation_focus": [
+      "Mô tả môi trường ngầm ngột ngạt.",
+      "Nhịp độ đối thoại giữa Kael và Kaela phải sắc sảo, logic.",
+      "Tránh các cụm từ sáo rỗng đã liệt kê."
+    ],
+    "emotion_target": "Căng thẳng nghẹt thở và quyết tâm sinh tử.",
+    "payoff_points": [
+      "Sự đồng lòng của Kael và Kaela.",
+      "Thông tin về cỗ máy khoan được làm rõ."
+    ],
+    "hook_goal": "Tạo ra cảm giác cấp bách và buộc họ phải hành động ngay lập tức."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "chapter": 78,
+  "title": "Lớp mặt nạ bảo trì",
+  "goal": "Vượt qua chốt kiểm soát cuối cùng của tháp trung tâm bằng cách ngụy trang nhưng thất bại ở phút chót do hệ thống nhận diện truy nã.",
+  "conflict": "Kael và Kaela tìm cách vượt qua chốt kiểm soát cuối cùng bằng trang phục bảo trì nhưng bị hệ thống quét nhận diện.",
+  "hook": "Tiếng còi báo động rít lên đinh tai nhức óc cùng hàng loạt chùm tia laze đỏ rực chiếu thẳng vào vị trí của Kael và Kaela.",
+  "emotion_arc": "Căng thẳng ngột ngạt -\u003e Chờ đợi hồi hộp -\u003e Vỡ lở khủng hoảng",
+  "contract": {
+    "required_beats": [
+      "Mặc trang phục bảo trì nặng nề và bước qua cửa kiểm soát",
+      "Kaela thao tác mã nguồn giả lập trên thiết bị cầm tay",
+      "Hệ thống quét khuôn mặt phát hiện Kael và chuyển sang báo động đỏ"
+    ],
+    "continuity_checks": [
+      "Trạng thái bị thương nhẹ ở bắp tay trái của Kael từ chương 76-77",
+      "Trang phục bảo trì và mùi dầu máy",
+      "Hệ thống quét an ninh tại tháp trung tâm"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "chapter": 19,
+  "title": "Vòng vây siết chặt",
+  "goal": "Thiết lập thế trận bị bao vây, khắc họa rõ sự nguy hiểm của đội quân Helios và sự chuẩn bị của Kael.",
+  "conflict": "Phe Helios bao vây, tấn công phá cửa trạm ngầm trong khi Kael và Kaela bị dồn vào đường cùng.",
+  "hook": "Valerius xuất hiện qua màn hình, ra tối hậu thư mười phút.",
+  "emotion_arc": "Từ căng thẳng tột độ khi bị phát hiện đến quyết tâm tử thủ và sự lạnh lùng cần thiết để chuẩn bị cho trận chiến.",
+  "contract": {
+    "required_beats": [
+      "Tiếng nổ rung chuyển trạm ngầm.",
+      "Kael chuẩn bị vũ khí và địa hình trong không gian hẹp.",
+      "Valerius xuất hiện trên màn hình đưa tối hậu thư."
+    ],
+    "forbidden_moves": [
+      "Không dùng lời dẫn dắt kể lể về tình hình chiến sự.",
+      "Không dùng các cụm từ sáo rỗng đã cấm trong rules.",
+      "Không để Kael chiến thắng dễ dàng."
+    ],
+    "continuity_checks": [
+      "Trạng thái kiệt sức của Kael sau trận đấu với Roland.",
+      "Sự hiện diện của phiến đá cổ trong ba lô Kaela.",
+      "Địa hình đường hầm chật hẹp."
+    ],
+    "evaluation_focus": [
+      "Sử dụng Gia tốc nhận thức (Show, Don't Tell).",
+      "Miêu tả hành động trong không gian hẹp.",
+      "Văn phong điện ảnh."
+    ],
+    "emotion_target": "Cảm giác ngột ngạt, hồi hộp và áp lực thời gian.",
+    "hook_goal": "Tạo sự căng thẳng tột độ trước khi bắt đầu trận chiến ở chương sau."
+  }
+}

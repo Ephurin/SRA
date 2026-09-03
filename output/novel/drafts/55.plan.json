@@ -1,0 +1,20 @@
+{
+  "chapter": 55,
+  "title": "Thị trấn chợ đen",
+  "goal": "Miêu tả hành trình Kael và Kaela đột phá vòng vây biên giới để trốn vào thị trấn chợ đen, thiết lập bối cảnh ngầm và kết thúc bằng lời cảnh báo từ một gã thông tin bí ẩn.",
+  "conflict": "Kael và Kaela bị kẹt giữa vòng vây báo động đỏ của Helios tại biên giới, buộc phải rút lui vào một thị trấn chợ đen hỗn tạp để trốn tránh và tìm kiếm phương án ngụy trang.",
+  "hook": "Một người thông tin bí ẩn tiếp cận Kaela trong góc quán rượu, đưa ra lời cảnh báo lạnh lùng rằng tập đoàn Helios đang treo thưởng mức giá cắt cổ cho chiếc đầu của họ.",
+  "emotion_arc": "Từ căng thẳng cực độ khi còi báo động vang lên đến sự cảnh giác ngột ngạt trong góc tối của thị trấn chợ đen.",
+  "contract": {
+    "required_beats": [
+      "Mô tả cảnh trốn chạy khỏi trạm kiểm soát biên giới dưới làn đạn và thiết bị bay không người lái của Helios.",
+      "Hai người hòa vào dòng người và khói bụi của thị trấn biên mậu chợ đen.",
+      "Kaela tìm kiếm vật tư ngụy trang tại một tiệm bán linh kiện cũ.",
+      "Kael quan sát không gian quán rượu tối tăm, nhận ra những ánh mắt dò xét từ đám săn tiền thưởng."
+    ],
+    "continuity_checks": [
+      "Đảm bảo Kael vẫn mang dư chấn mệt mỏi thần kinh từ chương trước nhưng giữ được sự cảnh giác tuyệt đối.",
+      "Mô tả thị trấn chợ đen mang đậm màu sắc kỹ nghệ - ma pháp hậu tận thế, tránh dùng từ ngữ sáo rỗng hoặc phong cách Đông phương."
+    ]
+  }
+}

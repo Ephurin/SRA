@@ -1,0 +1,20 @@
+{
+  "chapter": 3,
+  "title": "Dư ảnh chiến trường cũ",
+  "goal": "Triển khai trọn vẹn trận chiến cận chiến giữa Kael và đơn vị tự động hóa, đồng thời hé lộ mối liên hệ giữa tàn tích và tập đoàn Helios.",
+  "conflict": "Kael và Kaela bị chặn lại bởi một tiểu đội lính gác tự động hóa dạng hình người trong phòng điều khiển ngầm, buộc Kael phải chiến đấu giáp lá cà trong không gian hẹp.",
+  "hook": "Kael phát hiện biểu tượng con mắt bọc bánh răng khắc chìm trên khớp nối của robot, trùng khớp với ký hiệu trên áo giáp của lính đánh thuê Helios.",
+  "emotion_arc": "Từ cảnh giác căng thẳng chuyển sang bùng nổ xung đột bạo lực, kết thúc bằng sự lạnh gáy khi nhận ra dấu vết quân sự quen thuộc.",
+  "contract": {
+    "required_beats": [
+      "Kael kích hoạt Mana Skin để chống lại các đòn tấn công bằng dao năng lượng của robot.",
+      "Sử dụng Gia tốc nhận thức trong chớp mắt để tìm điểm yếu ở khớp gối robot.",
+      "Kaela thao tác trạm điều khiển để trích xuất dữ liệu lưu trữ trong lúc Kael cản đường."
+    ],
+    "continuity_checks": [
+      "Kiểm tra trạng thái mệt mỏi của Kael sau chương 1 và 2 (cơn đau đầu nhẹ do Gia tốc nhận thức).",
+      "Đảm bảo không sử dụng từ ngữ cấm hoặc cấu trúc sáo rỗng.",
+      "Dung lượng nhắm đến trong khoảng 2000-4500 từ."
+    ]
+  }
+}

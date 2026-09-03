@@ -1,0 +1,19 @@
+{
+  "chapter": 47,
+  "title": "Đụng độ thợ săn ngầm",
+  "goal": "Hạ gục nhóm thợ săn tiền thưởng và thu giữ thiết bị liên lạc để nắm bắt tình hình Helios.",
+  "conflict": "Kael và Kaela bị thợ săn tiền thưởng của Helios truy đuổi trong hang động ngầm tối tăm.",
+  "hook": "Kael tung đòn bất ngờ trong bóng tối, hạ gục tên dẫn đường trước khi chúng kịp phát tín hiệu và thu giữ thiết bị liên lạc.",
+  "emotion_arc": "Từ căng thẳng, tĩnh lặng sang bùng nổ cận chiến chớp nhoáng",
+  "contract": {
+    "required_beats": [
+      "Xác định vị trí kẻ thù qua âm thanh trong hang động ngầm",
+      "Trận giao tranh cận chiến chớp nhoáng bằng kiếm và dao găm",
+      "Thu giữ thiết bị liên lạc của nhóm thợ săn"
+    ],
+    "continuity_checks": [
+      "Vết thương ở bắp tay trái của Kael vẫn đang âm ỉ đau",
+      "Không khí ngập tràn chất lỏng phát sáng và khói trắng từ vách đá"
+    ]
+  }
+}

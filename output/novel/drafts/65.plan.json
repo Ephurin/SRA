@@ -1,0 +1,20 @@
+{
+  "chapter": 65,
+  "title": "Nhện thép canh khe núi",
+  "goal": "Miêu tả chi tiết cuộc đụng độ giữa Kael và cỗ máy chiến đấu nhện thép tại khe núi ngầm, thể hiện sự phối hợp chiến đấu và khả năng sinh tồn.",
+  "conflict": "Cỗ máy nhện thép cổ đại canh giữ khe núi hẹp dùng hỏa lực plasma áp đảo đường tiến duy nhất của Kael và Kaela.",
+  "hook": "Cỗ máy phóng ra luồng tia plasma năng lượng cao, cắt đứt hoàn toàn con đường lui duy nhất và đẩy Kael vào thế ngàn cân treo sợi tóc.",
+  "emotion_arc": "Từ sự căng thẳng ngột ngạt khi đối đầu với hiểm họa đến cao trào chiến đấu nghẹt thở và quyết định phản công dứt khoát.",
+  "contract": {
+    "required_beats": [
+      "Kael kích hoạt Mana Skin đối phó sức nóng của cỗ máy nhện thép.",
+      "Kaela tìm kiếm cấu trúc địa hình và tìm điểm yếu của cỗ máy qua thiết bị quét cổ tự.",
+      "Các pha giao tranh cận chiến trong không gian hẹp với kiếm khí."
+    ],
+    "continuity_checks": [
+      "Duy trì đúng phong cách thực tế, không dùng từ ngữ kiếm hiệp hay tiên hiệp.",
+      "Tập trung vào miêu tả vật lý, phản ứng thần kinh và sức nặng của vũ khí.",
+      "Kiểm soát nghiêm ngặt các từ lặp như 'dường như', 'bỗng nhiên', 'như thể'."
+    ]
+  }
+}

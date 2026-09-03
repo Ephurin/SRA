@@ -1,0 +1,20 @@
+{
+  "chapter": 8,
+  "title": "Dị biến trong mạch ngầm",
+  "goal": "Mô tả hành trình phá vỡ vòng vây, tìm lối thoát tạm thời khỏi tàn tích ngầm và đối mặt với dị biến mana mới.",
+  "conflict": "Kael và Kaela phá vòng vây tìm lối thoát ngầm, nhưng đối mặt với dị biến năng lượng mana mới do Helios gây ra; Kael kiệt sức thần kinh vì lạm dụng gia tốc nhận thức, Kaela thức tỉnh ký ức luân hồi.",
+  "hook": "Bức tường đá trước mặt nứt vỡ, hé lộ một dị biến năng lượng mana đang xoáy tròn thành dòng xoáy màu lục bảo bạo liệt.",
+  "emotion_arc": "Từ căng thẳng, nghẹt thở trong giao tranh chuyển sang sự choáng ngợp và bất an trước dị biến năng lượng khổng lồ.",
+  "contract": {
+    "required_beats": [
+      "Kael lết qua đường hầm để hội quân cùng Kaela và Alistair trong hầm mỏ khai thác tinh thể cổ xưa.",
+      "Kaela sử dụng trí nhớ luân hồi từ các kiếp trước để nhận diện lối đi bí mật giữa không gian đá phức tạp.",
+      "Helios triển khai một thiết bị cộng hưởng ma pháp mới, tạo ra dị biến năng lượng mana chấn động toàn bộ vách núi ngầm."
+    ],
+    "continuity_checks": [
+      "Miêu tả chính xác triệu chứng kiệt sức thần kinh của Kael (đau đầu, nhòe thị giác, xuất huyết mũi).",
+      "Kaela thể hiện sự thay đổi nội tâm khi ký ức luân hồi tràn về.",
+      "Sự xuất hiện của dị biến mana do thiết bị của Helios kích hoạt."
+    ]
+  }
+}

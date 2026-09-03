@@ -1,0 +1,21 @@
+{
+  "chapter": 32,
+  "title": "Mê Cung Tần Số Xanh",
+  "goal": "Tìm ra một nơi ẩn náu an toàn trong thành phố ngầm Aethelgard sau khi trốn thoát khỏi trạm tiếp tế, né tránh các cảm biến nhiệt và thiết bị dò tìm của Helios.",
+  "conflict": "Kael và Kaela bị kẹt giữa các drone dò tìm nhiệt của Helios trong mê cung ngầm chật hẹp của Aethelgard, buộc phải tìm cách ẩn náu mà không để lộ dấu vết sinh học.",
+  "hook": "Một lỗ thông gió cũ kỹ dẫn vào khu vực phế tích bỏ hoang mở ra trước mắt, nhưng cảm biến nhiệt của drone Helios đã quét sát nút phía sau gáy.",
+  "emotion_arc": "Từ căng thẳng, dồn dập khi đối mặt với drone truy sát chuyển sang sự cẩn trọng tuyệt đối khi luồn lách qua các hẻm tối ngập tràn khí thải và ánh đèn neon.",
+  "contract": {
+    "required_beats": [
+      "Kael và Kaela di chuyển qua các con hẻm ngầm tối tăm, tránh các drone quét nhiệt của Helios.",
+      "Mô tả phản ứng cơ thể của Kael khi cơn đau đầu do gia tốc nhận thức bùng phát nhưng anh vẫn kìm nén để bảo vệ Kaela.",
+      "Kaela phân tích cấu trúc bức xạ nhiệt của môi trường để tìm ra điểm mù của cảm biến địch.",
+      "Hai người đột nhập thành công vào một kho chứa bỏ hoang bên dưới tầng lơ lửng của Aethelgard."
+    ],
+    "continuity_checks": [
+      "Kiểm tra vết thương bắp tay trái của Kael và tình trạng kiệt sức thần kinh.",
+      "Mô tả không gian kiến trúc lộn ngược của Aethelgard.",
+      "Tránh dùng các từ cấm như 'dường như', 'im lặng', 'như thể'."
+    ]
+  }
+}

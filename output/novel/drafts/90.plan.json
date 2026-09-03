@@ -1,0 +1,25 @@
+{
+  "chapter": 90,
+  "title": "Bản đồ năng lượng ngầm",
+  "goal": "Hoàn tất giải mã bản đồ năng lượng, vạch trần bí mật về nguồn năng lượng nuôi sống thành phố trôi nổi và đẩy xung đột lên đỉnh điểm chuẩn bị cho cuộc đối đầu cuối cùng.",
+  "conflict": "Kaela và Kael giải mã thành công bản đồ cấu trúc tháp trung tâm, nhưng phát hiện ra một sự thật kinh hoàng về nguồn gốc năng lượng của thành phố trôi nổi.",
+  "hook": "Họ phát hiện nguồn năng lượng nuôi sống toàn bộ thành phố trôi nổi thực chất được hút trực tiếp từ cơ thể của những kẻ Bán Bất Lão bị giam giữ trong lồng giam ngầm.",
+  "emotion_arc": "Từ căng thẳng, tập trung giải mã sang sự bàng hoàng, lạnh ngắt khi chân tướng tàn khốc của thành phố trôi nổi được hé lộ.",
+  "notes": "Tập trung miêu tả chi tiết bàn làm việc 3D, các chỉ số năng lượng nhấp nháy, phản ứng sinh lý của nhân vật (mồ hôi, nhịp tim, sự sững sờ) để tuân thủ quy tắc Show, Don't Tell.",
+  "contract": {
+    "required_beats": [
+      "Kaela hiển thị bản đồ ba chiều cấu trúc tháp trung tâm trên thiết bị.",
+      "Phân tích dòng chảy Mana từ các ống dẫn ngầm.",
+      "Phát hiện ra sự thật chấn động về nguồn năng lượng xuất phát từ cơ thể người Bán Bất Lão."
+    ],
+    "forbidden_moves": [
+      "Không dùng từ ngữ mang tính triết lý sáo rỗng của AI ở cuối chương.",
+      "Không biến Kaela thành yếu đuối vô dụng."
+    ],
+    "continuity_checks": [
+      "Đảm bảo Kaela giữ nguyên trạng thái kiên định sau khi tiếp thu dữ liệu lớn ở chương trước.",
+      "Trạng thái kiệt sức nhẹ của Kael sau khi lạm dụng Gia tốc nhận thức vẫn phải được thể hiện qua chuyển động cơ thể."
+    ],
+    "emotion_target": "Cảm giác rợn ngợp và nghẹt thở trước sự tàn độc của công nghệ thời đại cũ."
+  }
+}

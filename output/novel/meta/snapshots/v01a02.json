@@ -1,0 +1,20 @@
+[
+  {
+    "volume": 1,
+    "arc": 2,
+    "name": "Kael",
+    "status": "Còn sống, sẵn sàng dấn thân vào thành phố ngầm.",
+    "power": "Gia tốc nhận thức và Mana Skin, đang chịu một số tổn thương thần kinh nhẹ do lạm dụng năng lực.",
+    "motivation": "Bảo vệ Kaela, vượt qua vòng vây của tập đoàn Helios và khám phá bí ẩn sâu thẳm bên trong thành phố ngầm Aethelgard.",
+    "relations": "Đồng hành sinh tử cùng Kaela; đối đầu không khoan nhượng với Đại tá Valerius và lực lượng Helios."
+  },
+  {
+    "volume": 1,
+    "arc": 2,
+    "name": "Kaela",
+    "status": "Còn sống, kiên định và tập trung cao độ.",
+    "power": "Trí nhớ luân hồi và khả năng tương thích cao với hệ thống cổ ngữ ma pháp.",
+    "motivation": "Giải mã phiến đá cổ, tìm kiếm nguồn gốc mạch Mana và hỗ trợ Kael sinh tồn trong các tầng di tích ngầm.",
+    "relations": "Tin tưởng tuyệt đối vào Kael, phối hợp chặt chẽ trong việc giải mã và định hướng."
+  }
+]

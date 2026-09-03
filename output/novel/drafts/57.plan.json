@@ -1,0 +1,32 @@
+{
+  "chapter": 57,
+  "title": "Chuyến xe ngụy trang",
+  "goal": "Cướp xe tải Helios, cải trang và tiến vào nội địa, chuẩn bị cho cuộc đối đầu phía trước.",
+  "conflict": "Căng thẳng leo thang khi Kael và Kaela điều khiển chiếc xe tải lạ lẫm, đối mặt với rào chắn kiểm soát tiếp theo mà không có mã xác thực.",
+  "hook": "Trạm kiểm soát tiếp theo yêu cầu mã xác thực sinhometric cấp cao mà chiếc xe không hề có.",
+  "emotion_arc": "Từ sự căng thẳng tột độ khi tháo chạy sang sự tập trung cao độ và cảnh giác khi ngụy trang.",
+  "notes": "Tập trung vào sự khác biệt giữa công nghệ xe tải Helios và cách Kael điều khiển. Cảm giác xóc nảy, mùi kim loại, ánh đèn neon ngoài cửa kính.",
+  "contract": {
+    "required_beats": [
+      "Kael và Kaela chiếm được xe tải.",
+      "Thao tác kỹ thuật trên xe để cải trang/xóa dấu vết.",
+      "Tiến sát cổng kiểm soát thứ hai."
+    ],
+    "forbidden_moves": [
+      "Không tóm tắt lại cảnh chiến đấu ở quán trọ.",
+      "Không để nhân vật chính dễ dàng vượt qua rào chắn bằng may mắn."
+    ],
+    "continuity_checks": [
+      "Trạng thái vết thương tay của Kael sau chương 56.",
+      "Thiết bị định vị trên xe tải liệu có còn phát tín hiệu hay đã bị vô hiệu hóa?",
+      "Kaela vẫn đang giữ phiến đá cổ."
+    ],
+    "evaluation_focus": [
+      "Miêu tả sự thô bạo khi điều khiển xe quân sự.",
+      "Sự phối hợp đối thoại giữa Kael và Kaela.",
+      "Cảnh báo về rào chắn kiểm soát phía trước."
+    ],
+    "emotion_target": "Sự hồi hộp nghẹt thở và cảm giác nguy cơ cận kề.",
+    "hook_goal": "Tạo ra cảm giác bế tắc và buộc nhân vật phải có quyết định liều lĩnh ở chương sau."
+  }
+}

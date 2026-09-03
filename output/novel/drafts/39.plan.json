@@ -1,0 +1,19 @@
+{
+  "chapter": 39,
+  "title": "Đụng độ người máy tàng hình",
+  "goal": "Viết chi tiết cuộc chạm trán và tiêu diệt người máy tàng hình của Kael, tạo ra bước ngoặt giúp họ tìm thấy trạm tiếp tế ngầm.",
+  "conflict": "Kael phải đối mặt với một đơn vị chiến đấu người máy tàng hình quang học trong rừng nhân tạo dưới áp lực của hệ thần kinh đang quá tải.",
+  "hook": "Kiếm khí của Kael chém trúng lõi năng lượng của robot, giải phóng một luồng xung điện mạnh làm tê liệt toàn bộ hệ thống thông tin quanh vùng.",
+  "emotion_arc": "Từ căng thẳng, cảnh giác chuyển sang tập trung cao độ, bùng nổ trong pha hành động chớp nhoáng và kết thúc bằng cú sốc xung điện mạnh.",
+  "contract": {
+    "required_beats": [
+      "Miêu tả chi tiết hiện tượng bẻ cong ánh sáng của lớp ngụy trang quang học trong rừng sương mù.",
+      "Kael kích hoạt Gia tốc nhận thức để né tránh đòn đánh bất ngờ từ cỗ máy.",
+      "Đường kiếm chính xác xé toạc lớp giáp ngụy trang và chém nát lõi năng lượng, tạo ra vụ nổ xung điện."
+    ],
+    "continuity_checks": [
+      "Kael đang bị thương ở bắp tay trái và kiệt sức thần kinh từ các chương trước.",
+      "Công nghệ tàng hình quang học của Helios phải được miêu tả rõ ràng qua sự bẻ cong ánh sáng và tiếng động cơ siêu nhỏ."
+    ]
+  }
+}

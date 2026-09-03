@@ -1,0 +1,53 @@
+{
+  "chapter": 83,
+  "scope": "arc",
+  "issues": [],
+  "dimensions": [
+    {
+      "dimension": "consistency",
+      "score": 92,
+      "verdict": "pass",
+      "comment": "Thiết lập thế giới, hệ thống Mana và các quy tắc lực lượng Helios được duy trì hoàn toàn nhất quán trong suốt cung truyện 2."
+    },
+    {
+      "dimension": "character",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Nhân vật Kael và Kaela giữ vững động cơ sinh tồn, bảo vệ lẫn nhau và phản ứng tâm lý phù hợp với thiết lập bản nguyên."
+    },
+    {
+      "dimension": "pacing",
+      "score": 88,
+      "verdict": "pass",
+      "comment": "Nhịp độ cung truyện được phân bổ hợp lý giữa các phân đoạn thâm nhập, trốn chạy và đối đầu với lực lượng truy sát."
+    },
+    {
+      "dimension": "continuity",
+      "score": 91,
+      "verdict": "pass",
+      "comment": "Các bước chuyển cảnh từ trạm biên giới, thị trấn chợ đen đến rừng công nghiệp và trạm tiếp tế ngầm diễn ra vô cùng mạch lạc."
+    },
+    {
+      "dimension": "foreshadow",
+      "score": 89,
+      "verdict": "pass",
+      "comment": "Phục bút về tập đoàn Helios, phiến đá cổ và bí ẩn mạch Mana được duy trì và phát triển đều đặn qua từng chương."
+    },
+    {
+      "dimension": "hook",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Các điểm móc cuối chương tạo động lực đọc tiếp mạnh mẽ, đặc biệt là khúc chuyển giao xuống thành phố ngầm."
+    },
+    {
+      "dimension": "aesthetic",
+      "score": 89,
+      "verdict": "pass",
+      "comment": "Văn phong tuân thủ tốt nguyên tắc Show, Don't Tell, tránh sáo ngữ AI và đặc tả thành công bầu không khí đắm chìm."
+    }
+  ],
+  "contract_status": "met",
+  "contract_notes": "Đánh giá tổng thể cung truyện 2 của tập 2 hoàn thành, xác nhận trạng thái hệ thống và đồng bộ hoàn tất.",
+  "verdict": "accept",
+  "summary": "Đánh giá toàn diện cung truyện 2 (Tập 2: Bóng Đen Tập Đoàn Helios) xác nhận cung truyện đã hoàn thành xuất sắc các mục tiêu cốt truyện, duy trì tính nhất quán về nhân vật và thế giới, kiểm soát chặt chẽ phục bút cũng như nhịp độ tường thuật. Trạng thái hệ thống đã được đồng bộ thành công."
+}

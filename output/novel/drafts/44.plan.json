@@ -1,0 +1,19 @@
+{
+  "chapter": 44,
+  "title": "Nhện thép canh khe núi",
+  "goal": "Miêu tả trận chiến kịch tính giữa Kael và cỗ máy nhện cổ đại trong không gian hẹp của thung lũng ngầm, làm nổi bật sự phối hợp giữa hai nhân vật chính.",
+  "conflict": "Kael và Kaela đối đầu với cỗ máy chiến đấu dạng nhện khổng lồ canh gác lối đi duy nhất trong thung lũng ngầm Aethelgard.",
+  "hook": "Cỗ máy phóng ra các luồng tia plasma năng lượng cao, cắt đứt hoàn toàn con đường lui duy nhất của hai người.",
+  "emotion_arc": "Từ căng thẳng, bất ngờ trước cỗ máy khổng lồ đến sự tập trung cao độ trong trận chiến sinh tử và kết thúc bằng tình thế hiểm nghèo khi con đường duy nhất bị cắt đứt.",
+  "contract": {
+    "required_beats": [
+      "Kael kích hoạt Mana Skin để chống chọi sức ép nhiệt độ cực cao từ cỗ máy.",
+      "Pha né tránh và phản kích bằng kiếm khí trong không gian hẹp giữa các vách đá tinh thể.",
+      "Kaela phân tích và tìm ra điểm yếu năng lượng của cỗ máy nhện để hướng dẫn Kael tấn công."
+    ],
+    "continuity_checks": [
+      "Kiểm tra vết thương bắp tay trái của Kael từ các chương trước",
+      "Duy trì bầu không khí ngột ngạt, áp lực nhiệt độ và ánh sáng chói lóa từ tia plasma của cỗ máy nhện"
+    ]
+  }
+}

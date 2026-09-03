@@ -1,0 +1,19 @@
+{
+  "chapter": 21,
+  "title": "Thành Phố Ngầm Trôi Nổi",
+  "goal": "Mở đầu Cung 1 của Tập 2, đưa Kael và Kaela thâm nhập thành phố ngầm Aethelgard và thiết lập mối đe dọa từ các phe phái trôi nổi.",
+  "conflict": "Kael và Kaela bước chân vào thành phố ngầm trôi nổi Aethelgard, đối mặt với tầng lớp thống trị ngầm và sự truy lùng ráo riết từ các sát thủ phe phái địa phương.",
+  "hook": "Một luồng tín hiệu mã hóa từ thiết bị liên lạc cũ của Alistair bất ngờ vang lên trong bóng tối, cảnh báo rằng lực lượng của Valerius đã tìm được đường xuống thành phố ngầm.",
+  "emotion_arc": "Từ sự ngột ngạt, cảnh giác cao độ khi đặt chân đến môi trường xã hội hoàn toàn mới sang sự căng thẳng tột độ khi nhận ra ánh mắt theo dõi của các phe phái ngầm.",
+  "contract": {
+    "required_beats": [
+      "Mô tả chi tiết môi trường thành phố ngầm trôi nổi (ánh sáng neon, lớp sàn kính trong suốt nhìn xuống vực sâu, dòng người hỗn tạp).",
+      "Kael và Kaela tìm một quán trọ ẩn dật hoặc điểm trú chân tạm thời, kiểm tra lại thiết bị và vết thương.",
+      "Sự xuất hiện của những kẻ bám đuôi thuộc phe phái ngầm tại thành phố, buộc Kael phải xử lý nhanh gọn một cuộc chạm trán ngắn trong góc khuất."
+    ],
+    "continuity_checks": [
+      "Duy trì văn phong điện ảnh thời gian thực, tuyệt đối không dùng tiêu đề tóm tắt dạng số hoặc lời bình luận tác giả.",
+      "Xác định rõ bối cảnh thành phố ngầm trôi nổi với các tòa nhà lộn ngược và nguồn sáng neon-mana."
+    ]
+  }
+}

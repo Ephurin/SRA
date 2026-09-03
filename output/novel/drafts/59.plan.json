@@ -1,0 +1,20 @@
+{
+  "chapter": 59,
+  "title": "Rừng công nghiệp sương mù",
+  "goal": "Viết chi tiết cảnh hai người bỏ xe, chạy trốn vào khu rừng nhân tạo u ám, đối mặt với hiện tượng nhiễu loạn quang học do nồng độ Mana bất thường.",
+  "conflict": "Kael và Kaela buộc phải bỏ lại chiếc xe tải sắp phát nổ, lao vào khu rừng công nghiệp nhân tạo ngập sương mù để trốn chạy khỏi phi đội máy bay không người lái của Helios.",
+  "hook": "Kaela phát hiện nồng độ Mana trong không khí tạo ra các ảo ảnh quang học đánh lừa thị giác, biến những cái cây kim loại thành hình thù kỳ dị.",
+  "emotion_arc": "Từ căng thẳng cực độ sau vụ nổ xe tải đến sự ngột ngạt, mơ hồ khi bước vào vùng sương mù ma pháp.",
+  "contract": {
+    "required_beats": [
+      "Mô tả khoảnh khắc chiếc xe tải bị bỏ lại và phát nổ phía sau lưng.",
+      "Hai người lao qua hàng rào dây thép gai vào khu rừng nhân tạo của khu công nghiệp Helios.",
+      "Mô tả không gian ẩm ướt, sương mù nhân tạo và tiếng máy bay không người lái vo ve trên mái vòm.",
+      "Kaela cảnh báo Kael về sự biến đổi của tầng khí quyển và các ảo ảnh quang học xuất hiện xung quanh."
+    ],
+    "continuity_checks": [
+      "Đảm bảo Kael vẫn mang theo thanh kiếm luyện và Kaela giữ chặt phiến đá cổ.",
+      "Kiểm soát vết thương ở vai phải của Kael do tia laser gây ra ở chương trước."
+    ]
+  }
+}

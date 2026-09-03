@@ -1,0 +1,27 @@
+{
+  "chapter": 43,
+  "title": "Vực sâu tĩnh lặng",
+  "goal": "Đưa Kael và Kaela thâm nhập thành công xuống thung lũng ngầm Aethelgard qua thang máy khẩn cấp, thiết lập bối cảnh thám hiểm tiếp theo và gieo điểm móc mối nguy hiểm.",
+  "conflict": "Kael và Kaela đối mặt với môi trường khắc nghiệt và sự hoang vắng tại thung lũng mạch ngầm Aethelgard, đồng thời phải đối phó với mối đe dọa từ tiếng gầm rú lạ thường ở sâu dưới lòng đất.",
+  "hook": "Tiếng gầm rú trầm đục từ sâu trong lòng đất vang lên, rung chuyển các tinh thể phát quang và báo hiệu sự tồn tại của một sinh vật canh gác khổng lồ.",
+  "emotion_arc": "Từ cảm giác choáng ngợp trước quy mô hoành tráng của thành phố ngầm chuyển dần sang căng thẳng cảnh giác khi âm thanh đe dọa vang lên từ bóng tối.",
+  "contract": {
+    "required_beats": [
+      "Kael và Kaela bước ra khỏi cabin thang máy khẩn cấp xuống nền hợp kim của thung lũng ngầm Aethelgard.",
+      "Mô tả chi tiết không gian ngầm: không khí ẩm ướt, hơi nước lạnh buốt, ánh sáng mập mờ từ các mạch tinh thể khoáng sản và rêu phát quang.",
+      "Kaela sử dụng thiết bị cầm tay để đo lường nồng độ Mana và định hướng dòng chảy năng lượng.",
+      "Kael kiểm tra lại bắp tay trái bị thương, siết chặt chuôi kiếm trước các dấu hiệu bất thường từ bóng tối."
+    ],
+    "continuity_checks": [
+      "Kiểm tra vị trí và trạng thái của Kael (bị thương nhẹ ở bắp tay trái, mệt mỏi thần kinh)",
+      "Duy trì bầu không khí ngột ngạt và lạnh giá của thành phố ngầm Aethelgard",
+      "Đảm bảo tên nhân vật và xưng hô thuần phong cách phương Tây"
+    ],
+    "evaluation_focus": [
+      "Show don't tell trong miêu tả môi trường và cảm giác vật lý",
+      "Sự khác biệt trong phản ứng của Kael (cảnh giác thực chiến) và Kaela (quan sát khoa học)",
+      "Đảm bảo không dùng các từ khóa sáo rỗng hoặc cấm"
+    ],
+    "emotion_target": "Sự căng thẳng và hồi hộp trước nguy hiểm tiềm ẩn trong lòng đất"
+  }
+}

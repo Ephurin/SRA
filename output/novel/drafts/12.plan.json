@@ -1,0 +1,19 @@
+{
+  "chapter": 12,
+  "title": "Thị trấn chợ đen",
+  "goal": "Viết chương 12, mô tả chi tiết cảnh hai nhân vật chính lẩn trốn vào thị trấn chợ đen và chạm trán cảnh báo từ một người thông tin bí ẩn.",
+  "conflict": "Kael và Kaela thâm nhập vào một thị trấn chợ đen biên mậu để tìm phương tiện trốn chạy, nhưng nhận ra mạng lưới tình báo của Helios đã giăng sẵn cạm bẫy khắp nơi.",
+  "hook": "Người thông tin bí ẩn đưa ra chiếc máy phát tín hiệu ghi rõ mức tiền thưởng khổng lồ mà Helios treo cho cái đầu của Kael và Kaela.",
+  "emotion_arc": "Từ sự căng thẳng tột độ sau cuộc vượt biên giới sang cảm giác ngột ngạt, nguy hiểm rình rập giữa đám đông hỗn tạp.",
+  "contract": {
+    "required_beats": [
+      "Kael và Kaela bước vào thị trấn biên mậu với lớp ngụy trang thô sơ.",
+      "Giao dịch mua bán vật tư và phương tiện giả mạo với một thương nhân chợ đen.",
+      "Sự xuất hiện của kẻ săn tiền thưởng hoặc người thông tin mang cảnh báo sát sạt."
+    ],
+    "continuity_checks": [
+      "Duy trì văn phong điện ảnh, Show Don't Tell, đối thoại sinh động trong ngoặc kép.",
+      "Tránh tuyệt đối các từ ngữ cấm kỵ và cấu trúc sáo rỗng."
+    ]
+  }
+}

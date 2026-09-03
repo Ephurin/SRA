@@ -1,0 +1,19 @@
+{
+  "chapter": 96,
+  "title": "Đối đầu trong sảnh tháp",
+  "goal": "Mô tả chi tiết cuộc đối đầu căng thẳng trong sảnh chính tháp trung tâm giữa Kael, Kaela và Đại tá Valerius.",
+  "conflict": "Valerius đuổi kịp vào sảnh tháp trung tâm Aethelgard, đe dọa trực tiếp đến tính mạng của Kaela nhằm chiếm đoạt quyền kiểm soát hệ thống mạch Mana.",
+  "hook": "Kael đứng chắn trước mặt Kaela, dùng lưỡi kiếm rớm máu chỉ thẳng vào ngực Valerius dưới ánh đèn báo động đỏ rực.",
+  "emotion_arc": "Từ căng thẳng tột độ khi báo động vang lên chuyển sang sự quyết tâm bảo vệ Kaela bằng mọi giá của Kael trước kẻ thù.",
+  "contract": {
+    "required_beats": [
+      "Ánh đèn báo động đỏ nhấp nháy khắp sảnh tháp.",
+      "Cuộc đối thoại sắc sảo giữa Valerius và Kael về vận mệnh nhân loại.",
+      "Sự kiên định trong ánh mắt của Kaela khi đối diện với Valerius."
+    ],
+    "continuity_checks": [
+      "Đảm bảo Kael vẫn chịu ảnh hưởng từ dư chấn Gia tốc nhận thức nhưng vẫn giữ được sự sắc bén cần thiết.",
+      "Không sử dụng các từ cấm như đã quy định trong danh sách cấu trúc."
+    ]
+  }
+}

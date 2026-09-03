@@ -1,0 +1,25 @@
+{
+  "chapter": 94,
+  "title": "Trận chiến dưới chân tháp",
+  "goal": "Mô tả chi tiết trận chiến bùng nổ dưới chân tháp trung tâm giữa Kael và lực lượng giáp nặng của Valerius.",
+  "conflict": "Kael lao vào trận chiến giáp lá cà với tiểu đội giáp nặng của Helios ngay trước cửa tháp trung tâm để bảo vệ Kaela, trong khi Valerius dùng thiết bị áp chế thần kinh đẩy Kael vào thử thách giới hạn của Gia tốc nhận thức.",
+  "hook": "Valerius kích hoạt thiết bị áp chế thần kinh, khiến Kael cảm thấy những cơn đau đầu dữ dội bộc phát đúng lúc anh chuẩn bị tung đòn quyết định.",
+  "emotion_arc": "Từ căng thẳng ngột ngạt chuyển sang bùng nổ bạo lực khốc liệt, khép lại bằng sức ép nghẹt thở từ cơn đau thần kinh.",
+  "contract": {
+    "required_beats": [
+      "Kael lao vào vòng vây của bốn tên hộ vệ giáp nặng, sử dụng Mana Skin và kiếm khí để phá vỡ lớp giáp hợp kim.",
+      "Kaela tìm cách truy cập vào bảng điều khiển năng lượng phụ cạnh cửa tháp trong lúc hỗn chiến.",
+      "Valerius kích hoạt công nghệ áp chế thần kinh, đánh mạnh vào điểm yếu của Kael."
+    ],
+    "forbidden_moves": [
+      "Không dùng các từ sáo rỗng hoặc diễn giải nội tâm dài dòng.",
+      "Không để Kael chiến thắng dễ dàng mà không trả giá bằng thể lực."
+    ],
+    "continuity_checks": [
+      "Giữ nguyên phong cách chiến đấu thực tế, không dùng phép thuật toàn năng.",
+      "Miêu tả trực quan cơn đau đầu và áp lực thần kinh của Kael khi sử dụng Gia tốc nhận thức.",
+      "Kaela tập trung tận dụng khoảng thời gian Kael cản chân địch để thao tác bảng điều khiển năng lượng."
+    ],
+    "emotion_target": "Sự hồi hộp và nghẹt thở trước màn giao tranh cận chiến khốc liệt."
+  }
+}

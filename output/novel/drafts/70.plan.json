@@ -1,0 +1,23 @@
+{
+  "chapter": 70,
+  "title": "Tiếng chuông vọng đáy vực",
+  "goal": "Luồn lách qua hầm mỏ bỏ hoang và tìm cách vô hiệu hóa trạm cảm ứng chuyển động của Helios, trước khi vô tình gây ra báo động.",
+  "conflict": "Kael và Kaela cố gắng thâm nhập sâu hơn vào công trường khoan của Helios, nhưng phải đối mặt với hệ thống an ninh dày đặc và một tai nạn ngoài ý muốn.",
+  "hook": "Kaela vô tình chạm vào tinh thể cộng hưởng, phát ra tiếng chuông ngân vang, đánh động toàn bộ lực lượng tuần tra của Helios.",
+  "emotion_arc": "Căng thẳng tột độ -\u003e Hoảng loạn nhất thời -\u003e Quyết tâm chiến đấu.",
+  "notes": "Tập trung vào sự phối hợp giữa Kael và Kaela. Kael bảo vệ, Kaela thực hiện các thao tác kỹ thuật. Không đưa các nhân vật phụ mới vào. Mục tiêu là tạo được không gian ngột ngạt dưới lòng đất.",
+  "contract": {
+    "required_beats": [
+      "Di chuyển thận trọng qua bãi mìn quang học trong hầm mỏ bỏ hoang.",
+      "Kaela giải mã bảng điều khiển cảm ứng của Helios.",
+      "Khoảnh khắc sơ suất khi chạm vào tinh thể cộng hưởng.",
+      "Kael kịp thời cứu Kaela khỏi làn đạn của địch."
+    ],
+    "continuity_checks": [
+      "Vết thương ở bắp tay trái của Kael từ chương 66.",
+      "Trạng thái quá tải thần kinh nhẹ của Kael từ chương 69.",
+      "Sự căng thẳng giữa Kael và lực lượng Helios tại công trường khoan."
+    ],
+    "emotion_target": "Sự hồi hộp và cảm giác bất an khi cái chết cận kề."
+  }
+}

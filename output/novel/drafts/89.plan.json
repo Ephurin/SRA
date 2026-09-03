@@ -1,0 +1,26 @@
+{
+  "chapter": 89,
+  "title": "Lời khiêu chiến từ tháp cao",
+  "goal": "Hoàn thành cảnh chiến đấu với hệ thống phòng thủ tự động và hé lộ thông điệp khiêu chiến từ Đại tá Valerius.",
+  "conflict": "Các tháp pháo tự động trên trần nhà viện nghiên cứu xả đạn dữ dội, ép Kael phải chiến đấu tuyệt mệnh để bảo vệ Kaela và vô hiệu hóa hệ thống phòng thủ.",
+  "hook": "Một thông điệp hình ảnh từ Đại tá Valerius xuất hiện trên màn hình chính, mời họ đến tháp trung tâm để giải quyết dứt điểm ân oán.",
+  "emotion_arc": "Từ sự căng thẳng ngột ngạt chuyển sang bùng nổ xung đột bạo lực, kết thúc bằng một khoảng lặng rợn ngợp khi thông điệp của Valerius xuất hiện.",
+  "notes": "Đảm bảo độ dài từ 2000 đến 4500 từ theo quy định. Miêu tả kỹ thuật chiến đấu kết hợp giữa Gia tốc nhận thức và kiếm khí.",
+  "contract": {
+    "required_beats": [
+      "Các nòng pháo tự động xả đạn plasma cày xới mặt sàn bê tông.",
+      "Kael kích hoạt Gia tốc nhận thức, lao lên chắn đạn và chém nát các cụm cảm biến.",
+      "Kaela hoàn tất việc ngắt kết nối an ninh từ bên trong phòng thí nghiệm.",
+      "Màn hình trung tâm sáng lên, phát đi lời thách thức của Valerius."
+    ],
+    "forbidden_moves": [
+      "Không để Kael dùng phép thuật vô địch; không dùng từ ngữ kiếm hiệp hay tiên hiệp; không giải thích quá nhiều về quá khứ mà tập trung vào hành động hiện tại."
+    ],
+    "continuity_checks": [
+      "Đảm bảo không sử dụng các từ ngữ sáo rỗng đã cấm trong structured.fatigue_words.",
+      "Duy trì phong cách hành động dứt khoát, miêu tả chi tiết phản ứng vật lý và cảm giác căng thẳng thần kinh của Kael.",
+      "Giữ nguyên bối cảnh viện nghiên cứu ngầm tại thành phố trôi nổi Aethelgard."
+    ],
+    "emotion_target": "Sự hồi hộp nghẹt thở trước các đòn đánh chớp nhoáng và cảm giác bị săn đuổi đến đường cùng."
+  }
+}

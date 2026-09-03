@@ -1,0 +1,20 @@
+[
+  {
+    "volume": 2,
+    "arc": 2,
+    "name": "Kael",
+    "status": "Còn sống, đã dẫn dắt Kaela thâm nhập thành công xuống cửa khẩu thành phố ngầm.",
+    "power": "Gia tốc nhận thức và Mana Skin, chịu áp lực thần kinh từ các cuộc giao tranh liên tục.",
+    "motivation": "Bảo vệ Kaela, đối đầu trực diện với lực lượng truy sát của Đại tá Valerius từ khu vực biên giới đến trạm tiếp tế ngầm cho đến khi thâm nhập thành công vào thành phố trôi nổi.",
+    "relations": "Bảo vệ và đồng hành chặt chẽ cùng Kaela; mối thù khắc chế với Đại tá Valerius."
+  },
+  {
+    "volume": 2,
+    "arc": 2,
+    "name": "Kaela",
+    "status": "Còn sống, giữ vững tinh thần kiên cường trong vòng vây của Helios.",
+    "power": "Khả năng tương thích cổ ngữ và trí nhớ luân hồi đang dần thức tỉnh.",
+    "motivation": "Giải mã các tín hiệu cổ ngữ từ thiết bị và trạm tiếp tế, tìm kiếm đường lui xuống tầng sâu mạch Mana và thành phố treo ngược.",
+    "relations": "Tin tưởng tuyệt đối vào Kael, phối hợp sinh tử trong các tình huống hiểm nghèo."
+  }
+]

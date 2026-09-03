@@ -1,0 +1,34 @@
+{
+  "chapter": 76,
+  "title": "Kiếm thép trong hẻm vắng",
+  "goal": "Tiêu diệt băng đảng, lấy được thẻ ra vào tầng thượng lưu, mở đường cho chương sau.",
+  "conflict": "Kael phải đối mặt với băng đảng địa phương trong không gian hẹp, đồng thời kiểm soát Gia tốc nhận thức để không tổn hại thần kinh.",
+  "hook": "Kẻ cầm đầu chết đi để lại một tấm thẻ ra vào cấp cao, hé lộ lối đi lên các tầng thượng lưu.",
+  "emotion_arc": "Căng thẳng tột độ -\u003e Tập trung cao độ -\u003e Giải phóng -\u003e Sự tò mò khi phát hiện vật phẩm mới.",
+  "notes": "Chú ý mô tả môi trường rỉ sét và mùi dầu máy của tầng đáy thành phố trôi nổi.",
+  "contract": {
+    "required_beats": [
+      "Kael đối đầu với nhóm băng đảng.",
+      "Trận chiến chớp nhoáng với kẻ cầm đầu dùng vũ khí ma pháp thô sơ.",
+      "Kael kiểm soát cơn đau thần kinh.",
+      "Phát hiện tấm thẻ từ."
+    ],
+    "forbidden_moves": [
+      "Kael sử dụng Gia tốc nhận thức một cách tự do không hậu quả.",
+      "Diễn biến quá nhanh khiến mất đi chi tiết hành động.",
+      "Nhân vật phản diện giảng giải dài dòng."
+    ],
+    "continuity_checks": [
+      "Kael bị thương nhẹ ở bắp tay trái từ chương 66.",
+      "Kaela đang giữ thiết bị đo lường năng lượng đã hư hại từ chương 75.",
+      "Kael kiệt sức thần kinh từ chương 75."
+    ],
+    "evaluation_focus": [
+      "Mô tả hành động cận chiến logic, không dùng từ sáo rỗng.",
+      "Thể hiện hạn chế về thể lực của Kael.",
+      "Đối thoại ngắn gọn, phản ánh sự tàn khốc của tầng đáy."
+    ],
+    "emotion_target": "Sự nghẹt thở và kịch tính của trận chiến cận chiến.",
+    "hook_goal": "Tạo sự tò mò về tấm thẻ và động lực để họ tiến lên tầng trên."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "chapter": 37,
+  "title": "Phá rào chắn biên phòng",
+  "goal": "Mô tả chi tiết pha phá rào chắn biên phòng và cuộc tẩu thoát nghẹt thở dưới làn đạn của lực lượng Helios.",
+  "conflict": "Hệ thống kiểm soát trạm biên phòng từ chối quyền truy cập sinhometric của chiếc xe tải, đẩy Kael và Kaela vào tình thế quyết định giữa đầu hàng hoặc phá rào bằng bạo lực.",
+  "hook": "Thiết bị phát tín hiệu trên xe bị kích hoạt chế độ tự hủy, phát ra tiếng còi inh oái và thu hút toàn bộ phi đội máy bay không người lái truy đuổi.",
+  "emotion_arc": "Từ căng thẳng nghẹt thở khi chờ đợi quét sinh trắc học đến bùng nổ xung đột bạo lực, kết thúc bằng áp lực truy đuổi gắt gao của máy bay không người lái.",
+  "contract": {
+    "required_beats": [
+      "Sĩ quan Helios phát hiện dữ liệu sinhometric không khớp và ra lệnh báo động.",
+      "Kael lập tức đạp ga tông thẳng qua cổng chắn bê tông cốt thép dưới làn đạn laser.",
+      "Xe tải lao qua cầu cạn sụp đổ trong sự truy sát của cảnh sát cơ giới Helios."
+    ],
+    "continuity_checks": [
+      "Duy trì tính nhất quán về vết thương ở bắp tay trái của Kael và di chứng kiệt sức thần kinh.",
+      "Đảm bảo phản ứng của lính gác Helios tuân thủ tiêu chuẩn quân sự kỷ luật thép."
+    ]
+  }
+}

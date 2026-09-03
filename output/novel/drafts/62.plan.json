@@ -1,0 +1,22 @@
+{
+  "chapter": 62,
+  "title": "Vòng vây siết chặt",
+  "goal": "Thiết lập vòng vây, tạo tối hậu thư và chuẩn bị cho cuộc tẩu thoát ở chương sau.",
+  "conflict": "Lực lượng truy sát của Helios do Valerius chỉ huy bao vây trạm tiếp tế, dồn Kael và Kaela vào thế chân tường.",
+  "hook": "Valerius xuất hiện qua màn hình giám sát, đưa ra tối hậu thư yêu cầu Kael giao nộp phiến đá cổ trong vòng mười phút.",
+  "emotion_arc": "Căng thẳng - Tuyệt vọng - Quyết tâm sinh tồn.",
+  "notes": "Đây là chương cuối của tập, cần tạo ra cảm giác kết thúc một giai đoạn và mở ra chương mới đầy cam go.",
+  "contract": {
+    "required_beats": [
+      "Tiếng động cơ và va chạm rung chuyển trạm ngầm.",
+      "Kael chuẩn bị vũ khí và đánh giá tình hình.",
+      "Valerius chiếm quyền điều khiển hệ thống liên lạc và đưa ra tối hậu thư."
+    ],
+    "continuity_checks": [
+      "Tình trạng vết thương của Kael (bả vai phải) cần duy trì sự hạn chế.",
+      "Valerius phải xuất hiện uy quyền và tàn nhẫn đúng chất phản diện.",
+      "Không gian trạm tiếp tế ngầm cần được miêu tả rõ sự chật hẹp, ngột ngạt."
+    ],
+    "emotion_target": "Căng thẳng cực độ, áp lực nghẹt thở."
+  }
+}

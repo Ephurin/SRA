@@ -1,0 +1,20 @@
+{
+  "chapter": 45,
+  "title": "Bích họa trong hang đá",
+  "goal": "Kael tiêu diệt thành công cỗ máy nhện nhưng bị thương ở bắp tay trái; cả hai tìm một hang động nhỏ để tạm trú và băng bó vết thương, sau đó phát hiện ra bích họa cổ đại.",
+  "conflict": "Kael và Kaela phải tìm nơi trú ẩn khẩn cấp trong hang đá tối tăm để sơ cứu vết thương sau trận chiến tàn khốc, đối mặt với sự mệt mỏi cực độ và những vết tích lịch sử bất ngờ trên vách đá.",
+  "hook": "Trong ánh sáng mờ ảo của hang động, Kaela phát hiện những bức bích họa cổ khắc trên vách đá kể về lịch sử của nền văn minh đầu tiên.",
+  "emotion_arc": "Từ sự căng thẳng, gấp gáp và hồi hộp sau vụ nổ plasma chuyển sang sự tĩnh lặng nặng nề, tò mò và chiêm nghiệm khi đối diện với các bức bích họa cổ.",
+  "contract": {
+    "required_beats": [
+      "Kael né tránh luồng plasma và kéo Kaela thoát khỏi vùng nguy hiểm vào một hốc hang nhỏ.",
+      "Quá trình băng bó vết thương bắp tay trái diễn ra trong không gian tối tăm với ánh sáng yếu từ đèn pin.",
+      "Kaela soi đèn pin vào vách hang và phát hiện các đường nét bích họa cổ xưa khắc họa hình ảnh dòng mạch Mana và con người."
+    ],
+    "continuity_checks": [
+      "Kiểm tra vết thương bắp tay trái của Kael từ trận chiến với cỗ máy nhện.",
+      "Đảm bảo sự căng thẳng và cẩn trọng của Kaela khi sử dụng thiết bị trong bóng tối.",
+      "Không dùng các từ sáo rỗng hoặc lặp lại cấu trúc câu từ chương trước."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "chapter": 15,
+  "title": "Cuộc chiến trên mui xe tải",
+  "goal": "Miêu tả chi tiết cuộc đọ sức trên không giữa Kael và máy bay không người lái của Helios trên nóc xe tải đang phóng nhanh trên sa mạc",
+  "conflict": "Đoàn xe tải bọc thép chở Kael và Kaela bị phi đội máy bay không người lái vũ trang của Helios truy đuổi gắt gao trên cao tốc sa mạc; Kael phải trực tiếp lên nóc xe giao chiến ở tốc độ cao trong khi Kaela tính toán quỹ đạo từ cabin.",
+  "hook": "Thiết bị phát tín hiệu trên xe tự kích hoạt chế độ tự hủy, phát ra ánh sáng đỏ chói chang thu hút toàn bộ phi đội máy bay không người lái còn lại đổ ập về phía họ.",
+  "emotion_arc": "Căng thẳng tột độ, nghẹt thở chuyển sang bùng nổ hành động nghẹt thở và kết thúc bằng sự bao vây ngột ngạt",
+  "contract": {
+    "required_beats": [
+      "Kael trèo lên nóc xe tải bọc thép khi xe đang chạy tốc độ cao trên sa mạc",
+      "Kích hoạt Mana Skin bọc quanh lưỡi kiếm, chém gục các mục tiêu bay không người lái của Helios",
+      "Kaela tính toán góc độ gió và quỹ đạo bay từ màn hình cabin để truyền thông tin hỗ trợ Kael",
+      "Thiết bị phát tín hiệu kích hoạt tự hủy tạo ra điểm móc khủng hoảng cuối chương"
+    ],
+    "continuity_checks": [
+      "Kael phải đối mặt với áp lực thể lực sau khi dùng Gia tốc nhận thức ở chương trước",
+      "Sự phối hợp không gian giữa Kael trên mui xe và Kaela bên trong cabin qua màn hình tính toán",
+      "Văn phong điện ảnh thời gian thực, tuyệt đối không dùng từ khóa sáo rỗng hoặc mở đầu bằng thời gian rập khuôn"
+    ]
+  }
+}

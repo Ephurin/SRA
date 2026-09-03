@@ -1,0 +1,30 @@
+{
+  "chapter": 60,
+  "title": "Đụng độ người máy tàng hình",
+  "goal": "Viết chương 60: Kael chạm trán với người máy tàng hình Helios, sử dụng kiếm khí phá hủy lõi năng lượng và tạo ra xung điện tê liệt toàn vùng.",
+  "conflict": "Kael và Kaela đối đầu bất ngờ với người máy tàng hình quang học của tập đoàn Helios trong khu rừng kim loại.",
+  "hook": "Kiếm khí chém trúng lõi năng lượng của người máy, giải phóng luồng xung điện mạnh làm tê liệt toàn bộ hệ thống thông tin quanh vùng.",
+  "emotion_arc": "Từ căng thẳng dò dẫm trong sương mù sang bùng nổ xung đột sinh tử dồn dập, kết thúc bằng một chấn động năng lượng tê liệt.",
+  "contract": {
+    "required_beats": [
+      "Kael phát hiện dị biến không gian do lớp ngụy trang quang học của người máy tạo ra.",
+      "Kích hoạt Gia tốc nhận thức để né đòn tấn công cận chiến bằng dao plasma của người máy.",
+      "Vung kiếm chém nát lõi năng lượng, tạo xung điện cắt đứt tín hiệu truy đuổi của Helios."
+    ],
+    "forbidden_moves": [
+      "Không dùng các từ ngữ cấm kỵ (bỗng nhiên, dường như, im lặng, v.v.).",
+      "Không có phép màu vô điều kiện hoặc chiến thắng dễ dàng."
+    ],
+    "continuity_checks": [
+      "Kiểm tra kỹ vết thương vai phải của Kael (đã bị rách và đau nhức từ chương 58-59).",
+      "Đảm bảo phong cách chiến đấu thực tế, không dùng từ ngữ sáo rỗng hay phép màu vô điều kiện.",
+      "Dùng Gia tốc nhận thức để giải quyết bước ngoặt cận chiến."
+    ],
+    "evaluation_focus": [
+      "Miêu tả chi tiết cảm giác vật lý và phản xạ thần kinh của Kael.",
+      "Sự phối hợp giữa Kael và Kaela trong tình huống nguy cấp.",
+      "Tuân thủ tuyệt đối quy tắc từ vựng và cấm các sáo ngữ AI."
+    ],
+    "emotion_target": "Hồi hộp, nghẹt thở trước đòn tấn công bất ngờ từ bóng tối."
+  }
+}

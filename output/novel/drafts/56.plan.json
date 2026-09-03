@@ -1,0 +1,32 @@
+{
+  "chapter": 56,
+  "title": "Đêm tập kích quán trọ",
+  "goal": "Kael hạ sát nhóm lính đánh thuê để bảo toàn bí mật vị trí và thoát khỏi quán trọ.",
+  "conflict": "Nhóm lính đánh thuê Helios tấn công quán trọ, Kael và Kaela bị dồn vào thế bí trong không gian hẹp.",
+  "hook": "Kael phát hiện ra một thiết bị định vị gắn trên hành lý của họ, cho thấy Helios đã cài mật thám từ trước.",
+  "emotion_arc": "Từ căng thẳng cao độ, cảnh giác đến quyết liệt trong hành động.",
+  "contract": {
+    "required_beats": [
+      "Tiếng bước chân báo hiệu sự tấn công.",
+      "Kael tắt đèn, sử dụng bóng tối để chiến đấu.",
+      "Sử dụng Gia tốc nhận thức có kiểm soát.",
+      "Tiêu diệt nhóm lính trước khi chúng gọi viện binh."
+    ],
+    "forbidden_moves": [
+      "Kael không được dùng Gia tốc nhận thức quá mức đến mức bất tỉnh ngay lập tức.",
+      "Không được để Kaela trở nên vô dụng trong cảnh chiến đấu."
+    ],
+    "continuity_checks": [
+      "Kael vẫn đang chịu dư chấn thần kinh từ chương trước.",
+      "Kaela cần bảo vệ phiến đá cổ.",
+      "Vũ khí và trang bị của nhóm lính đánh thuê Helios phù hợp với thiết lập tập đoàn quân sự."
+    ],
+    "evaluation_focus": [
+      "Mô tả hành động cận chiến và Gia tốc nhận thức của Kael.",
+      "Sự tương tác giữa Kael và Kaela trong tình huống nguy cấp.",
+      "Đảm bảo văn phong không dùng sáo ngữ và tuân thủ các quy tắc mô tả giác quan."
+    ],
+    "emotion_target": "Sự hồi hộp và mãn nhãn với các pha hành động cận chiến.",
+    "hook_goal": "Tạo sự nghi ngờ về việc ai đã phản bội họ và sự nguy hiểm đang bám sát."
+  }
+}

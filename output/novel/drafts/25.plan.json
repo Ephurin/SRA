@@ -1,0 +1,19 @@
+{
+  "chapter": 25,
+  "title": "Chuyến xe ngụy trang",
+  "goal": "Mô tả hành trình cướp xe tải chở thiết bị của Helios và sự căng thẳng khi tiến sát trạm kiểm soát tiếp theo.",
+  "conflict": "Kael và Kaela cướp xe tải của Helios nhưng phải đối mặt với áp lực thời gian và hệ thống bảo mật khi di chuyển qua các trạm kiểm soát của thành phố ngầm.",
+  "hook": "Trạm kiểm soát yêu cầu mã xác thực sinhometric cấp cao mà chiếc xe không có, buộc Kael phải chuẩn bị cho tình huống bạo lực cận kề.",
+  "emotion_arc": "Căm phẫn, căng thẳng tột độ, nghẹt thở trong không gian chật chội của khoang xe tải ngụy trang.",
+  "contract": {
+    "required_beats": [
+      "Thao tác kỹ thuật thô bạo trên bảng điều khiển xe tải ngụy trang",
+      "Cảm giác xóc nảy khi vượt qua các cung đường cao tốc bỏ hoang dưới lòng thành phố ngầm",
+      "Sự căng thẳng ngột ngạt khi tiến sát cổng kiểm soát thứ hai của Helios"
+    ],
+    "continuity_checks": [
+      "Vết thương bắp tay trái của Kael từ chương 24",
+      "Sự hiện diện của thiết bị ngụy trang và xe tải cướp được"
+    ]
+  }
+}

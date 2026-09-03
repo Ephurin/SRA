@@ -1,0 +1,20 @@
+{
+  "chapter": 42,
+  "title": "Cửa khẩu thành phố ngầm",
+  "goal": "Hoàn thành màn đào tẩu khỏi trạm tiếp tế ngầm, đối đầu gián tiếp lần cuối với Valerius qua bẫy nổ, và mở ra chương mới tại thành phố trôi nổi Aethelgard.",
+  "conflict": "Kael dùng vụ nổ chặn cửa hầm để đối phó với sự bao vây của Valerius, trong khi Kaela kích hoạt thang máy khẩn cấp chạy trốn xuống thành phố ngầm Aethelgard trước khi bộ đếm ngược kết thúc.",
+  "hook": "Ánh đèn neon rực rỡ và những tòa nhà chọc trời lộn ngược của thành phố trôi nổi Aethelgard hiện ra choáng ngợp ngay dưới chân khi thang máy hạ tầng khẩn cấp phá vỡ lớp mây mù.",
+  "emotion_arc": "Từ căng thẳng nghẹt thở trong vòng vây hẹp tới cảm giác choáng ngợp, tự do khi lao vào không gian lộn ngược của thành phố ngầm.",
+  "contract": {
+    "required_beats": [
+      "Kael đặt mìn tự chế hoặc kích hoạt bẫy nổ để chặn đứng cửa hầm bê tông.",
+      "Kaela thao tác điên cuồng trên bảng điều khiển cơ học cổ đại để giải phóng cần gạt thang máy.",
+      "Cả hai rơi xuống trong khoang thang máy lắc lư dữ dội dưới làn đạn và khói lửa."
+    ],
+    "continuity_checks": [
+      "Duy trì vết thương ở bắp tay trái của Kael và sự kiệt sức thần kinh nhẹ.",
+      "Đảm bảo tính nhất quán của thiết bị đếm ngược và công nghệ thang máy khẩn cấp cổ đại.",
+      "Tuân thủ nghiêm ngặt quy tắc không dùng từ sáo rỗng và đảm bảo độ dài tối thiểu 2000 từ."
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "chapter": 28,
+  "title": "Đụng độ người máy tàng hình",
+  "goal": "Mô tả trận chiến giữa Kael và đơn vị robot tàng hình trong môi trường ảo ảnh quang học.",
+  "conflict": "Kael và Kaela đối mặt với đơn vị chiến đấu người máy tàng hình trong không gian bị bẻ cong bởi bức xạ Mana.",
+  "hook": "Kiếm khí chém trúng lõi năng lượng robot, tạo ra một đợt xung điện tê liệt toàn bộ khu vực.",
+  "emotion_arc": "Căng thẳng nghẹt thở, tập trung tối đa trong cận chiến sinh tử.",
+  "contract": {
+    "required_beats": [
+      "Sự xuất hiện chớp nhoáng của bóng kim loại trong màn sương ảo ảnh.",
+      "Kael kích hoạt Gia tốc nhận thức để né đòn tấn công từ điểm mù.",
+      "Đường kiếm quyết định phá hủy lớp ngụy trang và lõi năng lượng."
+    ],
+    "continuity_checks": [
+      "Kiểm tra vết thương bắp tay trái của Kael vẫn đang rách và đau nhức.",
+      "Đảm bảo không dùng các từ sáo rỗng bị cấm."
+    ]
+  }
+}

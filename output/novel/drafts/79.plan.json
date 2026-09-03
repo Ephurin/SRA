@@ -1,0 +1,19 @@
+{
+  "chapter": 79,
+  "title": "Hành lang đối quyết",
+  "goal": "Mở đường máu qua sảnh tháp trung tâm và đẩy cuộc đối đầu lên cao trào trước cửa phòng lõi.",
+  "conflict": "Kael phải đối mặt với hàng chục lính an ninh Helios tại sảnh tòa tháp trong khi Kaela phải tiến vào phòng điều khiển lõi; sự can thiệp trực tiếp của Valerius tạo ra bức tường lửa ngăn cản tuyệt đối.",
+  "hook": "Đại tá Valerius chặn đứng lối vào duy nhất, chĩa khẩu súng năng lượng thẳng vào ngực Kael với nụ cười ngạo nghễ.",
+  "emotion_arc": "Từ căng thẳng tột độ tại chốt kiểm soát đến sự bùng nổ bạo lực trong sảnh tòa tháp, khép lại bằng sự choáng ngợp và áp lực đè nặng khi chạm trán Valerius.",
+  "contract": {
+    "required_beats": [
+      "Kael kích hoạt Gia tốc nhận thức ở mức cao để né đạn và hạ gục tiểu đội an ninh trong sảnh.",
+      "Kaela chạy nước rút về phía bảng điều khiển trung tâm theo đúng lộ trình tính toán.",
+      "Valerius xuất hiện từ làn khói súng, chặn đứng bước tiến của Kael tại hành lang chính."
+    ],
+    "continuity_checks": [
+      "Duy trì trạng thái kiệt sức thần kinh của Kael sau khi lạm dụng Gia tốc nhận thức.",
+      "Đảm bảo sự khác biệt giữa hai nhân vật: Kael lạnh lùng dứt khoát, Kaela lý trí và tập trung vào dữ liệu."
+    ]
+  }
+}

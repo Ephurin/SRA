@@ -1,0 +1,34 @@
+{
+  "chapter": 38,
+  "title": "Rừng công nghiệp sương mù",
+  "goal": "Viết phân cảnh chạy bộ vào rừng nhân tạo sau khi xe tải bị phá hủy, thiết lập không khí u ám và phát hiện hiện tượng ảo ảnh.",
+  "conflict": "Kael và Kaela phải thoát khỏi sự truy đuổi của phi đội máy bay không người lái Helios sau khi chiếc xe tải bị phá hủy, đồng thời đối mặt với môi trường rừng nhân tạo đầy ảo ảnh ma pháp.",
+  "hook": "Kaela phát hiện nồng độ Mana trong không khí tại đây bất thường, tạo ra các ảo ảnh quang học đánh lừa thị giác.",
+  "emotion_arc": "Căng thẳng tột độ -\u003e Hoang mang trước ảo ảnh -\u003e Cảnh giác cao độ.",
+  "notes": "Tập trung vào sự tương phản giữa vẻ ngoài \"nguyên sinh\" của rừng và bản chất \"kim loại/nhân tạo\" của nó. Kael đang đau đớn, cần thể hiện qua các chi tiết cơ thể.",
+  "contract": {
+    "required_beats": [
+      "Cú va chạm khi xe tải rơi xuống và việc thoát ra ngoài.",
+      "Tiến vào khu rừng công nghiệp ngập sương mù.",
+      "Sự xuất hiện của máy bay không người lái trên không trung.",
+      "Sự thay đổi của không gian khi ảo ảnh ma pháp bắt đầu tác động."
+    ],
+    "forbidden_moves": [
+      "Không để nhân vật chính tóm tắt về tình cảnh cũ.",
+      "Không để Kael hồi phục vết thương ngay lập tức.",
+      "Không có lời thoại giải thích về nguồn gốc rừng quá dài dòng."
+    ],
+    "continuity_checks": [
+      "Tình trạng vết thương của Kael (bắp tay trái, kiệt sức thần kinh)",
+      "Thiết bị định vị trên xe tải bị kích hoạt tự hủy",
+      "Sự hiện diện của phi đội máy bay không người lái của Helios"
+    ],
+    "evaluation_focus": [
+      "Mô tả môi trường rừng nhân tạo (5 giác quan)",
+      "Cảm giác vật lý của Kael khi kiệt sức và bị thương",
+      "Sự tương tác giữa Kael và Kaela khi đối mặt với ảo ảnh"
+    ],
+    "emotion_target": "Sự ngột ngạt và nguy hiểm của môi trường rừng sương mù.",
+    "hook_goal": "Tạo sự hoang mang tột độ cho nhân vật chính khi họ không còn tin vào mắt mình nữa."
+  }
+}

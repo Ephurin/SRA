@@ -1,0 +1,20 @@
+{
+  "chapter": 10,
+  "title": "Ánh sáng từ lõi sâu",
+  "goal": "Khép lại Cung 1 bằng việc mở ra hồ Mana nguyên thủy và thiết lập cục diện đối đầu với Valerius để chuẩn bị bước sang Cung 2.",
+  "conflict": "Kael và Kaela đối mặt với nguồn năng lượng cốt lõi trước thềm đột phá, trong khi Đại tá Valerius cùng lực lượng Helios áp sát hành lang phòng lõi.",
+  "hook": "Bóng dáng Valerius xuất hiện ở đầu hành lang cùng khẩu pháo năng lượng, đe dọa trực tiếp đến tính mạng nhóm Kael.",
+  "emotion_arc": "Từ căng thẳng nghẹt thở trong không gian hẹp chuyển sang choáng ngợp trước quy mô năng lượng cổ đại, cuối cùng bùng nổ thành cảnh đối đầu trực diện sinh tử.",
+  "contract": {
+    "required_beats": [
+      "Mô tả chi tiết khung cảnh tráng lệ của hồ Mana lỏng trong phòng lõi",
+      "Phản ứng sinh học của Kael và Kaela trước áp lực năng lượng khổng lồ",
+      "Sự xuất hiện áp đảo của Valerius tại cửa hành lang"
+    ],
+    "continuity_checks": [
+      "Duy trì đúng chấn thương vai và kiệt sức thần kinh của Kael từ chương 9",
+      "Sử dụng đúng bối cảnh hồ Mana nguyên thủy trong phòng lõi",
+      "Tuân thủ nghiêm ngặt phong cách phương Tây, không dùng từ ngữ Đông phương"
+    ]
+  }
+}

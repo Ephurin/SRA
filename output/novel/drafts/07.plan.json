@@ -1,0 +1,19 @@
+{
+  "chapter": 7,
+  "title": "Nhịp thở trong giao tranh",
+  "goal": "Miêu tả chi tiết cuộc chiến giáp lá cà giữa Kael và lực lượng đánh thuê Helios để yểm trợ Kaela rút lui.",
+  "conflict": "Kael đơn độc đối đầu và cản bước tiểu đội lính đánh thuê Helios trong hẻm núi đá hẹp dưới lòng tàn tích.",
+  "hook": "Cơn đau nhói từ hệ thần kinh do lạm dụng Gia tốc nhận thức bùng phát, đe dọa làm Kael ngã quỵ ngay giữa vòng vây địch.",
+  "emotion_arc": "Từ căng thẳng cực độ đến sự tập trung tột độ và cơn đau thể xác dồn dập.",
+  "contract": {
+    "required_beats": [
+      "Kael đối mặt hỏa lực áp chế từ tiểu đội lính đánh thuê trong không gian chật hẹp.",
+      "Sử dụng Mana Skin và kiếm khí cận chiến để vô hiệu hóa lớp giáp hợp kim của địch.",
+      "Biểu hiện quá tải thần kinh và triệu chứng kiệt sức của Kael sau giao tranh."
+    ],
+    "continuity_checks": [
+      "Duy trì phong cách hành động vật lý thực tế, không dùng từ ngữ sáo rỗng hoặc diễn giải nội tâm rườm rà.",
+      "Nhấn mạnh cái giá của việc lạm dụng Gia tốc nhận thức (đau đầu, quá tải thần kinh)."
+    ]
+  }
+}

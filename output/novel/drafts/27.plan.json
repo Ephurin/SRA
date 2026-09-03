@@ -1,0 +1,32 @@
+{
+  "chapter": 27,
+  "title": "Rừng công nghiệp sương mù",
+  "goal": "Kael và Kaela tẩu thoát khỏi khu vực truy quét của Helios bằng cách thâm nhập vào hệ thống thông gió của khu công nghiệp.",
+  "conflict": "Kael và Kaela bị lạc trong mê cung thông gió của khu phức hợp, trong khi lực lượng Helios đang quét sạch khu vực bên ngoài bằng thiết bị dò tìm nhiệt và sóng âm. Kael phải kiềm chế cơn đau thần kinh từ việc lạm dụng Gia tốc nhận thức ở chương trước để dẫn đường, đồng thời bảo vệ Kaela khỏi sự truy quét của drone.",
+  "hook": "Kaela phát hiện ra nồng độ Mana tại khu vực này có tính chất bẻ cong ánh sáng, tạo ra các ảo ảnh quang học khiến họ không thể tin vào mắt mình.",
+  "emotion_arc": "Căng thẳng tột độ -\u003e Kiệt quệ -\u003e Sự hoài nghi mơ hồ về môi trường xung quanh.",
+  "notes": "Chú trọng vào việc đặc tả cảm giác ngột ngạt trong ống thông gió và sự phối hợp tĩnh lặng giữa hai người.",
+  "contract": {
+    "required_beats": [
+      "Cảnh tẩu thoát khỏi hiện trường vụ nổ xe tải.",
+      "Sự xâm nhập vào hệ thống thông gió.",
+      "Sự truy quét của drone Helios bên ngoài.",
+      "Phát hiện hiện tượng ảo ảnh Mana."
+    ],
+    "forbidden_moves": [
+      "Không được để Kael chiến đấu trực diện với cả tiểu đội Helios ngay trong mê cung.",
+      "Không được giải thích quá nhiều về lịch sử của khu công nghiệp tại chương này."
+    ],
+    "continuity_checks": [
+      "Kael đang bị thương ở bắp tay trái.",
+      "Cả hai đang trốn trong khu vực công nghiệp cũ của Helios.",
+      "Sử dụng Gia tốc nhận thức gây kiệt sức thần kinh."
+    ],
+    "evaluation_focus": [
+      "Mô tả giác quan trong mê cung thông gió (tiếng vang, mùi gỉ sắt, không gian hẹp).",
+      "Show, don't tell trạng thái kiệt quệ của Kael.",
+      "Phản ứng của Kaela trước hiện tượng ảo ảnh Mana."
+    ],
+    "emotion_target": "Sự ngột ngạt và cảm giác bị săn đuổi."
+  }
+}

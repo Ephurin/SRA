@@ -1,0 +1,19 @@
+{
+  "chapter": 33,
+  "title": "Vượt ranh giới cát",
+  "goal": "Triển khai phân cảnh tại khoang ngầm bẫy, thoát ra ngoài và đối mặt với trạm kiểm soát biên giới công nghệ cao của Helios.",
+  "conflict": "Kael và Kaela bị kẹt trong khoang ngầm nghi là bẫy của Valerius, phải tìm đường thoát ra ranh giới biên giới trạm kiểm soát công nghệ cao của Helios.",
+  "hook": "Hệ thống nhận diện quét qua phiến đá cổ và phát tín hiệu báo động đỏ khắp mạng lưới khu vực.",
+  "emotion_arc": "Từ căng thẳng tột độ khi phát hiện bẫy đến sự quyết đoán, phá vỡ vòng vây để tiến ra khu vực biên giới trạm kiểm soát công nghệ cao.",
+  "contract": {
+    "required_beats": [
+      "Kael và Kaela nhận ra khoang chứa là cái bẫy và tìm lối thoát hiểm ngầm.",
+      "Họ di chuyển qua hệ thống ống dẫn phụ để tránh lực lượng tuần tra Helios.",
+      "Tiếp cận trạm kiểm soát biên giới công nghệ cao, đối mặt với hệ thống quét sinhometric tự động."
+    ],
+    "continuity_checks": [
+      "Kiểm tra tình trạng chấn thương và kiệt quệ thần kinh của Kael sau chuỗi chiến đấu liên tục.",
+      "Đảm bảo sự phối hợp nhịp nhàng và căng thẳng giữa Kael và Kaela trong không gian hẹp."
+    ]
+  }
+}

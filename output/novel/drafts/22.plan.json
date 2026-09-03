@@ -1,0 +1,31 @@
+{
+  "chapter": 22,
+  "title": "Hẻm Tối Mana Lỏng",
+  "goal": "Mô tả hành trình Kael và Kaela tìm kiếm tin tức tại thành phố ngầm Aethelgard và chạm trán các băng đảng kiểm soát Mana lỏng.",
+  "conflict": "Kael và Kaela thâm nhập vào các tầng dân cư lộn xộn của thành phố ngầm để tìm nguồn tin tình báo, nhưng bị chặn lại bởi các băng đảng địa phương đang kiểm soát hệ thống phân phối Mana lỏng.",
+  "hook": "Một tên trùm băng đảng địa phương vứt lên bàn một ống đựng Mana lỏng tạp chất, mỉm cười gán cho họ một cái giá đắt hơn cả tiền bạc.",
+  "emotion_arc": "Từ căng thẳng, cảnh giác chuyển sang áp lực nghẹt thở khi đối mặt với băng đảng địa phương kiểm soát Mana lỏng.",
+  "contract": {
+    "required_beats": [
+      "Kael và Kaela di chuyển qua các tầng dân cư lộn xộn và ẩm thấp của thành phố ngầm Aethelgard.",
+      "Quan sát hệ thống phân phối Mana lỏng bị các băng đảng vũ trang kiểm soát chặt chẽ.",
+      "Tiếp cận một quán rượu tồi tàn hoặc điểm giao dịch ngầm để dò hỏi tin tình báo.",
+      "Chạm trán căng thẳng với tay chân của băng đảng địa phương, buộc Kael phải thể hiện áp lực cận chiến."
+    ],
+    "forbidden_moves": [
+      "Không dùng tóm tắt sự kiện (Tell).",
+      "Không dùng triết lý sáo rỗng ở cuối chương.",
+      "Không dùng tên Hán-Việt hoặc xưng hô tiên hiệp."
+    ],
+    "continuity_checks": [
+      "Kiểm tra tính liên tục từ cuối chương 21: Kael vừa nghe bộ đàm từ Valerius, tiếp tục di chuyển sâu vào thành phố ngầm Aethelgard.",
+      "Đảm bảo không dùng sáo ngữ AI, tuân thủ Show, Don't Tell, văn phong điện ảnh thời gian thực.",
+      "Sử dụng tên phong cách phương Tây (Kael, Kaela, Valerius)."
+    ],
+    "evaluation_focus": [
+      "Văn phong điện ảnh thời gian thực, mô tả chi tiết giác quan, không tóm tắt sự kiện.",
+      "Đảm bảo độ dài tối thiểu 2000 từ."
+    ],
+    "emotion_target": "Sự ngột ngạt, áp lực sinh tồn và sự nguy hiểm chực chờ trong thế giới ngầm tối tăm."
+  }
+}

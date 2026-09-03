@@ -1,0 +1,20 @@
+{
+  "chapter": 68,
+  "title": "Đụng độ thợ săn ngầm",
+  "goal": "Hạ gục nhóm thợ săn tiền thưởng đầu tiên của Helios trong đường hầm ngầm, cướp thiết bị liên lạc để dò la âm mưu của địch.",
+  "conflict": "Kael và Kaela bị thợ săn tiền thưởng Helios truy đuổi trong đường hầm ngầm tối tăm.",
+  "hook": "Qua thiết bị liên lạc của kẻ địch, tiếng nói lạnh lùng của Valerius vang lên, ra lệnh kích hoạt cỗ máy khoan xuyên tầng.",
+  "emotion_arc": "Từ căng thẳng, hồi hộp rình rập trong bóng tối đến chớp nhoáng ra đòn quyết định và làm chủ tình thế.",
+  "contract": {
+    "required_beats": [
+      "Kael tận dụng bóng tối để phục kích tên dẫn đường của Helios.",
+      "Trận giáp lá cà chớp nhoáng, sắc bén và không rườm rà.",
+      "Thu giữ thiết bị liên lạc quân sự và phát hiện ý đồ của Đại tá Valerius."
+    ],
+    "continuity_checks": [
+      "Kael bị thương bắp tay trái từ chương 65-66, ảnh hưởng đến lực tay khi vung kiếm.",
+      "Thiết bị liên lạc thu giữ từ kẻ địch ở cuối chương giúp họ nắm bắt âm mưu của Valerius cho chương tiếp theo."
+    ],
+    "emotion_target": "Hồi hộp, nghẹt thở trước các đòn đánh cận chiến chớp nhoáng trong không gian chật hẹp."
+  }
+}

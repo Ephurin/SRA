@@ -1,0 +1,20 @@
+{
+  "chapter": 53,
+  "title": "Không Gian Cộng Hưởng",
+  "goal": "Khởi đầu chương 53 bằng việc miêu tả hậu quả của vụ nổ lõi Mana, đưa nhân vật vào không gian cộng hưởng ký ức, nơi Kaela bắt đầu nhận ra những mảnh ghép về tiền kiếp và bí mật của tập đoàn Helios.",
+  "conflict": "Kael, Kaela và Valerius bị kẹt trong không gian cộng hưởng của lõi Mana, nơi ranh giới giữa thực tại và ký ức nguyên thủy bị xé toạc.",
+  "hook": "Một hình bóng quen thuộc từ hàng thế kỷ trước xuất hiện từ làn sương Mana, cất lời gọi tên thật của Kael.",
+  "emotion_arc": "Từ choáng váng, mất phương hướng sang sự bàng hoàng khi đối mặt với ảo ảnh ký ức cổ đại và sự tồn tại của thực thể cốt lõi.",
+  "contract": {
+    "required_beats": [
+      "Miêu tả trạng thái sau chấn động của Kael và Kaela trong không gian xanh thẫm không trọng lực.",
+      "Sự xuất hiện của các hình ảnh ký ức lặp lại từ thời kỳ văn minh trước.",
+      "Valerius bị cô lập ở một góc khác của không gian cộng hưởng nhưng vẫn cố gắng tìm cách kiểm soát hệ thống.",
+      "Kaela nhận ra nguồn gốc thực sự của cấu trúc mạch Mana toàn cầu qua các mảnh vỡ thông tin trôi nổi."
+    ],
+    "continuity_checks": [
+      "Kael vẫn chịu chấn thương thần kinh nặng từ chương trước, không dùng lại từ cấm sáo rỗng.",
+      "Duy trì bầu không khí ngột ngạt, kỳ bí của không gian cộng hưởng Mana."
+    ]
+  }
+}

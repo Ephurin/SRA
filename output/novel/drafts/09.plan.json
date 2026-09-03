@@ -1,0 +1,19 @@
+{
+  "chapter": 9,
+  "title": "Đại chiến trước thềm lõi năng lượng",
+  "goal": "Viết trọn vẹn trận chiến đỉnh cao giữa Kael, Kaela và Valerius tại cửa phòng lõi năng lượng.",
+  "conflict": "Kael và Kaela đối đầu trực diện với Valerius và thuộc hạ trước phòng lõi năng lượng của tàn tích Sahara.",
+  "hook": "Valerius kích hoạt phương trình ma pháp cuối cùng, chuẩn bị bẻ khóa lõi Mana nguyên thủy trước sự bất lực của hệ thống phòng thủ.",
+  "emotion_arc": "Từ căng thẳng, dồn nập chuyển sang bùng nổ xung đột sinh tử giữa cận chiến tốc độ cao và ma pháp tính toán diện rộng.",
+  "contract": {
+    "required_beats": [
+      "Kael và Kaela chạm mặt Valerius tại ngưỡng cửa phòng lõi năng lượng ngầm.",
+      "Trận chiến cận chiến kết hợp Mana Skin của Kael với ma pháp tính toán từ xa của Valerius.",
+      "Kaela nỗ lực can thiệp vào hệ thống điều khiển để cản trở đối phương."
+    ],
+    "continuity_checks": [
+      "Đảm bảo vết thương và tình trạng kiệt sức thần kinh của Kael từ chương trước được phản ánh qua các động tác cận chiến.",
+      "Valerius thể hiện rõ bản chất chiến thuật, sử dụng ma pháp tính toán từ xa phối hợp với lính đánh thuê."
+    ]
+  }
+}

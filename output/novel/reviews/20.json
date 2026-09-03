@@ -1,0 +1,65 @@
+{
+  "chapter": 20,
+  "scope": "arc",
+  "issues": [],
+  "dimensions": [
+    {
+      "dimension": "consistency",
+      "score": 95,
+      "verdict": "pass",
+      "comment": "Thiết lập thế giới, hệ thống Mana, năng lực Gia tốc nhận thức và Bán Bất Lão của Kael duy trì nhất quán xuyên suốt cung truyện 2. Các ranh giới quy tắc thế giới không bị vi phạm."
+    },
+    {
+      "dimension": "character",
+      "score": 92,
+      "verdict": "pass",
+      "comment": "Nhân vật Kael và Kaela hành động đúng với thiết lập tính cách; sự ăn ý và phối hợp sinh tử trong vòng vây của Helios được khắc họa rõ nét."
+    },
+    {
+      "dimension": "pacing",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Nhịp độ cung truyện từ việc vượt ranh giới cát, trốn chạy qua thị trấn chợ đen đến cuộc tập kích trạm tiếp tế ngầm được phân bổ hợp lý, không bị dồn ứ."
+    },
+    {
+      "dimension": "continuity",
+      "score": 94,
+      "verdict": "pass",
+      "comment": "Chuyển cảnh từ ngoại cảnh hoang mạc sang vành đai công nghiệp và trạm ngầm diễn ra suôn sẻ, logic nhân quả thông suốt."
+    },
+    {
+      "dimension": "foreshadow",
+      "score": 91,
+      "verdict": "pass",
+      "comment": "Các phục bút về phiến đá cổ, ký ức tiền kiếp của Kaela và sự truy đuổi của Đại tá Valerius được gieo và triển khai đúng nhịp."
+    },
+    {
+      "dimension": "hook",
+      "score": 93,
+      "verdict": "pass",
+      "comment": "Điểm móc cuối các chương (đặc biệt là chương 20 với khung cảnh thang máy hạ xuống thành phố ngầm) tạo sức hút mạnh mẽ cho độc giả."
+    },
+    {
+      "dimension": "aesthetic",
+      "score": 92,
+      "verdict": "pass",
+      "comment": "Văn phong bám sát nguyên tắc Show, Don't Tell, không lạm dụng từ sáo rỗng, miêu tả trực quan sinh động: 「Ánh đèn neon rực rỡ và những tòa nhà chọc trời lộn ngược của thành phố trôi nổi hiện ra trước mắt khi thang máy hạ xuống tầng sâu.」"
+    }
+  ],
+  "contract_status": "met",
+  "contract_notes": "Đã hoàn thành đầy đủ các chỉ số và mốc cốt truyện của cung truyện 2 thuộc tập 2, đồng bộ trạng thái hệ thống và chuẩn bị bước sang cung truyện kế tiếp.",
+  "verdict": "accept",
+  "summary": "Hoàn thành đánh giá toàn diện cấp cung truyện cho tập 2 cung 2 ('Bóng Đen Tập Đoàn Helios', từ chương 11 đến chương 20). Cung truyện duy trì tính nhất quán tuyệt vời về thiết lập thế giới, sự phát triển tâm lý nhân vật qua các trận giao tranh cam go, nhịp điệu tường thuật lôi cuốn và các phục bút được xử lý chặt chẽ. Trạng thái hệ thống đã được đồng bộ hoàn toàn để bước sang cung truyện kế tiếp.",
+  "affected_chapters": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ]
+}

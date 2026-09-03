@@ -1,0 +1,61 @@
+{
+  "chapter": 11,
+  "scope": "chapter",
+  "issues": [
+    {
+      "type": "aesthetic",
+      "severity": "warning",
+      "description": "Sử dụng từ nối 'Tuy nhiên' và 'Đúng lúc' hơi nhiều trong đoạn chuyển cảnh.",
+      "evidence": "'Tuy nhiên, địa hình gấp khúc...', 'Đúng lúc chiếc xe tải rồ ga...'",
+      "suggestion": "Thay thế bằng cấu trúc câu trực tiếp hơn hoặc dùng động từ mạnh để dẫn dắt hành động."
+    }
+  ],
+  "dimensions": [
+    {
+      "dimension": "consistency",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Thiết lập thế giới về tập đoàn Helios và trạm kiểm soát biên giới nhất quán với các chương trước."
+    },
+    {
+      "dimension": "character",
+      "score": 88,
+      "verdict": "pass",
+      "comment": "Tính cách Kael lạnh lùng, quyết đoán; Kaela thông minh, cẩn trọng. Mối quan hệ phối hợp sinh tử rõ nét."
+    },
+    {
+      "dimension": "pacing",
+      "score": 85,
+      "verdict": "pass",
+      "comment": "Nhịp điệu dồn dập, chuyển đổi giữa hồi tưởng/đối đầu và ẩn náu hợp lý. Không có cảm giác lê thê."
+    },
+    {
+      "dimension": "continuity",
+      "score": 87,
+      "verdict": "pass",
+      "comment": "Kết nối mượt mà từ chương 10 sang chương 11. Logic nhân quả giữa hành động của Kael và phản ứng của hệ thống an ninh thành phố ổn định."
+    },
+    {
+      "dimension": "foreshadow",
+      "score": 88,
+      "verdict": "pass",
+      "comment": "Phục bút về 'Tín hiệu cộng hưởng' được thu hồi ngay lập tức và phát triển thành xung đột mới."
+    },
+    {
+      "dimension": "hook",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Cuối chương là tình huống nguy cấp (bị phát hiện, tháp súng xoay nòng), tạo động lực đọc tiếp tốt."
+    },
+    {
+      "dimension": "aesthetic",
+      "score": 82,
+      "verdict": "pass",
+      "comment": "Mô tả môi trường tốt, tránh văn phong AI (dùng từ như: 'vàng cam u ám', 'ozone nồng nặc'). Tuy nhiên, cần kiểm soát các từ lặp lại."
+    }
+  ],
+  "contract_status": "met",
+  "contract_notes": "Chương 11 là sự tiếp nối trực tiếp sau cao trào ở chương 10, mở đầu cho cung truyện thứ hai. Chương đã hoàn thành tốt việc chuyển cảnh, tạo nhịp điệu căng thẳng và gieo điểm móc câu (hook) mạnh mẽ ở cuối. Tuy nhiên, cần chú ý độ dài từ ngữ và sự nhất quán trong mô tả hành động.",
+  "verdict": "accept",
+  "summary": "Chương 11 hoàn thành xuất sắc vai trò chuyển tiếp cung truyện, thiết lập xung đột mới tại biên giới Helios. Nhịp độ nhanh, kịch tính, nhân vật giữ vững thiết lập. Cần lưu ý kiểm soát các từ nối để văn phong sắc bén hơn theo đúng tiêu chuẩn."
+}

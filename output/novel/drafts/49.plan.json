@@ -1,0 +1,20 @@
+{
+  "chapter": 49,
+  "title": "Tiếng chuông vọng đáy vực",
+  "goal": "Mô tả hành trình thâm nhập qua hầm mỏ bỏ hoang và sự cố kích hoạt hệ thống báo động của lực lượng Helios.",
+  "conflict": "Kael và Kaela phải lẩn trốn qua các hầm mỏ bỏ hoang dày đặc cảm ứng quang học của Helios, nhưng một sơ suất nhỏ đã kích hoạt bẫy báo động.",
+  "hook": "Tiếng chuông ngân vang dừng lại, nhường chỗ cho âm thanh nạp đạn lạnh lùng từ hàng chục nòng súng ẩn trong bóng tối vây quanh.",
+  "emotion_arc": "Từ sự căng thẳng, thận trọng từng bước chân sang đỉnh điểm hoảng hốt khi tiếng chuông vang lên, kết thúc bằng phản ứng chiến đấu tức thời.",
+  "contract": {
+    "required_beats": [
+      "Di chuyển thận trọng qua bãi mìn quang học và cảm biến.",
+      "Kaela vô tình chạm vào chùm tinh thể cộng hưởng.",
+      "Tiếng chuông ngân vang đánh động khu vực tuần tra.",
+      "Kael kéo Kaela lao vào khe đá né làn đạn sát nút."
+    ],
+    "continuity_checks": [
+      "Kiểm tra kỹ việc di chuyển tránh bẫy mìn quang học và cảm biến chuyển động.",
+      "Đảm bảo tên nhân vật chính xác (Kael, Kaela) và phong cách phương Tây hoàn toàn."
+    ]
+  }
+}

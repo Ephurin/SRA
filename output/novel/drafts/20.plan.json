@@ -1,0 +1,20 @@
+{
+  "chapter": 20,
+  "title": "Cửa khẩu thành phố ngầm",
+  "goal": "Hoàn thành phân cảnh rút lui cuối cùng của Cung 2, kích hoạt mạng lưới Mana cổ đại và khép lại toàn bộ tác phẩm với điểm móc ấn tượng.",
+  "conflict": "Kael chặn hậu và tạo nổ sập hầm để cản quân Helios, trong khi Kaela kích hoạt thang máy khẩn cấp đưa lực lượng kháng chiến rút lui thành công xuống thành phố ngầm, khép lại Cung 2 và kết thúc toàn bộ tác phẩm.",
+  "hook": "Ánh đèn neon rực rỡ và những tòa nhà chọc trời lộn ngược của thành phố trôi nổi hiện ra trước mắt khi thang máy hạ xuống tầng sâu.",
+  "emotion_arc": "Từ căng thẳng nghẹt thở, quyết liệt trong giao tranh đến sự choáng ngợp trước không gian vĩ đại của thành phố ngầm cổ đại.",
+  "contract": {
+    "required_beats": [
+      "Kael chặn cửa hầm và kích hoạt cơ chế sập đá cản chân Valerius.",
+      "Kaela tương tác với bảng điều khiển cổ đại để khởi động thang máy khẩn cấp.",
+      "Cả nhóm rút lui xuống tầng sâu, mở ra mạng lưới Mana toàn cầu và kết thúc tác phẩm."
+    ],
+    "continuity_checks": [
+      "Duy trì văn phong Show Don't Tell, điện ảnh, không tóm tắt sự kiện.",
+      "Tên nhân vật và bối cảnh hoàn toàn theo phong cách fantasy phương Tây.",
+      "Không dùng các từ ngữ cấm hay sáo ngữ AI."
+    ]
+  }
+}

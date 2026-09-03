@@ -1,0 +1,20 @@
+{
+  "chapter": 86,
+  "title": "Ống dẫn nhiệt và hơi sương",
+  "goal": "Mô tả chi tiết cuộc tẩu thoát khỏi khu ổ chuột qua đường ống dẫn nhiệt dưới áp lực của đội truy sát Helios.",
+  "conflict": "Lực lượng truy sát của tập đoàn Helios càn quét khu ổ chuột vành đai ngoài, buộc Kael và Kaela phải tìm đường tẩu thoát qua hệ thống ống dẫn nhiệt chật hẹp trong khi hệ thống an ninh bắt đầu quét ra dấu vết sinhometric.",
+  "hook": "Tiếng còi báo động đỏ rực hú vang khắp khu ổ chuột khi hệ thống an ninh quét được dấu vết sinhometric của Kaela.",
+  "emotion_arc": "Từ căng thẳng rình rập chuyển sang nghẹt thở, gấp gáp khi tiếng còi báo động vang lên và hơi nóng phả rát da thịt trong ống dẫn.",
+  "contract": {
+    "required_beats": [
+      "Tiếng bước chân giẫm trên tôn sắt vang dội từ phía xa của đội truy sát Helios.",
+      "Kael dọn đường bằng những nhát kiếm ngắn cắt đứt đường ống hơi nước để tạo màn sương che mắt địch.",
+      "Hơi nóng ngột ngạt phả rát da thịt trong không gian hẹp của hệ thống ống dẫn."
+    ],
+    "continuity_checks": [
+      "Kiểm tra trạng thái kiệt sức thần kinh của Kael sau khi sử dụng Gia tốc nhận thức ở các chương trước.",
+      "Đảm bảo quy tắc tên gọi phương Tây và không dùng từ sáo rỗng (bỗng nhiên, dường như, v.v.).",
+      "Số lượng từ tuân thủ từ 2000 đến 4500 từ."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "chapter": 64,
+  "title": "Vực sâu tĩnh lặng",
+  "goal": "Mô tả chi tiết việc khám phá thung lũng mạch ngầm Aethelgard, thiết lập bầu không khí ngột ngạt và mở ra mối đe dọa sinh học tiềm ẩn.",
+  "conflict": "Kael và Kaela đặt chân xuống thung lũng ngầm Aethelgard, đối mặt với môi trường sinh thái khắc nghiệt và áp lực sinh tồn trước hiểm hoạ tiềm ẩn từ lòng đất.",
+  "hook": "Tiếng gầm rú trầm đục từ sâu trong lòng đất vang lên, báo hiệu sự tồn tại của một sinh vật canh gác khổng lồ.",
+  "emotion_arc": "Từ choáng ngợp trước quy mô thành phố ngầm chuyển sang căng thẳng tột độ khi âm thanh gầm rú vang lên từ bóng tối.",
+  "contract": {
+    "required_beats": [
+      "Bước ra khỏi khoang thang máy khẩn cấp xuống nền đá của thung lũng ngầm",
+      "Kaela sử dụng thiết bị đo lường phân tích nồng độ Mana và dòng chảy năng lượng",
+      "Kael quét mắt quan sát địa hình, nhận diện các dấu vết cũ trên vách đá",
+      "Tiếng gầm rú bất ngờ từ bóng tối cắt đứt sự tĩnh lặng của vực sâu"
+    ],
+    "forbidden_moves": [
+      "Không dùng các mẫu câu sáo rỗng hoặc độc thoại triết lý ở cuối chương",
+      "Không lặp lại cấu trúc mở đầu đã dùng ở các chương trước"
+    ],
+    "continuity_checks": [
+      "Kiểm tra tính liên tục từ khoảnh khắc rời thang máy ở chương 63",
+      "Đảm bảo không dùng các từ ngữ cấm trong danh sách fatigue_words"
+    ],
+    "evaluation_focus": [
+      "Miêu tả chi tiết môi trường năm giác quan (ẩm ướt, lạnh giá, tiếng động vang vọng)",
+      "Giữ nhịp đối thoại sắc sảo giữa Kael và Kaela",
+      "Đảm bảo độ dài từ 2000 đến 4500 từ"
+    ],
+    "emotion_target": "Sự hồi hộp và cảnh giác trước những bí ẩn chưa được khai phá ở tầng sâu Aethelgard."
+  }
+}

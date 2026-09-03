@@ -1,0 +1,28 @@
+{
+  "chapter": 81,
+  "title": "Ký ức luân hồi",
+  "goal": "Cầm chân Valerius đủ lâu để Kaela giải mã thành công hệ thống.",
+  "conflict": "Kael kiệt sức, đối đầu Valerius trong khi Kaela phải giải mã hệ thống tự hủy.",
+  "hook": "Kaela nhận ra chính mình là người thiết kế hệ thống tự hủy này hàng thế kỷ trước.",
+  "emotion_arc": "Từ căng thẳng tột độ đến bàng hoàng nhận ra sự thật về quá khứ.",
+  "notes": "Tập trung miêu tả sự đau đớn thể xác của Kael và sự tập trung cao độ của Kaela.",
+  "contract": {
+    "required_beats": [
+      "Kael cầm chân Valerius.",
+      "Kaela vật lộn với mã lệnh.",
+      "Ký ức tiền kiếp của Kaela ùa về."
+    ],
+    "continuity_checks": [
+      "Kael đang bị thương nặng và kiệt sức thần kinh.",
+      "Cơ chế tự hủy của thành phố đã được kích hoạt.",
+      "Hệ thống giải mã của Kaela có liên quan đến tiền kiếp của cô."
+    ],
+    "evaluation_focus": [
+      "Nhịp điệu chiến đấu của Kael.",
+      "Sự tập trung của Kaela khi giải mã.",
+      "Tính nhất quán của ký ức tiền kiếp."
+    ],
+    "emotion_target": "Sự hồi hộp nghẹt thở và cảm giác định mệnh.",
+    "hook_goal": "Gây sốc cho độc giả về thân thế thật sự của Kaela."
+  }
+}

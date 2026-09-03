@@ -1,0 +1,26 @@
+{
+  "chapter": 97,
+  "title": "Kiếm và súng trên tầng cao",
+  "goal": "Viết chương 97 với cảnh giao tranh tay đôi quyết liệt giữa Kael và Valerius, kết thúc bằng việc Valerius kích hoạt cơ chế tự hủy của tháp trung tâm.",
+  "conflict": "Kael và Đại tá Valerius giao tranh tay đôi quyết liệt giữa không gian chật hẹp của sảnh tháp trung tâm Aethelgard.",
+  "hook": "Valerius bị thương nặng ở vai nhưng vẫn gượng đứng dậy kích hoạt cơ chế tự hủy của tháp.",
+  "emotion_arc": "Từ căng thẳng nghẹt thở đến sự bùng nổ xung đột bạo lực tột độ và bước ngoặt nguy cấp cuối chương.",
+  "contract": {
+    "required_beats": [
+      "Kael phản công sau cơn choáng do thiết bị áp chế thần kinh.",
+      "Đường kiếm xé rách áo giáp chiến thuật của Valerius.",
+      "Valerius kích hoạt công tắc tự hủy, màn hình đếm ngược chuyển đỏ rực."
+    ],
+    "forbidden_moves": [
+      "Không dùng sáo ngữ AI, không để nhân vật giảng đạo lý trong lúc đánh nhau."
+    ],
+    "continuity_checks": [
+      "Kiểm tra các từ cấm và số từ theo quy định.",
+      "Đảm bảo Valerius không bị phong thần, thể hiện rõ vết thương và áp lực từ kiếm pháp của Kael."
+    ],
+    "evaluation_focus": [
+      "Mô tả chi tiết động tác cận chiến, không dùng sáo ngữ AI, kiểm soát từ cấm."
+    ],
+    "emotion_target": "Hồi hộp, kịch tính, nghẹt thở trước thời khắc tháp chuẩn bị tự hủy."
+  }
+}

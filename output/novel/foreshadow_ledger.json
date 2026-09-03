@@ -1,0 +1,37 @@
+[
+  {
+    "id": "underground_signal_01",
+    "description": "Tín hiệu điện từ và biểu tượng bánh răng trên nắp hầm ngầm ẩn chứa bí mật về tàn tích cổ đại.",
+    "planted_at": 1,
+    "status": "resolved",
+    "resolved_at": 5
+  },
+  {
+    "id": "helios_mana_anomaly",
+    "description": "Dị biến năng lượng do Helios kích hoạt ẩn chứa nguồn lực hủy diệt có thể thay đổi cục diện mạch Mana toàn cầu.",
+    "planted_at": 8,
+    "status": "resolved",
+    "resolved_at": 20
+  },
+  {
+    "id": "secret_research_facility_location",
+    "description": "Tọa độ trạm nghiên cứu ngầm dưới lòng hồ muối cạn hé lộ qua đoạn video cũ.",
+    "planted_at": 18,
+    "status": "resolved",
+    "resolved_at": 20
+  },
+  {
+    "id": "underground_gear_badge",
+    "description": "Huy hiệu hình bánh răng của liên minh kiểm soát tầng dưới thành phố ngầm Aethelgard.",
+    "planted_at": 21,
+    "status": "resolved",
+    "resolved_at": 28
+  },
+  {
+    "id": "helios_origin_secret",
+    "description": "Người sáng lập Helios có mối liên hệ mật thiết với di tích cổ đại từ rất lâu trước đây, gợi ý về sự bất tử hoặc kéo dài tuổi thọ của hắn.",
+    "planted_at": 29,
+    "status": "resolved",
+    "resolved_at": 100
+  }
+]

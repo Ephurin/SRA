@@ -1,0 +1,20 @@
+{
+  "chapter": 87,
+  "title": "Gương kính phản chiếu tiền kiếp",
+  "goal": "Viết chương 87 với bối cảnh viện nghiên cứu cổ ngữ bị phong tỏa và kết thúc bằng điểm móc Kaela nhận ra chân dung của chính mình trên phiến kính cổ.",
+  "conflict": "Kael và Kaela phải né tránh sự truy đuổi sát nút của lực lượng Helios để tìm kiếm nơi ẩn náu, cuối cùng đột nhập vào một viện nghiên cứu cổ ngữ bị phong tỏa nhằm tìm kiếm tài liệu giải mã luân hồi trí nhớ.",
+  "hook": "Kaela nhìn chằm chằm vào bức chân dung khắc trên phiến kính từ hàng thế kỷ trước - khuôn mặt chính cô, với từng đường nét không một chút sai lệch.",
+  "emotion_arc": "Từ căng thẳng tột độ khi chạy trốn trong màn sương và tiếng còi báo động, chuyển sang cảm giác choáng ngợp, tĩnh lặng lạnh lẽo khi bước vào viện nghiên cứu cổ.",
+  "contract": {
+    "required_beats": [
+      "Vượt qua sự truy đuổi của đội tuần tra Helios bên ngoài hành lang ngầm.",
+      "Phá khóa cửa viện nghiên cứu cổ ngữ bằng sự kết hợp giữa kiếm khí và cổ ngữ.",
+      "Khám phá phòng thí nghiệm bỏ hoang với các màn hình thiết bị cổ chớp tắt.",
+      "Khoảnh khắc khám phá kinh hoàng ở cuối chương khi đối diện với gương kính phản chiếu tiền kiếp."
+    ],
+    "continuity_checks": [
+      "Đảm bảo trạng thái mệt mỏi của Kael sau sự cố ống dẫn nhiệt ở chương trước được thể hiện qua nhịp thở và cơ bắp.",
+      "Kaela duy trì sự tập trung cao độ, phản ứng sắc sảo với các cổ ngữ."
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "chapter": 83,
+  "title": "Bình minh kỷ nguyên",
+  "goal": "Mô tả hậu quả của việc thức tỉnh Aethelgard, phản ứng của Kael và Kaela, đồng thời hé lộ tín hiệu bí ẩn từ tầng sâu hơn của lòng đất làm điểm móc cho chương tiếp theo.",
+  "conflict": "Sự chuyển giao giữa trật tự cũ do Helios đại diện và sự trỗi dậy của một kỷ nguyên mới khi thành phố Aethelgard tái sinh.",
+  "hook": "Một tín hiệu tần số thấp phát ra từ tầng sâu thẳm dưới chân móng thành phố, mang theo mã nhịp điệu chưa từng có trong cơ sở dữ liệu cổ đại.",
+  "emotion_arc": "Từ căng thẳng tột độ của trận chiến sang sự kinh ngạc, trầm mặc trước bình minh của một kỷ nguyên mới.",
+  "notes": "Đảm bảo độ dài từ 2000 đến 4500 từ, đối thoại tự nhiên, khắc họa rõ nét nội tâm Kael và Kaela.",
+  "contract": {
+    "required_beats": [
+      "Kael và Kaela quan sát sự biến đổi toàn diện của Aethelgard từ đỉnh tháp.",
+      "Cuộc trò chuyện ngắn giữa hai nhân vật về chặng đường đã qua và hướng đi tiếp theo.",
+      "Phát hiện tín hiệu lạ từ tầng sâu lòng đất vào cuối chương."
+    ],
+    "forbidden_moves": [
+      "Không nhắc lại tiền đề cũ một cách thô thiển; không dùng từ ngữ tu tiên."
+    ],
+    "continuity_checks": [
+      "Kael vẫn chịu chấn thương thần kinh nhẹ sau trận chiến; Kaela đang giữ quyền kiểm soát hệ thống của Aethelgard."
+    ],
+    "evaluation_focus": [
+      "Đảm bảo không dùng sáo ngữ AI, tuân thủ tiêu chuẩn Show Don't Tell, mô tả chi tiết không gian và phản ứng vật lý."
+    ],
+    "emotion_target": "Sự choáng ngợp trước quy mô vĩ đại của thực thể mới và cảm giác hoài niệm về tương lai.",
+    "hook_goal": "Tạo sự tò mò mạnh mẽ về những bí mật còn ẩn giấu dưới lòng đất sau khi thành phố trôi nổi thức tỉnh."
+  }
+}

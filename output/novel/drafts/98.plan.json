@@ -1,0 +1,29 @@
+{
+  "chapter": 98,
+  "title": "giải mã lõi hệ thống",
+  "goal": "Kaela xâm nhập hệ thống lõi bằng trí nhớ luân hồi và đối mặt với các hình ảnh tiền kiếp.",
+  "conflict": "Kaela phải chạy đua với thời gian để vô hiệu hóa hệ thống tự hủy của tháp Aethelgard thông qua trí nhớ luân hồi, trong khi Kael phải chống đỡ các đợt tấn công từ mảnh vỡ kiến trúc và áp lực từ Valerius.",
+  "hook": "Hệ thống phòng thủ ảo hiện ra hình ảnh những kiếp sống trước đây của Kaela, cố gắng ngăn cản cô truy cập.",
+  "emotion_arc": "Từ căng thẳng tột độ đến sự tập trung tuyệt đối khi đối mặt với quá khứ.",
+  "contract": {
+    "required_beats": [
+      "Kaela ngồi trước màn hình trung tâm, kết nối ý thức với hệ thống lõi.",
+      "Kael đứng thủ thế phía sau, gạt bỏ các mảnh vỡ từ trần tháp rơi xuống.",
+      "Hiển thị các lớp ký ức luân hồi cản trở truy cập của Kaela."
+    ],
+    "forbidden_moves": [
+      "Không giải quyết nhanh chóng lệnh tự hủy mà không có thử thách.",
+      "Không dùng các cụm từ sáo rỗng đã cấm."
+    ],
+    "continuity_checks": [
+      "Duy trì đúng nhịp độ đếm ngược của hệ thống tự hủy.",
+      "Miêu tả áp lực thần kinh của Kaela khi truy cập dữ liệu ký ức luân hồi.",
+      "Không dùng từ sáo rỗng nằm trong danh sách cấm."
+    ],
+    "evaluation_focus": [
+      "Kiểm tra từ cấm và số từ.",
+      "Độ chân thực trong phản ứng của Kaela và Kael."
+    ],
+    "emotion_target": "Sự hồi hộp và nghẹt thở trước thời gian đếm ngược."
+  }
+}

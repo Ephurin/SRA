@@ -1,0 +1,32 @@
+{
+  "chapter": 67,
+  "title": "Ký ức trên vách đá",
+  "goal": "Kaela giải mã được bí mật của bích họa; tiết lộ Mana là ký ức sống; hang động biến đổi; kẻ địch tiếp cận.",
+  "conflict": "Sự biến đổi của hang động sau khi kích hoạt ký ức sống và sự xuất hiện của kẻ địch.",
+  "hook": "Kael phát hiện tiếng bước chân lạ của những tên thợ săn tiền thưởng Helios đang lẩn khuất trong đường hầm tối tăm bên cạnh.",
+  "emotion_arc": "Từ tò mò, kinh ngạc đến căng thẳng cực độ và sẵn sàng chiến đấu.",
+  "notes": "Cần miêu tả sự biến đổi của hang động một cách vật lý (rỉ chất lỏng, rung chuyển, âm thanh). Kael phải thể hiện sự cẩn trọng của một chiến binh lâu năm.",
+  "contract": {
+    "required_beats": [
+      "Kaela giải mã thành công các ký tự sóng não.",
+      "Tiết lộ Mana là ký ức sống.",
+      "Hang động bị rung chuyển, chất lỏng xanh rỉ ra.",
+      "Tiếng bước chân lạ vọng đến."
+    ],
+    "forbidden_moves": [
+      "Không để Kael hồi phục vết thương ngay lập tức.",
+      "Không để nhân vật giải thích dài dòng về ký ức sống mà không có minh chứng thực tế."
+    ],
+    "continuity_checks": [
+      "Vết thương bắp tay trái của Kael vẫn cần được bảo vệ.",
+      "Kaela đang tập trung phân tích ký tự tần số sóng não.",
+      "Bối cảnh là hang động ngầm với các tinh thể phát sáng đỏ."
+    ],
+    "evaluation_focus": [
+      "Tính logic của việc Mana là ký ức sống.",
+      "Sự tự nhiên trong việc chuyển đổi từ thảo luận sang hành động.",
+      "Tránh sáo ngữ AI."
+    ],
+    "emotion_target": "Sự căng thẳng và hồi hộp trước mối đe dọa mới."
+  }
+}

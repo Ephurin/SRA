@@ -1,0 +1,33 @@
+{
+  "chapter": 54,
+  "title": "Vượt ranh giới cát",
+  "goal": "Kael và Kaela thoát ra khỏi không gian cộng hưởng và đối mặt với trạm kiểm soát biên giới của Helios.",
+  "conflict": "Kael và Kaela phải thoát khỏi không gian cộng hưởng và đối mặt với thực tế khốc liệt tại trạm kiểm soát biên giới Helios. Sự tin tưởng giữa họ bị lung lay bởi lời đe dọa của thực thể quá khứ.",
+  "hook": "Hệ thống nhận diện quét qua phiến đá cổ và phát tín hiệu báo động đỏ khắp mạng lưới khu vực.",
+  "emotion_arc": "Từ hoang mang, sợ hãi sau khi thoát khỏi không gian cộng hưởng đến quyết tâm sinh tồn tột độ tại trạm kiểm soát.",
+  "notes": "Đảm bảo mô tả cảm giác vật lý khi thoát khỏi không gian cộng hưởng (nôn nao, mất phương hướng, đau đầu).",
+  "contract": {
+    "required_beats": [
+      "Kael đưa ra quyết định khó khăn để bảo vệ Kaela.",
+      "Cả hai thoát khỏi không gian cộng hưởng, rơi xuống vùng biên giới sa mạc.",
+      "Đối mặt với trạm kiểm soát công nghệ cao của tập đoàn Helios.",
+      "Sự kiện hook cuối chương."
+    ],
+    "forbidden_moves": [
+      "Không để Kael hồi phục sức mạnh ngay lập tức.",
+      "Không để thực thể quá khứ giải thích quá nhiều về bí mật trước khi họ ra ngoài."
+    ],
+    "continuity_checks": [
+      "Trạng thái kiệt sức thần kinh của Kael vẫn còn nghiêm trọng.",
+      "Sự hiện diện của Valerius sau vụ nổ lõi Mana cần được làm rõ.",
+      "Kaela cần giữ vững tâm trí sau khi tiếp nhận lượng lớn ký ức cổ đại."
+    ],
+    "evaluation_focus": [
+      "Tốc độ nhịp truyện trong phân đoạn thoát khỏi không gian cộng hưởng.",
+      "Tính nhất quán của sự kiệt sức thể chất/thần kinh của Kael.",
+      "Sự chuyển tiếp cảnh quan từ sa mạc sang khu vực công nghiệp."
+    ],
+    "emotion_target": "Căng thẳng, hồi hộp, bất an.",
+    "hook_goal": "Tạo sự căng thẳng tột độ khi họ vừa thoát hiểm đã rơi vào ổ phục kích mới."
+  }
+}

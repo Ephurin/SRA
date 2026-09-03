@@ -1,0 +1,44 @@
+[
+  {
+    "character_a": "Kael",
+    "character_b": "Kaela",
+    "relation": "Cùng nhau bước vào hành trình mới với sự thấu hiểu và tự do tuyệt đối.",
+    "chapter": 102
+  },
+  {
+    "character_a": "Kael",
+    "character_b": "Alistair",
+    "relation": "Thiết lập sự cẩn trọng ban đầu chuyển thành liên minh ngầm dựa trên kẻ thù chung là Helios.",
+    "chapter": 4
+  },
+  {
+    "character_a": "Kaela",
+    "character_b": "Alistair",
+    "relation": "Sự đồng cảm giữa hai nhà nghiên cứu lịch sử cổ đại trước thềm khủng hoảng.",
+    "chapter": 4
+  },
+  {
+    "character_a": "Kael",
+    "character_b": "Valerius",
+    "relation": "Cuộc đối đầu sinh tử kết thúc bằng cái chết của Valerius và sự sụp đổ của trật tự Helios.",
+    "chapter": 99
+  },
+  {
+    "character_a": "Kael",
+    "character_b": "Roland",
+    "relation": "Sự tôn trọng lẫn nhau được thiết lập sau trận đấu thử thách.",
+    "chapter": 18
+  },
+  {
+    "character_a": "Kael",
+    "character_b": "Logan",
+    "relation": "Sự đối đầu ngầm dựa trên lợi ích trao đổi thông tin và Mana lỏng giữa lữ khách và trùm băng đảng.",
+    "chapter": 22
+  },
+  {
+    "character_a": "Kael",
+    "character_b": "Orson",
+    "relation": "Trao đổi thông tin thực dụng dựa trên vật phẩm đổi chác tại khu chợ ngầm.",
+    "chapter": 23
+  }
+]

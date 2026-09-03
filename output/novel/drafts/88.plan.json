@@ -1,0 +1,21 @@
+{
+  "chapter": 88,
+  "title": "Báo động viện nghiên cứu",
+  "goal": "Mô tả chi tiết quá trình Kaela giải mã dữ liệu ký ức luân hồi trong viện nghiên cứu cổ ngữ, đồng thời khắc họa sự cảnh giác cao độ của Kael khi bầu không khí xung quanh đột ngột thay đổi và hệ thống phòng thủ bắt đầu thức tỉnh.",
+  "conflict": "Kaela đang chìm đắm trong việc giải mã dữ liệu ký ức luân hồi cổ đại trong phòng thí nghiệm, trong khi hệ thống phòng thủ tự động của viện nghiên cứu bỗng chuyển sang chế độ bảo vệ cấp độ cao, đe dọa sự an toàn của cả hai.",
+  "hook": "Hệ thống phòng thủ tự động của viện nghiên cứu bỗng dưng chuyển sang chế độ bảo vệ cấp độ cao, các khe tản nhiệt trên trần rít lên mở ra.",
+  "emotion_arc": "Từ sự tập trung tĩnh lặng, căng thẳng dâng cao khi luồng dữ liệu ồ ạt tràn vào tâm trí Kaela, kết thúc bằng tiếng động cơ cơ khí gầm rú và tiếng chuông báo động cấp độ cao.",
+  "contract": {
+    "required_beats": [
+      "Kael canh gác bên ngoài, quan sát từng chuyển động của hành lang và lắng nghe âm thanh vọng lại từ phía trên.",
+      "Kaela tập trung cao độ trước bảng điều khiển cổ ngữ, đầu ngón tay chạm vào các tinh thể truyền dẫn ánh sáng xanh.",
+      "Cảm giác choáng ngợp khi các lớp ký ức tiền kiếp ùa về qua các luồng xung điện thần kinh.",
+      "Hệ thống tự động của viện nghiên cứu chuyển trạng thái, phát ra ánh sáng đỏ nhấp nháy từ các khe tản nhiệt trên trần."
+    ],
+    "continuity_checks": [
+      "Kiểm tra tính liên tục từ chương 87: Kaela đang ở trong phòng thí nghiệm cổ ngữ và đối diện với phiến kính có chân dung của mình; Kael canh gác bên ngoài.",
+      "Đảm bảo không dùng các từ ngữ cấm trong working_memory.user_rules.structured.fatigue_words và forbidden_phrases.",
+      "Đảm bảo số từ nằm trong khoảng 2.000 - 4.500 từ."
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "chapter": 36,
+  "title": "Chuyến xe ngụy trang",
+  "goal": "Kael và Kaela cướp xe tải của Helios, cải trang và tiến vào nội địa, kết thúc bằng việc đối mặt với trạm kiểm soát yêu cầu mã sinh trắc học.",
+  "conflict": "Kael và Kaela phải chiếm lấy một phương tiện vận tải của Helios để thoát khỏi thị trấn trước khi viện binh ập đến, đồng thời phải đối mặt với sự kiểm soát chặt chẽ của các trạm gác.",
+  "hook": "Trạm kiểm soát tiếp theo yêu cầu mã xác thực sinhometric cấp cao mà chiếc xe không hề có.",
+  "emotion_arc": "Từ căng thẳng tột độ sau trận tập kích, chuyển sang sự tập trung cao độ khi điều khiển xe, đến nỗi lo âu tăng dần khi đối diện với trạm kiểm soát.",
+  "contract": {
+    "required_beats": [
+      "Kael dọn dẹp hiện trường vụ tập kích.",
+      "Chiếm đoạt chiếc xe tải chở thiết bị của Helios.",
+      "Kaela tìm cách xâm nhập hệ thống điều khiển xe.",
+      "Vượt qua các cung đường cao tốc bỏ hoang.",
+      "Tiến sát cổng kiểm soát thứ hai và đối diện với yêu cầu xác thực."
+    ],
+    "forbidden_moves": [
+      "Kael hồi phục ngay lập tức khỏi kiệt sức.",
+      "Trạm kiểm soát để họ đi qua dễ dàng mà không có thử thách.",
+      "Kaela giải mã hệ thống Helios quá nhanh mà không gặp khó khăn."
+    ],
+    "continuity_checks": [
+      "Tình trạng sức khỏe của Kael (kiệt sức thần kinh, chảy máu mũi) sau trận chiến chương 35.",
+      "Trang bị ngụy trang đã mua ở chương 34.",
+      "Thiết bị phát sóng định vị trên cơ thể lính Helios đã bị Kael vô hiệu hóa hoặc tiêu hủy."
+    ],
+    "evaluation_focus": [
+      "Đặc tả cảm giác vật lý khi Kael điều khiển xe tải với cơ thể bị thương.",
+      "Phản ứng của Kaela khi phải làm quen với hệ thống điều khiển của Helios.",
+      "Sự chênh lệch giữa vẻ ngoài ngụy trang và bản chất đe dọa của trạm kiểm soát."
+    ],
+    "emotion_target": "Sự căng thẳng nghẹt thở và cảm giác bị truy đuổi.",
+    "hook_goal": "Tạo ra một tình huống bế tắc buộc Kael và Kaela phải đưa ra lựa chọn sinh tử ngay chương sau."
+  }
+}

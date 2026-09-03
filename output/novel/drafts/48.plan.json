@@ -1,0 +1,32 @@
+{
+  "chapter": 48,
+  "title": "Tần số của kẻ thù",
+  "goal": "Tiếp cận công trường khoan của Helios và xác định lộ trình đột kích.",
+  "conflict": "Kael và Kaela phải đối mặt với áp lực thời gian cực hạn (15 phút) để tiếp cận công trường khoan của Helios trong khi bị bao vây bởi lực lượng quân sự tập đoàn.",
+  "hook": "Họ nhìn thấy cỗ máy khoan khổng lồ bắt đầu xoay chuyển, phát ra tiếng gầm rú rung chuyển cả vách đá, báo hiệu thời gian đếm ngược thực sự đã bắt đầu.",
+  "emotion_arc": "Từ sự căng thẳng, lo âu sau khi nghe tối hậu thư của Valerius chuyển sang quyết tâm và tinh thần chiến đấu cao độ.",
+  "notes": "Tập trung vào mô tả môi trường công nghiệp bẩn thỉu, tiếng máy móc, và sự áp bức của quân đội Helios. Viết chương 48 theo phong cách sử thi phương Tây, tập trung vào hành động thực tế.",
+  "contract": {
+    "required_beats": [
+      "Kael và Kaela di chuyển qua các hầm mỏ đầy bẫy kỹ thuật.",
+      "Sự tương tác giữa Kael và Kaela khi lập kế hoạch đột kích.",
+      "Cận cảnh cỗ máy khoan và sự tàn phá nó gây ra cho thung lũng ngầm."
+    ],
+    "forbidden_moves": [
+      "Không được để Kael hoặc Kaela giải thích lại thông tin đã biết từ chương trước.",
+      "Không được để nhân vật chính dễ dàng vượt qua các trạm gác mà không tốn công sức."
+    ],
+    "continuity_checks": [
+      "Trạng thái bị thương ở bắp tay trái của Kael.",
+      "Thiết bị liên lạc thu được từ lính đánh thuê.",
+      "Sự căng thẳng của môi trường ngầm (rung chấn, ánh sáng công nghiệp)."
+    ],
+    "evaluation_focus": [
+      "Diễn biến hành động cần nhanh, súc tích (phù hợp năng lực Gia tốc nhận thức).",
+      "Không tóm tắt tình tiết cũ.",
+      "Đối thoại phải thể hiện sự tin tưởng giữa hai nhân vật chính."
+    ],
+    "emotion_target": "Cảm giác nghẹt thở, hồi hộp và nhịp độ dồn dập.",
+    "hook_goal": "Tạo cảm giác cấp bách tột độ, đẩy xung đột lên cao trào."
+  }
+}

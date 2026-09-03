@@ -1,0 +1,32 @@
+{
+  "chapter": 91,
+  "title": "Cầu treo trên vực thẳm",
+  "goal": "Băng qua cây cầu treo và sống sót trước đòn tấn công của tay bắn tỉa.",
+  "conflict": "Kael và Kaela phải băng qua một cây cầu treo hẹp giữa hai tòa nhà chọc trời lộn ngược, bị một tay bắn tỉa của Helios phục kích.",
+  "hook": "Một tay súng bắn tỉa của Helios khai hỏa từ một tòa tháp đối diện, suýt lấy mạng Kaela.",
+  "emotion_arc": "Căng thẳng tột độ -\u003e Hoảng loạn trong khoảnh khắc -\u003e Quyết tâm sinh tồn.",
+  "notes": "Cần đảm bảo miêu tả được cảm giác chóng mặt và nguy hiểm của việc đi giữa các tòa nhà lộn ngược. Sự chênh lệch độ cao giữa cầu và vực thẳm.",
+  "contract": {
+    "required_beats": [
+      "Miêu tả quang cảnh thành phố trôi nổi lộn ngược.",
+      "Di chuyển trên cây cầu treo.",
+      "Phát hiện nguy hiểm và phản ứng né đạn."
+    ],
+    "forbidden_moves": [
+      "Không viết tóm tắt lịch sử thành phố.",
+      "Không để Kael dùng Gia tốc nhận thức quá mức ngay lập tức mà không có hệ quả.",
+      "Không để nhân vật chính giải thích cảm xúc bằng lời."
+    ],
+    "continuity_checks": [
+      "Trạng thái kiệt sức sau khi dùng Gia tốc nhận thức ở chương trước.",
+      "Sự cảnh giác cao độ của cả hai nhân vật.",
+      "Địa hình thành phố trôi nổi với các tòa nhà lộn ngược."
+    ],
+    "evaluation_focus": [
+      "Miêu tả môi trường lộn ngược, gió rít qua khe vực.",
+      "Phản ứng vật lý của nhân vật khi né đạn ở không gian hẹp.",
+      "Giọng điệu lạnh lùng, dứt khoát của Kael khi đối mặt nguy hiểm."
+    ],
+    "emotion_target": "Sự hồi hộp và nghẹt thở."
+  }
+}

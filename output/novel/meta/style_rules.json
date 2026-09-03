@@ -1,0 +1,27 @@
+{
+  "volume": 3,
+  "arc": 2,
+  "prose": [
+    "Miêu tả không gian ưu tiên ánh sáng neon, hơi sương và kết cấu kim loại lạnh lẽo",
+    "Cảnh hành động dùng câu ngắt nhịp nhanh, tập trung vào phản xạ thần kinh và cảm giác quá tải",
+    "Tránh triết lý sáo rỗng, để xung đột và chuyển động tự nói lên ý nghĩa"
+  ],
+  "dialogue": [
+    {
+      "name": "Kael",
+      "rules": [
+        "Ngắn gọn, trực diện, không rườm rà",
+        "Ít bộc lộ cảm xúc, tập trung vào hành động"
+      ]
+    },
+    {
+      "name": "Kaela",
+      "rules": [
+        "Sử dụng thuật ngữ học thuật và cổ ngữ",
+        "Kiên định, rõ ràng trong phân tích chiến thuật"
+      ]
+    }
+  ],
+  "taboos": null,
+  "updated_at": "2026-09-03T15:50:56+07:00"
+}

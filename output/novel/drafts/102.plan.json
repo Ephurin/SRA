@@ -1,0 +1,20 @@
+{
+  "chapter": 102,
+  "title": "Con đường phía trước",
+  "goal": "Khép lại tập truyện với hành trình bước chân ra hoang mạc đang hồi sinh của Kael và Kaela.",
+  "conflict": "Kael và Kaela rời bỏ cấu trúc thép lạnh lẽo của tháp trung tâm để đối mặt với không gian rộng lớn của hoang mạc đang chuyển mình.",
+  "hook": "Một dấu chân mới để lại trên cát, mở ra một tương lai chưa từng được viết sẵn.",
+  "emotion_arc": "Từ sự căng thẳng, thận trọng kéo dài qua bao năm tháng chuyển thành sự tĩnh tại, nhẹ nhõm và hướng về phía trước.",
+  "contract": {
+    "required_beats": [
+      "Rời khỏi tháp trung tâm Aethelgard.",
+      "Bước đi trên lớp cát hoang mạc đã bắt đầu xuất hiện những mầm mống sự sống nhỏ nhoi.",
+      "Cuộc trò chuyện ngắn giữa Kael và Kaela về hướng đi tiếp theo."
+    ],
+    "continuity_checks": [
+      "Duy trì tính nhất quán về cảm giác tự do sau khi chu kỳ treo ngược khép lại.",
+      "Không dùng từ sáo rỗng hay lặp lại kết cấu chương trước."
+    ],
+    "emotion_target": "Cảm giác nhẹ nhõm, tự do và bình yên sau hành trình dài."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "chapter": 51,
+  "title": "Bóng đè công trường ngầm",
+  "goal": "Mô tả chi tiết hành trình áp sát trung tâm công trường khoan khổng lồ của Kael và Kaela, đồng thời khắc họa quy mô tàn phá của cỗ máy Helios trước khi chạm trán Valerius ở điểm móc cuối.",
+  "conflict": "Kael và Kaela đột nhập thành công vào công trường khoan ngầm dưới sự giám sát chặt chẽ của Đại tá Valerius, đối mặt với nguy cơ cỗ máy khoan thủng hồ lõi Mana.",
+  "hook": "Valerius đứng trên đài chỉ huy cao ngất, súng nhắm laze đã khóa chặt vào vị trí của Kael và Kaela.",
+  "emotion_arc": "Từ sự căng thẳng tột độ, cảm giác choáng ngợp trước quy mô công nghiệp ngầm cho đến sự ngột ngạt và đe dọa trực diện khi bị lính và Valerius khóa mục tiêu.",
+  "contract": {
+    "required_beats": [
+      "Miêu tả không gian công trường khoan ngầm với ánh sáng công nghiệp rực rỡ và tiếng gầm rú của máy móc.",
+      "Thể hiện trạng thái thể chất suy kiệt, những cơn đau đầu nhói buốt của Kael trong mỗi bước di chuyển.",
+      "Kaela hỗ trợ Kael bám sát vách đá, phân tích các thông số hoạt động của cỗ máy khoan.",
+      "Khoảnh khắc ánh đèn pha và tia laze từ đài chỉ huy của Valerius quét tới, khóa chặt hai người trong tầm ngắm."
+    ],
+    "continuity_checks": [
+      "Trạng thái chấn thương đầu và kiệt sức nặng của Kael sau trận chiến tại trạm van ở chương trước.",
+      "Sự hiện diện và áp lực từ cỗ máy khoan khổng lồ của tập đoàn Helios."
+    ]
+  }
+}

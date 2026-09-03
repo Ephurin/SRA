@@ -1,0 +1,19 @@
+{
+  "chapter": 6,
+  "title": "Cuộc tập kích bất ngờ",
+  "goal": "Mô tả cuộc tập kích bất ngờ của tập đoàn Helios, thể hiện rõ hệ thống sức mạnh và áp lực sinh tồn trong không gian hẹp.",
+  "conflict": "Lực lượng cơ giới tập đoàn Helios bao vây tàn tích, buộc Kael phải đối đầu đơn độc để yểm trợ cho Kaela và Alistair rút lui.",
+  "hook": "Kael đứng một mình chắn ngang cửa hầm tối sẫm, khi nòng pháo từ chiếc xe thiết giáp đầu tiên bắt đầu gầm rú nạp năng lượng.",
+  "emotion_arc": "Từ sự căng thẳng ngột ngạt khi tiếng chuông báo động vang lên chuyển sang trạng thái tập trung cao độ, lạnh lùng và quyết liệt trong giao tranh cận chiến.",
+  "contract": {
+    "required_beats": [
+      "Tiếng động cơ thiết giáp rầm rập bao vây trạm quan sát cổ.",
+      "Kael bước ra hiên đá, chuẩn bị thế trận cận chiến với lớp Mana Skin bọc quanh cơ thể.",
+      "Cuộc đấu súng và ma pháp mở màn, kiểm chứng khả năng phản xạ và Gia tốc nhận thức của Kael."
+    ],
+    "continuity_checks": [
+      "Đảm bảo mô tả chi tiết tiếng động cơ thiết giáp, phản ứng thần kinh của Kael khi chuẩn bị chiến đấu, và sự căng thẳng của Kaela.",
+      "Tuyệt đối không dùng các từ khóa sáo rỗng nằm trong danh sách cấm."
+    ]
+  }
+}

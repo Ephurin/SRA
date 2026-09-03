@@ -1,0 +1,34 @@
+{
+  "chapter": 26,
+  "title": "Phá rào chắn biên phòng",
+  "goal": "Phá vỡ rào chắn biên phòng và thoát khỏi trạm kiểm soát của Helios.",
+  "conflict": "Kael và Kaela bị từ chối quyền truy cập tại trạm gác Helios, buộc phải phá vỡ rào chắn bằng bạo lực trong khi bị quân đội truy đuổi.",
+  "hook": "Thiết bị phát tín hiệu trên xe bị kích hoạt chế độ tự hủy, buộc họ phải rời bỏ phương tiện trong làn đạn.",
+  "emotion_arc": "Từ trạng thái căng thẳng chuẩn bị đối đầu sang hành động dứt khoát, quyết liệt và kết thúc bằng sự khẩn trương cực độ khi đối mặt với nguy cơ tự hủy của xe.",
+  "notes": "Tập trung vào cảm giác vật lý: tiếng động cơ, sức nóng của laser, sự run rẩy của tay Kael khi kích hoạt Gia tốc nhận thức.",
+  "contract": {
+    "required_beats": [
+      "Đối thoại căng thẳng tại trạm gác.",
+      "Kael nhấn ga tông thẳng vào trạm kiểm soát.",
+      "Cảnh giao tranh ngắn nhưng khốc liệt với lính gác.",
+      "Sự kiện xe tải bị khóa chế độ tự hủy."
+    ],
+    "forbidden_moves": [
+      "Không tóm tắt diễn biến trận chiến.",
+      "Không dùng từ ngữ sáo rỗng hoặc triết lý AI.",
+      "Không để Kael chiến thắng dễ dàng mà không trả giá bằng thể lực."
+    ],
+    "continuity_checks": [
+      "Tình trạng vết thương của Kael (bắp tay trái).",
+      "Sự căng thẳng của Kaela trong việc vận hành công nghệ.",
+      "Sự hiện diện của các đơn vị truy đuổi Helios."
+    ],
+    "evaluation_focus": [
+      "Show, don't tell trong cảnh hành động.",
+      "Độ nhất quán của giọng điệu nhân vật.",
+      "Sự mượt mà trong nhịp độ hành động."
+    ],
+    "emotion_target": "Căng thẳng, hồi hộp, kịch tính.",
+    "hook_goal": "Tạo ra sự khẩn cấp cao độ để thúc đẩy chương tiếp theo."
+  }
+}

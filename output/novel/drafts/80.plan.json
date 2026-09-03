@@ -1,0 +1,28 @@
+{
+  "chapter": 80,
+  "title": "Lưỡi kiếm cuối cùng",
+  "goal": "Phá hủy bộ khuếch đại năng lượng và hé lộ âm mưu tự hủy của Valerius.",
+  "conflict": "Cuộc đối đầu sinh tử giữa Kael và Valerius trong phòng điều khiển lõi; Kael nỗ lực phá hủy bộ khuếch đại năng lượng trong khi đối mặt với sự áp đảo của Valerius.",
+  "hook": "Valerius tiết lộ rằng việc phá hủy bộ khuếch đại là bước cuối cùng để kích hoạt lõi tự hủy của thành phố.",
+  "emotion_arc": "Từ căng thẳng đối đầu cực độ sang hy vọng mong manh khi bộ khuếch đại bị phá hủy, cuối cùng rơi vào tuyệt vọng khi kế hoạch tự hủy được kích hoạt.",
+  "notes": "Mô tả rõ sự kiệt sức của Kael nhưng vẫn phải cố gắng hết sức. Valerius không chỉ là một chiến binh, mà là một kẻ tính toán lạnh lùng.",
+  "contract": {
+    "required_beats": [
+      "Kael tấn công Valerius.",
+      "Kael phá hủy bộ khuếch đại bằng kiếm khí.",
+      "Valerius tiết lộ sự thật sau khi bộ khuếch đại bị phá hủy."
+    ],
+    "continuity_checks": [
+      "Trạng thái bị thương của Kael từ chương 79.",
+      "Kaela đang ở khu vực bảng điều khiển.",
+      "Vị trí địa lý: Phòng lõi của tháp trung tâm Aethelgard."
+    ],
+    "evaluation_focus": [
+      "Mô tả hành động cận chiến.",
+      "Sự thay đổi tâm lý của Valerius.",
+      "Tính nhất quán của các yếu tố ma pháp/kỹ thuật."
+    ],
+    "emotion_target": "Sự hồi hộp và bàng hoàng.",
+    "hook_goal": "Khiến độc giả cảm thấy sự phản công vừa giành được lại là một cái bẫy chết người."
+  }
+}

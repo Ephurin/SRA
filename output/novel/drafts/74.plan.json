@@ -1,0 +1,28 @@
+{
+  "chapter": 74,
+  "title": "Thành phố treo ngược",
+  "goal": "Đưa Kael và Kaela vào thành phố trôi nổi và tạo ra tình huống đối đầu mới.",
+  "conflict": "Sự choáng ngợp trước cấu trúc của thành phố trôi nổi và sự đe dọa ngay lập tức từ hệ thống an ninh thành phố.",
+  "hook": "Một phi đội máy bay an ninh bao vây họ, yêu cầu định danh nhân dạng thông qua quét võng mạc.",
+  "emotion_arc": "Từ bàng hoàng, choáng ngợp đến cảnh giác cao độ khi bị bao vây.",
+  "contract": {
+    "required_beats": [
+      "Thang máy dừng lại, cửa mở ra.",
+      "Kael và Kaela bước ra, miêu tả khung cảnh thành phố.",
+      "Sự phản ứng của Kaela trước công nghệ thành phố.",
+      "Phi đội an ninh xuất hiện bao vây."
+    ],
+    "continuity_checks": [
+      "Kael đang trong trạng thái kiệt sức sau trận chiến chương 73.",
+      "Kaela vẫn giữ được phiến đá cổ.",
+      "Tình trạng thể chất của Valerius sau vụ nổ năng lượng vẫn là một ẩn số."
+    ],
+    "evaluation_focus": [
+      "Miêu tả môi trường thành phố trôi nổi.",
+      "Phản ứng của nhân vật trước bối cảnh mới.",
+      "Xây dựng điểm móc chương."
+    ],
+    "emotion_target": "Sự kinh ngạc và căng thẳng.",
+    "hook_goal": "Tạo áp lực ngay lập tức cho chương tiếp theo."
+  }
+}

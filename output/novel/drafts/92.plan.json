@@ -1,0 +1,31 @@
+{
+  "chapter": 92,
+  "title": "Đòn phản kích chớp nhoáng",
+  "goal": "Hoàn thành phân cảnh tiêu diệt tay súng bắn tỉa của Helios bằng đòn phản kích chớp nhoáng và thu giữ thiết bị liên lạc.",
+  "conflict": "Kael phải đối mặt với tay súng bắn tỉa ẩn nấp ở tháp đối diện trong khi hệ thần kinh đang chịu tổn thương nặng từ đợt Gia tốc nhận thức trước đó.",
+  "hook": "Tên bắn tỉa rơi xuống vực sâu, để lại thiết bị liên lạc đang kết nối với kênh nội bộ của Valerius.",
+  "emotion_arc": "Từ căng thẳng, nghẹt thở khi né đạn đến sự bùng nổ lạnh lùng và dứt khoát trong đòn phản công.",
+  "contract": {
+    "required_beats": [
+      "Miêu tả cơn đau đầu và áp lực thần kinh của Kael sau chương trước.",
+      "Kaela lo lắng hỗ trợ Kael giữ thăng bằng trên mặt kính cầu treo.",
+      "Kael kích hoạt Gia tốc nhận thức lần hai trong trạng thái giới hạn để định vị tia laze của tay súng.",
+      "Đường kiếm xé rách không gian, đánh sập vị trí trú ẩn của đối phương ở tháp đối diện.",
+      "Thu thập thiết bị liên lạc phát ra tần số của Helios từ mảnh vỡ để lại."
+    ],
+    "forbidden_moves": [
+      "Không để Kael chiến thắng một cách dễ dàng mà không trả giá bằng cơn đau thần kinh.",
+      "Không dùng từ cấm trong working_memory.user_rules.structured.fatigue_words."
+    ],
+    "continuity_checks": [
+      "Kiểm tra triệu chứng đau đầu và kiệt sức thần kinh của Kael sau khi lạm dụng Gia tốc nhận thức.",
+      "Đảm bảo không dùng từ cấm (im lặng, bỗng nhiên...)."
+    ],
+    "evaluation_focus": [
+      "Mô tả trực quan phản ứng vật lý và thần kinh của nhân vật chính.",
+      "Đảm bảo số từ đạt yêu cầu tối thiểu 2.000 từ.",
+      "Kiểm tra tính logic của đòn kiếm khí trong khoảng cách không gian hẹp."
+    ],
+    "emotion_target": "Cảm giác hồi hộp, nghẹt thở theo từng nhịp thở đứt quãng của Kael trước khi tung đòn quyết định."
+  }
+}

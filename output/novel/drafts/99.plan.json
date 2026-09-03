@@ -1,0 +1,27 @@
+{
+  "chapter": 99,
+  "title": "Hồi kết của kẻ độc tài",
+  "goal": "Miêu tả trọn vẹn trận chiến cuối cùng giữa Kael và Valerius, kết thúc bằng việc Valerius ngã gục và làm vỡ nát cột tinh thể chính.",
+  "conflict": "Valerius dồn sức tung đòn chí mạng cuối cùng vào Kael và Kaela, buộc Kael phải phản công một đòn quyết định để hạ gục gã độc tài trước khi tháp trung tâm sụp đổ.",
+  "hook": "Đòn đánh của Valerius làm vỡ nát cột tinh thể chính, giải phóng luồng năng lượng khổng lồ tràn ngập không gian.",
+  "emotion_arc": "Từ căng thẳng cực độ, tuyệt vọng cho đến sự bùng nổ hành động dứt khoát và sự tĩnh lặng sau cơn bão.",
+  "notes": "Tập trung vào miêu tả cơ bắp, tiếng động cơ, tiếng súng và phản ứng vật lý thực tế của nhân vật trong không gian chật hẹp.",
+  "contract": {
+    "required_beats": [
+      "Valerius tung phát súng cuối cùng trong cơn tuyệt vọng.",
+      "Kael né đòn trong gang tấc và phản công chí mạng.",
+      "Valerius ngã gục, cỗ máy lõi rung chuyển mạnh mẽ."
+    ],
+    "forbidden_moves": [
+      "Không dùng các câu triết lý sáo rỗng ở cuối chương.",
+      "Không để nhân vật chính dùng năng lực vô địch dễ dàng.",
+      "Không để Valerius thoát chết."
+    ],
+    "continuity_checks": [
+      "Duy trì trạng thái chấn thương của Valerius sau nhát chém ở chương trước.",
+      "Thể hiện rõ di chứng đau đầu do Gia tốc nhận thức của Kael nhưng không làm giảm phản xạ cận chiến.",
+      "Đảm bảo không sử dụng các cụm từ cấm hoặc sáo ngữ AI."
+    ],
+    "emotion_target": "Sự hồi hộp và nghẹt thở trước khoảnh khắc sinh tử quyết định của các nhân vật chính."
+  }
+}

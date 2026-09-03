@@ -1,0 +1,20 @@
+{
+  "chapter": 11,
+  "title": "Vượt ranh giới cát",
+  "goal": "Viết Chương 11: Mô tả cuộc tẩu thoát khỏi phòng lõi ngầm, hành trình băng qua vành đai sa mạc để hướng đến trạm kiểm soát biên giới công nghệ cao của tập đoàn Helios, mở đầu Cung 2.",
+  "conflict": "Kael và Kaela buộc phải tìm cách thoát khỏi sự kìm tỏa của Đại tá Valerius trong phòng lõi tàn tích Sahara, sau đó vượt qua vành đai biên giới để tiến vào vùng lãnh thổ kiểm soát bởi tập đoàn Helios.",
+  "hook": "Hệ thống nhận diện quét qua phiến đá cổ và phát tín hiệu báo động đỏ khắp mạng lưới khu vực.",
+  "emotion_arc": "Từ căng thẳng tột độ trong trận chiến ngầm đến sự ngột ngạt, cảnh giác khi đối mặt với trạm kiểm soát công nghệ cao của tập đoàn Helios.",
+  "contract": {
+    "required_beats": [
+      "Kael và Kaela thoát ra khỏi vòng vây của Valerius nhờ phản ứng bùng nổ năng lượng từ hồ Mana nguyên thủy.",
+      "Hành trình di chuyển băng qua vành đai cát vàng dưới cái nắng hắt hiu và sự truy sát ngầm bằng drone của Helios.",
+      "Chạm trán trạm kiểm soát biên giới công nghệ cao, nơi những cỗ máy tự động và lính gác kiểm tra gắt gao từng lữ khách."
+    ],
+    "continuity_checks": [
+      "Duy trì thương tích ở vai và bắp tay của Kael từ trận chiến trước.",
+      "Đảm bảo Kaela giữ chặt phiến đá cổ chứa mật mã mạch Mana.",
+      "Miêu tả sự thay đổi cảnh quan từ hoang mạc sang ranh giới trạm kiểm soát công nghệ cao."
+    ]
+  }
+}

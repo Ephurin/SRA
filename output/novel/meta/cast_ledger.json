@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Lão thợ máy",
+    "brief_role": "Thợ sửa chữa cơ khí tại thị trấn biên mậu, nắm giữ thông tin chợ đen.",
+    "first_seen_chapter": 12,
+    "last_seen_chapter": 34,
+    "appearance_count": 2,
+    "appearance_chapters": [
+      12,
+      34
+    ]
+  },
+  {
+    "name": "Kẻ thông tin",
+    "brief_role": "Kẻ thông tin bí ẩn tại thị trấn chợ đen, làm việc cho lực lượng săn tiền thưởng.",
+    "first_seen_chapter": 12,
+    "last_seen_chapter": 12,
+    "appearance_count": 1,
+    "appearance_chapters": [
+      12
+    ]
+  },
+  {
+    "name": "Roland",
+    "brief_role": "Thủ lĩnh tàn dư lực lượng kháng chiến khu vực, dày dặn kinh nghiệm chiến đấu và tỉnh táo.",
+    "first_seen_chapter": 18,
+    "last_seen_chapter": 19,
+    "appearance_count": 2,
+    "appearance_chapters": [
+      18,
+      19
+    ]
+  },
+  {
+    "name": "Logan",
+    "brief_role": "Trùm băng đảng địa phương kiểm soát phân phối Mana lỏng tại tầng dân cư ngầm.",
+    "first_seen_chapter": 22,
+    "last_seen_chapter": 22,
+    "appearance_count": 1,
+    "appearance_chapters": [
+      22
+    ]
+  },
+  {
+    "name": "Orson",
+    "brief_role": "Trung gian chuyên mua bán thông tin tuyến vận chuyển tại sòng bạc ngầm.",
+    "first_seen_chapter": 23,
+    "last_seen_chapter": 23,
+    "appearance_count": 1,
+    "appearance_chapters": [
+      23
+    ]
+  },
+  {
+    "name": "Gã thông tin",
+    "brief_role": "Kẻ thông tin bí ẩn tại thị trấn chợ đen, mang theo cảnh báo và tọa độ ẩn nấp.",
+    "first_seen_chapter": 34,
+    "last_seen_chapter": 55,
+    "appearance_count": 2,
+    "appearance_chapters": [
+      34,
+      55
+    ]
+  },
+  {
+    "name": "Gã lính đánh thuê thứ nhất",
+    "brief_role": "Lính đánh thuê tinh nhuệ của Helios, được trang bị giáp chiến thuật.",
+    "first_seen_chapter": 35,
+    "last_seen_chapter": 35,
+    "appearance_count": 1,
+    "appearance_chapters": [
+      35
+    ]
+  },
+  {
+    "name": "Gã lính đánh thuê thứ hai",
+    "brief_role": "Lính đánh thuê tinh nhuệ của Helios, phụ trách trinh sát.",
+    "first_seen_chapter": 35,
+    "last_seen_chapter": 35,
+    "appearance_count": 1,
+    "appearance_chapters": [
+      35
+    ]
+  },
+  {
+    "name": "Người máy tàng hình Helios",
+    "brief_role": "Đơn vị chiến đấu người máy tuần tra thế hệ mới của tập đoàn Helios, sử dụng công nghệ tàng hình quang học.",
+    "first_seen_chapter": 39,
+    "last_seen_chapter": 39,
+    "appearance_count": 1,
+    "appearance_chapters": [
+      39
+    ]
+  },
+  {
+    "name": "Gã thợ máy",
+    "brief_role": "Thợ sửa chữa cơ khí tại thị trấn chợ đen, nắm giữ thông tin và vật tư ngụy trang.",
+    "first_seen_chapter": 55,
+    "last_seen_chapter": 55,
+    "appearance_count": 1,
+    "appearance_chapters": [
+      55
+    ]
+  },
+  {
+    "name": "Đội trưởng thợ săn Helios",
+    "brief_role": "Đội trưởng đơn vị thợ săn tiền thưởng của tập đoàn Helios, đang truy lùng Kael và Kaela.",
+    "first_seen_chapter": 67,
+    "last_seen_chapter": 68,
+    "appearance_count": 2,
+    "appearance_chapters": [
+      67,
+      68
+    ]
+  },
+  {
+    "name": "Gã thủ lĩnh băng đảng",
+    "brief_role": "Thủ lĩnh băng đảng địa phương tại tầng đáy, sử dụng vũ khí ma pháp thô sơ.",
+    "first_seen_chapter": 76,
+    "last_seen_chapter": 76,
+    "appearance_count": 1,
+    "appearance_chapters": [
+      76
+    ]
+  },
+  {
+    "name": "Trinh sát số bốn",
+    "brief_role": "Tay súng bắn tỉa của tập đoàn Helios, bị Kael tiêu diệt trên cầu treo.",
+    "first_seen_chapter": 92,
+    "last_seen_chapter": 92,
+    "appearance_count": 1,
+    "appearance_chapters": [
+      92
+    ]
+  },
+  {
+    "name": "Hộ vệ Helios",
+    "brief_role": "Chiến binh giáp nặng thuộc lực lượng tinh nhuệ của Helios.",
+    "first_seen_chapter": 93,
+    "last_seen_chapter": 94,
+    "appearance_count": 2,
+    "appearance_chapters": [
+      93,
+      94
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "chapter": 17,
+  "title": "Đụng độ người máy tàng hình",
+  "goal": "Kael và Kaela thâm nhập vào trạm trung chuyển ngầm của phe kháng chiến.",
+  "conflict": "Kael và Kaela bị phục kích bởi một đơn vị người máy tàng hình của Helios trong khu rừng công nghiệp, Kael phải chiến đấu trong tình trạng suy kiệt thể lực.",
+  "hook": "Kiếm khí của Kael chém trúng lõi năng lượng của robot, giải phóng một luồng xung điện mạnh làm tê liệt toàn bộ hệ thống thông tin quanh vùng.",
+  "emotion_arc": "Căng thẳng tột độ -\u003e Tập trung cao độ -\u003e Giải phóng năng lượng bùng nổ.",
+  "notes": "Tập trung vào cảm giác cơ thể của Kael (vết thương nhức nhối, nhịp tim loạn nhịp). Robot tàng hình cần được miêu tả qua sự biến dạng của không gian hoặc tiếng động thay vì hình ảnh rõ ràng.",
+  "contract": {
+    "required_beats": [
+      "Hai người phát hiện ra sự hiện diện của robot qua sự biến dạng không gian.",
+      "Kael kích hoạt Gia tốc nhận thức trong tình trạng kiệt quệ.",
+      "Trận chiến diễn ra trong rừng công nghiệp với các ảo ảnh quang học.",
+      "Kael hạ gục robot bằng đòn quyết định."
+    ],
+    "forbidden_moves": [
+      "Kael dễ dàng hạ gục robot.",
+      "Kael không bị ảnh hưởng bởi vết thương.",
+      "Kaela giải quyết vấn đề bằng ma pháp quá dễ dàng."
+    ],
+    "continuity_checks": [
+      "Kael đang bị thương ở vai.",
+      "Kael đang kiệt sức do dư chấn thần kinh và nhiễm lạnh sương mù Mana.",
+      "Sương mù trong rừng công nghiệp tạo ảo ảnh quang học.",
+      "Phiến đá cổ của Kaela gây nhiễu tín hiệu."
+    ],
+    "evaluation_focus": [
+      "Miêu tả hành động cận chiến.",
+      "Sự phối hợp giữa Kael và Kaela.",
+      "Hạn chế văn phong AI."
+    ],
+    "emotion_target": "Sự nghẹt thở và kịch tính của một trận chiến sinh tử.",
+    "hook_goal": "Tạo ra một khoảng lặng đầy áp lực sau trận chiến khi họ đứng trước lối vào trạm kháng chiến."
+  }
+}

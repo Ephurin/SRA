@@ -1,0 +1,1173 @@
+[
+  {
+    "chapter": 1,
+    "time": "Ngày đầu tiên thám hiểm vành đai sa mạc",
+    "event": "Kael và Kaela chạm trán bọ cạp cơ khí trong bão cát Sahara và phát hiện lối vào hầm ngầm."
+  },
+  {
+    "chapter": 2,
+    "time": "Ngay sau chương 1",
+    "event": "Tiến vào hành lang ngầm của tàn tích cổ đại.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 3,
+    "time": "Ngày đầu tiên thám hiểm tàn tích ngầm",
+    "event": "Kael và Kaela tiêu diệt các đơn vị tự động hóa trong phòng điều khiển ngầm và phát hiện ký hiệu Helios."
+  },
+  {
+    "chapter": 4,
+    "time": "Ngày đầu tiên thám hiểm tàn tích ngầm",
+    "event": "Hội ngộ Alistair trong trạm quan sát ngầm và nhận phiến đá cổ.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Alistair"
+    ]
+  },
+  {
+    "chapter": 5,
+    "time": "Ngay sau khi Alistair hy sinh",
+    "event": "Kích hoạt phiến đá cổ và hệ thống báo động tàn tích.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 6,
+    "time": "Ngày đầu tiên thám hiểm - Sự kiện bao vây tàn tích",
+    "event": "Lực lượng Helios bao vây trạm quan sát và Kael đơn độc nghênh chiến."
+  },
+  {
+    "chapter": 7,
+    "time": "Ngày đầu tiên thám hiểm - Giai đoạn giao tranh tàn tích",
+    "event": "Kael tiêu diệt tiểu đội lính đánh thuê Helios tại hẻm núi đá ngầm và rút lui vào đường hầm.",
+    "characters": [
+      "Kael"
+    ]
+  },
+  {
+    "chapter": 8,
+    "time": "Ngày đầu tiên thám hiểm - Giai đoạn chạy trốn tầng ngầm",
+    "event": "Hội quân trong hầm mỏ tinh thể cổ và đối mặt với dị biến năng lượng do Helios gây ra.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Alistair"
+    ]
+  },
+  {
+    "chapter": 9,
+    "time": "Ngày đầu tiên thám hiểm - Giai đoạn tiến vào phòng lõi",
+    "event": "Kael hội quân cùng Kaela tại hành lang phòng lõi ngầm dưới tàn tích Sahara.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 9,
+    "time": "Ngày đầu tiên thám hiểm - Giai đoạn giao tranh hành lang",
+    "event": "Valerius và lực lượng đặc nhiệm Helios bao vây, giao chiến trực diện với Kael.",
+    "characters": [
+      "Kael",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 9,
+    "time": "Ngày đầu tiên thám hiểm - Sự kiện mở cửa phòng lõi",
+    "event": "Kaela bẻ khóa thành công cơ chế cánh cửa phòng lõi đúng thời điểm then chốt.",
+    "characters": [
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 10,
+    "time": "Ngày đầu tiên thám hiểm - Sự kiện đột phá phòng lõi",
+    "event": "Kael và Kaela tiến vào phòng lõi chứa hồ Mana nguyên thủy; Valerius xuất hiện bao vây và khai hỏa tấn công.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 11,
+    "time": "Ngày đầu tiên thám hiểm - Sự kiện tẩu thoát khỏi phòng lõi",
+    "event": "Kael và Kaela tẩu thoát khỏi phòng lõi ngầm tàn tích Sahara nhờ xung kích năng lượng."
+  },
+  {
+    "chapter": 11,
+    "time": "Ngày đầu tiên thám hiểm - Giai đoạn di chuyển biên giới",
+    "event": "Cả hai di chuyển qua vành đai sa mạc đến Trạm kiểm soát biên giới số Bốn của tập đoàn Helios."
+  },
+  {
+    "chapter": 11,
+    "time": "Ngày đầu tiên thám hiểm - Sự kiện kích hoạt báo động biên giới",
+    "event": "Hệ thống kiểm soát biên giới phát tín hiệu báo động đỏ do phát hiện cộng hưởng năng lượng cổ đại."
+  },
+  {
+    "chapter": 12,
+    "time": "Ngày thứ hai sau khi thoát khỏi tàn tích Sahara",
+    "event": "Đến thị trấn Oakhaven và ẩn náu trong tiệm sửa chữa cơ khí.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 12,
+    "time": "Ngày thứ hai sau khi thoát khỏi tàn tích Sahara",
+    "event": "Bị quân đội Helios bao vây tại thị trấn chợ đen.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Lão thợ máy",
+      "Kẻ thông tin"
+    ]
+  },
+  {
+    "chapter": 13,
+    "time": "Đêm thứ hai sau khi thoát khỏi tàn tích Sahara",
+    "event": "Quán trọ Lồng Sắt bị lính Helios tập kích ban đêm.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 13,
+    "time": "Đêm thứ hai sau khi thoát khỏi tàn tích Sahara",
+    "event": "Phá vòng vây, tẩu thoát khỏi quán trọ qua cửa sổ tầng hai trước khi vụ nổ từ trường xảy ra.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 13,
+    "time": "Đêm thứ hai sau khi thoát khỏi tàn tích Sahara",
+    "event": "Chạm trán thực thể bí ẩn trong con hẻm tối sau khi chạy trốn.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 14,
+    "time": "Ngày thứ hai - Sáng sớm",
+    "event": "Kael và Kaela cướp xe tải bọc thép Helios tại bãi hậu cần Oakhaven."
+  },
+  {
+    "chapter": 14,
+    "time": "Ngày thứ hai - Buổi trưa",
+    "event": "Hệ thống định vị bị Helios phát hiện; trạm kiểm soát cơ giới chặn đường cao tốc."
+  },
+  {
+    "chapter": 14,
+    "time": "Ngày thứ hai - Buổi trưa",
+    "event": "Kael kích hoạt Gia tốc nhận thức điều khiển xe tải tông qua rào chắn kiểm soát."
+  },
+  {
+    "chapter": 15,
+    "time": "Ngày thứ hai - Buổi trưa",
+    "event": "Kael giao chiến trên mui xe tải với phi đội máy bay không người lái Helios trên cao tốc sa mạc.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 16,
+    "time": "Ngày thứ hai - Buổi chiều",
+    "event": "Xe tải bọc thép phát nổ do chế độ tự hủy; Kael và Kaela trốn vào rừng công nghiệp sương mù.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 17,
+    "time": "Ngày thứ hai - Buổi chiều muộn",
+    "event": "Giao chiến với người máy tàng hình của Helios trong rừng công nghiệp và phát hiện lối vào trạm ngầm.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 18,
+    "time": "Ngày thứ hai sau khi thoát khỏi tàn tích Sahara - Buổi tối",
+    "event": "Kael đấu tay không với Roland; phát hiện dữ liệu cổ đại.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Roland"
+    ]
+  },
+  {
+    "chapter": 19,
+    "time": "Ngày thứ hai sau khi thoát khỏi tàn tích Sahara - Đêm muộn",
+    "event": "Lực lượng Helios tấn công và bao vây trạm ngầm của phe kháng chiến."
+  },
+  {
+    "chapter": 19,
+    "time": "Ngày thứ hai sau khi thoát khỏi tàn tích Sahara - Đêm muộn",
+    "event": "Kael đẩy lùi đợt tấn công đầu tiên trong hành lang hẹp bằng Gia tốc nhận thức."
+  },
+  {
+    "chapter": 19,
+    "time": "Ngày thứ hai sau khi thoát khỏi tàn tích Sahara - Đêm muộn",
+    "event": "Valerius phát tối hậu thư qua màn hình CRT yêu cầu giao nộp phiến đá cổ trong mười phút."
+  },
+  {
+    "chapter": 20,
+    "time": "Đêm muộn ngày thứ hai sau khi thoát khỏi tàn tích Sahara",
+    "event": "Kael tạo nổ sập hầm ngầm, chặn đứng sự truy đuổi của Valerius.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 20,
+    "time": "Đêm muộn ngày thứ hai sau khi thoát khỏi tàn tích Sahara",
+    "event": "Nhóm Kael và Kaela tiến vào thành phố ngầm cổ đại.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 21,
+    "time": "Ngay sau khi rời khỏi trạm ngầm bị sập",
+    "event": "Đặt chân đến thành phố ngầm trôi nổi Aethelgard và bị sát thủ địa phương bám đuôi.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 21,
+    "time": "Đêm thứ hai tại Aethelgard",
+    "event": "Kael hạ gục sát thủ liên minh tầng dưới trong hẻm ngầm và nhận cảnh báo qua bộ đàm từ Valerius.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 22,
+    "time": "Ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Kael và Kaela gặp gỡ Logan tại căn cứ ngầm để trao đổi vật phẩm lấy Mana lỏng.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Logan"
+    ]
+  },
+  {
+    "chapter": 23,
+    "time": "Ngày thứ hai tại thành phố ngầm Aethelgard - Đêm",
+    "event": "Giao dịch thông tin tuyến vận chuyển tại sòng bạc neon ngầm và đụng độ lính Helios.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Orson"
+    ]
+  },
+  {
+    "chapter": 24,
+    "time": "Ngày thứ hai tại thành phố ngầm Aethelgard - Đêm muộn",
+    "event": "Lính đánh thuê Helios tập kích phòng trọ ngầm của Kael và Kaela."
+  },
+  {
+    "chapter": 25,
+    "time": "Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Cướp xe tải Helios và di chuyển qua các tầng ngầm Aethelgard.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 25,
+    "time": "Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Tiến sát trạm kiểm soát số bảy của tập đoàn Helios.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 26,
+    "time": "Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Phá vỡ rào chắn biên phòng Helios và bỏ xe tháo chạy dưới sự truy đuổi của máy bay không người lái.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 27,
+    "time": "Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Tẩu thoát khỏi khu vực xe tải bị nổ và xâm nhập vào hệ thống thông gió công nghiệp.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 28,
+    "time": "Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Đụng độ robot tàng hình Helios trong hệ thống ống thông gió ngầm.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 29,
+    "time": "Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Xâm nhập trạm tiếp tế ngầm và phát hiện dữ liệu quan trọng về Helios.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 30,
+    "time": "Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Trạm tiếp tế sụp đổ, Kael và Kaela tẩu thoát xuống thành phố ngầm.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 31,
+    "time": "Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Hạ xuống thành phố ngầm Aethelgard.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 32,
+    "time": "Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Trốn chạy và đột nhập thành công vào khoang chứa ngầm dưới thành phố.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 33,
+    "time": "Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Phát hiện bẫy trong khoang ngầm và tẩu thoát qua hệ thống thông gió.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 34,
+    "time": "Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Lẩn trốn vào thị trấn chợ đen và chạm trán kẻ thông tin bí ẩn.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 35,
+    "time": "Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Giao tranh tại quán trọ ngầm trong thị trấn biên mậu.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Gã lính đánh thuê thứ nhất",
+      "Gã lính đánh thuê thứ hai"
+    ]
+  },
+  {
+    "chapter": 36,
+    "time": "Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Cướp xe tải Helios và di chuyển qua con đường cao tốc bỏ hoang tới trạm kiểm soát thứ hai.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 37,
+    "time": "Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Phá rào chắn biên phòng và bị phi đội máy bay Helios truy đuổi.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 38,
+    "time": "Đêm muộn ngày thứ hai tại khu vực công nghiệp Helios",
+    "event": "Chạy trốn vào rừng công nghiệp sương mù sau khi xe tải bị phá hủy.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 39,
+    "time": "Đêm muộn ngày thứ hai tại khu vực công nghiệp Helios",
+    "event": "Kael tiêu diệt người máy tàng hình và phá hủy hệ thống trinh sát của Helios trong khu vực.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 40,
+    "time": "Đêm muộn ngày thứ hai tại khu vực công nghiệp Helios",
+    "event": "Tìm thấy trạm tiếp tế ngầm và phát hiện bí mật của Helios.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 41,
+    "time": "Đêm muộn ngày thứ hai tại khu vực công nghiệp Helios",
+    "event": "Valerius bao vây trạm tiếp tế ngầm và đưa ra tối hậu thư mười phút cho Kael.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 42,
+    "time": "Đêm muộn ngày thứ hai tại khu vực công nghiệp Helios",
+    "event": "Kael và Kaela đào tẩu khỏi trạm tiếp tế ngầm, tiến vào thành phố Aethelgard.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 43,
+    "time": "Đêm muộn ngày thứ hai tại khu vực công nghiệp Helios",
+    "event": "Kael và Kaela đặt chân đến thung lũng ngầm Aethelgard và đối mặt với mối nguy hiểm từ lòng đất.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 44,
+    "time": "Đêm muộn ngày thứ hai tại thành phố ngầm Aethelgard",
+    "event": "Trận chiến với nhện thép canh khe núi ngầm.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 45,
+    "time": "Đêm muộn ngày thứ hai tại Aethelgard",
+    "event": "Sơ cứu vết thương cho Kael và khám phá bích họa cổ trong hang động ngầm.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 46,
+    "time": "Đêm muộn ngày thứ hai tại Aethelgard",
+    "event": "Giải mã bí mật bích họa và phát hiện nhóm thợ săn tiền thưởng Helios.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 47,
+    "time": "Đêm muộn ngày thứ hai tại thung lũng ngầm Aethelgard",
+    "event": "Kael tiêu diệt nhóm thợ săn tiền thưởng và thu giữ thiết bị liên lạc của Helios.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 48,
+    "time": "Mười lăm phút trước khi cỗ máy khoan hoàn tất việc hút lõi Mana.",
+    "event": "Kael và Kaela xâm nhập vào khu vực công trường khoan của Helios.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 49,
+    "time": "Mười phút trước khi cỗ máy khoan hoàn tất việc hút lõi Mana",
+    "event": "Kael và Kaela di chuyển qua hầm mỏ và kích hoạt nhầm hệ thống báo động tinh thể.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 50,
+    "time": "Mười phút trước khi cỗ máy khoan hoàn tất việc hút lõi Mana",
+    "event": "Kael và Kaela tiêu diệt tiểu đội Helios tại trạm van điều tiết.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 51,
+    "time": "Bốn phút trước khi cỗ máy khoan chạm đến hồ lõi Mana",
+    "event": "Kael và Kaela tiếp cận công trường khoan ngầm và rơi vào ổ phục kích của Đại tá Valerius.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 52,
+    "time": "Thời điểm lõi Mana bị khoan thủng.",
+    "event": "Kael tấn công Valerius và cỗ máy khoan kích hoạt phát súng cuối cùng vào lõi Mana.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 53,
+    "time": "Ngay sau thời điểm lõi Mana bị khoan thủng.",
+    "event": "Vụ nổ lõi Mana đưa tất cả vào không gian cộng hưởng.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 54,
+    "time": "Ngay sau vụ nổ lõi Mana",
+    "event": "Thoát khỏi không gian cộng hưởng và tiếp cận trạm kiểm soát biên giới.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 55,
+    "time": "Ngay sau chương 54",
+    "event": "Trốn thoát khỏi trạm kiểm soát biên giới Helios.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 55,
+    "time": "Vài giờ sau khi thoát khỏi biên giới",
+    "event": "Gặp gỡ gã thông tin tại Chợ Đen Tầng Sáu.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Gã thông tin"
+    ]
+  },
+  {
+    "chapter": 56,
+    "time": "Đêm muộn tại Chợ Đen Tầng Sáu",
+    "event": "Lính đánh thuê Helios tập kích quán trọ Cánh Quạ Sắt."
+  },
+  {
+    "chapter": 56,
+    "time": "Ngay sau trận tập kích",
+    "event": "Kael tiêu diệt nhóm lính đánh thuê và phát hiện thiết bị định vị bị kích hoạt."
+  },
+  {
+    "chapter": 57,
+    "time": "Đêm muộn sau vụ tập kích quán trọ",
+    "event": "Cướp xe tải Helios và di chuyển qua đường cao tốc bỏ hoang.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 57,
+    "time": "Gần sáng",
+    "event": "Tiến sát trạm kiểm soát thứ hai của tập đoàn Helios và đối mặt với yêu cầu xác thực sinhometric.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 58,
+    "time": "Rạng sáng sau đêm trốn chạy từ chợ đen",
+    "event": "Kael tông xe phá vỡ trạm kiểm soát biên phòng thứ hai của tập đoàn Helios và trốn chạy khỏi sự truy đuổi của máy bay không người lái.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 59,
+    "time": "Ngay sau khi xe tải phát nổ ở chương 58",
+    "event": "Kael và Kaela bỏ xe tải và chạy vào rừng công nghiệp nhân tạo.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 60,
+    "time": "Rạng sáng sau cuộc trốn chạy",
+    "event": "Đụng độ và tiêu diệt người máy tàng hình Helios trong rừng công nghiệp nhân tạo.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 61,
+    "time": "Rạng sáng sau cuộc trốn chạy khỏi khu công nghiệp",
+    "event": "Thâm nhập trạm tiếp tế ngầm, sơ cứu vết thương và xem đoạn video ghi hình cũ về người sáng lập Helios.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 62,
+    "time": "Rạng sáng tại trạm tiếp tế ngầm",
+    "event": "Valerius bao vây trạm tiếp tế ngầm và phát tối hậu thư mười phút qua màn hình giám sát.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 63,
+    "time": "Rạng sáng tại trạm tiếp tế ngầm",
+    "event": "Kael và Kaela kích hoạt thuốc nổ trốn thoát khỏi vòng vây của Valerius bằng thang máy khẩn cấp xuống thành phố ngầm.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 64,
+    "time": "Ngay sau khi trốn chạy khỏi trạm tiếp tế ngầm",
+    "event": "Kael và Kaela bước ra khỏi thang máy khẩn cấp, thám hiểm thung lũng mạch ngầm Aethelgard.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 64,
+    "time": "Sau khi di chuyển ba dặm qua thung lũng ngầm",
+    "event": "Phát hiện sinh vật canh gác khổng lồ ẩn giấu trong khe núi ngầm.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 65,
+    "time": "Ngay sau khi thám hiểm thung lũng ngầm",
+    "event": "Giao chiến với cỗ máy nhện thép cổ đại tại khe núi ngầm Aethelgard.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 66,
+    "time": "Ngay sau trận chiến với cỗ máy nhện thép trong thung lũng ngầm",
+    "event": "Kael và Kaela trú ẩn trong hang động ngầm, sơ cứu vết thương và khám phá bích họa cổ."
+  },
+  {
+    "chapter": 67,
+    "time": "Ngay sau khi băng bó xong vết thương",
+    "event": "Kaela giải mã thành công ký ức sống của mạch Mana và hang động bắt đầu biến đổi.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 67,
+    "time": "Ngay sau khi Kael và Kaela rút lui vào đường hầm",
+    "event": "Nhóm thợ săn Helios xuất hiện tại hang động và bắt đầu truy quét.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Đội trưởng thợ săn Helios"
+    ]
+  },
+  {
+    "chapter": 68,
+    "time": "Ngay sau khi rút lui vào đường hầm hang động ngầm",
+    "event": "Kael phục kích nhóm thợ săn tiền thưởng Helios trong đường hầm và thu giữ thiết bị liên lạc quân sự.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Đội trưởng thợ săn Helios"
+    ]
+  },
+  {
+    "chapter": 69,
+    "time": "Ngay sau khi thu giữ thiết bị liên lạc",
+    "event": "Kael và Kaela lên kế hoạch đột kích công trường khoan của Valerius sau khi nghe đoạn ghi âm."
+  },
+  {
+    "chapter": 69,
+    "time": "Mười phút sau khi rời hang động",
+    "event": "Đột nhập thành công qua đường ống ngầm và né tránh cảm biến nhiệt của Helios."
+  },
+  {
+    "chapter": 69,
+    "time": "Năm phút trước thời điểm máy khoan đạt điểm tới hạn",
+    "event": "Kaela hack thành công bảng điều khiển, trong khi Kael giao chiến với quân địch."
+  },
+  {
+    "chapter": 69,
+    "time": "Ngay sau khi máy khoan bị khóa tạm thời",
+    "event": "Valerius xuất hiện qua đài quan sát và kích hoạt cơ chế tự hủy công trường."
+  },
+  {
+    "chapter": 70,
+    "time": "Ngay sau khi rời công trường khoan tạm thời",
+    "event": "Vượt qua bãi mìn quang học trong hầm mỏ bỏ hoang.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 70,
+    "time": "Mười phút sau khi di chuyển trong hầm mỏ",
+    "event": "Kaela chạm vào chùm tinh thể cộng hưởng làm kích hoạt hệ thống báo động Helios.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 70,
+    "time": "Ngay sau tiếng chuông báo động",
+    "event": "Kael đỡ đạn và đưa Kaela ẩn nấp vào khe đá hẹp trước sự truy sát của quân địch.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 71,
+    "time": "Ngay sau khi tiếng chuông báo động ở chương trước vang lên",
+    "event": "Trận chiến tại trạm van điều tiết ngầm kết thúc với sự rút lui tạm thời của quân địch.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 72,
+    "time": "Ngay sau sự kiện tại trạm van điều tiết",
+    "event": "Kael và Kaela tiếp cận công trường khoan hồ lõi Mana và đối mặt với vòng vây của Valerius.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 73,
+    "time": "Thời điểm Valerius ra lệnh khai hỏa",
+    "event": "Kael đột phá vòng vây laze của Helios bằng Gia tốc nhận thức."
+  },
+  {
+    "chapter": 73,
+    "time": "Ngay trước khi mũi khoan chạm lõi Mana",
+    "event": "Kaela kích hoạt hệ thống quá tải phản hồi của cỗ máy khoan."
+  },
+  {
+    "chapter": 73,
+    "time": "Ngay sau pha giáp lá cà trên đài chỉ huy",
+    "event": "Kael đánh bại Valerius và hồ lõi Mana phát nổ cộng hưởng nuốt chửng toàn bộ công trường."
+  },
+  {
+    "chapter": 74,
+    "time": "Ngay sau vụ nổ cộng hưởng hồ lõi Mana",
+    "event": "Bước ra khỏi thang máy thoát hiểm và đặt chân đến thành phố trôi nổi Aethelgard Thượng tầng.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 74,
+    "time": "Mười phút sau khi đến thành phố trôi nổi",
+    "event": "Bị phi đội máy bay an ninh không người lái của thành phố bao vây tại bệ phóng dịch vụ.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 75,
+    "time": "Ngay sau sự kiện tại bệ phóng dịch vụ",
+    "event": "Kaela hack hệ thống an ninh thành phố và mở cửa trốn vào tầng đáy.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 75,
+    "time": "Mười phút sau khi thâm nhập tầng đáy thành phố",
+    "event": "Bị băng đảng địa phương chặn đường tại hẻm rỉ sét tầng đáy.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 76,
+    "time": "Ngay sau sự kiện tại tầng đáy thành phố trôi nổi",
+    "event": "Kael tiêu diệt băng đảng địa phương và lấy được thẻ ra vào cấp cao.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 77,
+    "time": "Ngay sau sự kiện tại tầng đáy",
+    "event": "Thâm nhập tầng trung lưu của thành phố trôi nổi.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 77,
+    "time": "Mười phút sau khi thâm nhập tầng trung lưu",
+    "event": "Phát hiện Valerius chiếm đóng tòa tháp trung tâm.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 77,
+    "time": "Ngay sau khi nghe lệnh của Valerius trên bộ đàm",
+    "event": "Ẩn nấp vào đường ống kỹ thuật để tránh sự truy lùng của quân đội Helios.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 78,
+    "time": "Ngay sau khi rời khỏi hệ thống thông gió",
+    "event": "Thâm nhập thành công vào cửa khẩu kiểm soát tòa tháp trung tâm.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 78,
+    "time": "Ngay sau khi quét sinh trắc học",
+    "event": "Bị hệ thống quét an ninh phát hiện danh tính thật của Kael.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 79,
+    "time": "Ngay sau sự kiện tại chốt kiểm soát (chương 78)",
+    "event": "Kael và Kaela thâm nhập vào sảnh tòa tháp trung tâm và bị quân đội Helios bao vây.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 79,
+    "time": "Ngay sau khi Kael hạ gục tiểu đội an ninh trong sảnh tòa tháp",
+    "event": "Valerius đối đầu trực diện với Kael tại hành lang phòng lõi.",
+    "characters": [
+      "Kael",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 80,
+    "time": "Ngay sau trận chiến tại phòng lõi tháp trung tâm",
+    "event": "Kael phá hủy bộ khuếch đại năng lượng và Valerius kích hoạt cơ chế tự hủy của thành phố.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 81,
+    "time": "Ngay sau sự kiện tại chương 80",
+    "event": "Kael cầm chân Valerius trong khi Kaela giải mã hệ thống tự hủy.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 82,
+    "time": "Ngay sau sự kiện tại chương 81",
+    "event": "Kaela vô hiệu hóa thành công hệ thống tự hủy của tháp Aethelgard.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 82,
+    "time": "Ngay sau khi hệ thống tự hủy bị tắt",
+    "event": "Kael khống chế và tước vũ khí của Đại tá Valerius.",
+    "characters": [
+      "Kael",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 82,
+    "time": "Ngay sau khi Valerius bị tước vũ khí",
+    "event": "Lõi Mana nguyên thủy thức tỉnh, biến đổi toàn bộ kiến trúc thành phố trôi nổi.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 83,
+    "time": "Ngay sau sự kiện vô hiệu hóa hệ thống tự hủy",
+    "event": "Kael và Kaela quan sát thành phố Aethelgard tái sinh từ đỉnh tháp.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 83,
+    "time": "Ngay sau cuộc trò chuyện trên ban công tháp",
+    "event": "Phát hiện tín hiệu lạ từ tầng sâu dưới lòng đất Aethelgard.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 84,
+    "time": "Ngay sau khi rời khỏi thang máy khẩn cấp",
+    "event": "Kael và Kaela rời khỏi thang máy khẩn cấp, bước vào quảng trường trung tâm Aethelgard và nép mình tránh đội tuần tra Helios.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 85,
+    "time": "Ngay sau khi rời khỏi quảng trường trung tâm",
+    "event": "Lẩn trốn vào khu ổ chuột thành phố trôi nổi.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 86,
+    "time": "Ngay sau sự kiện tại khu ổ chuột vành đai ngoài",
+    "event": "Kael và Kaela né tránh đội truy sát Helios và trốn vào ống dẫn nhiệt."
+  },
+  {
+    "chapter": 86,
+    "time": "Cuối chương 86",
+    "event": "Hệ thống an ninh Aethelgard quét được dấu vết sinhometric của Kaela, kích hoạt báo động đỏ."
+  },
+  {
+    "chapter": 87,
+    "time": "Ngày thứ 14 tại thành phố trôi nổi Aethelgard",
+    "event": ""
+  },
+  {
+    "chapter": 88,
+    "time": "Ngày thứ 14 tại thành phố trôi nổi Aethelgard",
+    "event": "Kaela giải mã dữ liệu ký ức luân hồi và vô tình kích hoạt hệ thống phòng thủ tự động của viện nghiên cứu.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 89,
+    "time": "Ngày thứ 14 tại thành phố trôi nổi Aethelgard",
+    "event": "Kael tiêu diệt hệ thống pháo tự động và Kaela ngắt kết nối an ninh viện nghiên cứu ngầm.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 89,
+    "time": "Ngay sau trận chiến với hệ thống phòng thủ ngầm",
+    "event": "Đại tá Valerius phát đi thông điệp khiêu chiến qua màn hình trung tâm.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 90,
+    "time": "Sau cuộc tập kích của hệ thống pháo tự động",
+    "event": "Kaela giải mã bản đồ năng lượng ngầm và phát hiện buồng giam Bán Bất Lão."
+  },
+  {
+    "chapter": 91,
+    "time": "Ngày thứ 14 tại thành phố trôi nổi Aethelgard",
+    "event": "Kael và Kaela đối mặt với tay súng bắn tỉa trên cầu treo thành phố.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 92,
+    "time": "Ngày thứ 14 tại thành phố trôi nổi Aethelgard",
+    "event": "Kael tiêu diệt tay súng bắn tỉa của Helios trên cầu treo thành phố trôi nổi Aethelgard.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 93,
+    "time": "Ngày thứ 14 tại thành phố trôi nổi Aethelgard",
+    "event": "Đối đầu trực diện tại chân tháp trung tâm Aethelgard.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 94,
+    "time": "Hiện tại",
+    "event": "Trận chiến trước cổng tháp trung tâm bùng nổ.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 95,
+    "time": "Ngày thứ 12 của hành trình ngầm",
+    "event": "Kaela vô hiệu hóa màn chắn năng lượng tháp trung tâm."
+  },
+  {
+    "chapter": 95,
+    "time": "Ngày thứ 12 của hành trình ngầm",
+    "event": "Kael và Kaela tiến vào sảnh ký ức vĩnh hằng bên trong tháp Aethelgard."
+  },
+  {
+    "chapter": 96,
+    "time": "Ngày thứ mười lăm tại thành phố trôi nổi",
+    "event": "Valerius đối đầu trực diện với Kael và Kaela bên trong sảnh chính tháp trung tâm."
+  },
+  {
+    "chapter": 97,
+    "time": "Ngày thâm nhập tháp trung tâm",
+    "event": "Kael giao tranh tay đôi và đánh bị thương Đại tá Valerius tại sảnh tháp trung tâm Aethelgard."
+  },
+  {
+    "chapter": 97,
+    "time": "Ngày thâm nhập tháp trung tâm",
+    "event": "Valerius kích hoạt cơ chế tự hủy của tháp Aethelgard, bắt đầu đếm ngược 300 giây."
+  },
+  {
+    "chapter": 98,
+    "time": "12 giây trước khi nổ",
+    "event": "Kaela vô hiệu hóa lệnh tự hủy của tháp.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 99,
+    "time": "Thời điểm cuối cùng tại sảnh tháp Aethelgard",
+    "event": "Kael hạ gục Valerius trong sảnh tháp trung tâm; cột tinh thể chính bị vỡ nát giải phóng năng lượng quá tải.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 100,
+    "time": "Sau trận chiến quyết định",
+    "event": "Tháp trung tâm Aethelgard vô hiệu hóa lệnh tự hủy; thành phố bắt đầu hạ cánh.",
+    "characters": [
+      "Kael",
+      "Kaela",
+      "Valerius"
+    ]
+  },
+  {
+    "chapter": 101,
+    "time": "Bình minh sau trận chiến",
+    "event": "Thành phố trôi nổi hạ cánh xuống mặt đất hoang mạc.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  },
+  {
+    "chapter": 102,
+    "time": "Sau khi thành phố hạ cánh xuống mặt đất.",
+    "event": "Rời khỏi tháp trung tâm Aethelgard, bắt đầu hành trình tự do mới.",
+    "characters": [
+      "Kael",
+      "Kaela"
+    ]
+  }
+]

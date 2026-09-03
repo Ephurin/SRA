@@ -1,0 +1,33 @@
+{
+  "chapter": 50,
+  "title": "Trận chiến tại trạm van",
+  "goal": "Kael và Kaela tiêu diệt tiểu đội Helios tại trạm van, giành quyền kiểm soát hệ thống để ngăn chặn cỗ máy khoan.",
+  "conflict": "Kael và Kaela bị dồn vào đường cùng tại trạm van điều tiết, đối mặt với tiểu đội tinh nhuệ Helios trong lúc Kael đang kiệt sức do lạm dụng Gia tốc nhận thức.",
+  "hook": "Việc sử dụng Gia tốc nhận thức quá đà khiến Kael một lần nữa bị những cơn đau đầu dữ dội hành hạ, tầm nhìn bắt đầu nhòe đi.",
+  "emotion_arc": "Từ hoảng loạn sau vụ nổ, sang tập trung cực độ trong chiến đấu, đến sự kiệt sức đè nặng.",
+  "notes": "Trọng tâm là mô tả vật lý của trận chiến trong không gian hẹp (trạm van). Kael phải dùng kỹ năng kiếm thuật để bù đắp cho sự suy giảm thể chất.",
+  "contract": {
+    "required_beats": [
+      "Trận chiến tại trạm van.",
+      "Kaela hack hệ thống van nước để cô lập kẻ địch.",
+      "Kael hoàn thành mục tiêu nhưng bắt đầu kiệt sức."
+    ],
+    "forbidden_moves": [
+      "Kael không được dùng phép thuật quá mạnh ngoài kiếm khí và Mana Skin.",
+      "Không tóm tắt diễn biến trận chiến.",
+      "Không dùng các từ sáo rỗng như 'thời gian như ngừng trôi'."
+    ],
+    "continuity_checks": [
+      "Trạng thái kiệt sức của Kael (đau đầu, tay trái chấn thương).",
+      "Sự phối hợp giữa Kael và Kaela (Kael đánh, Kaela hack).",
+      "Môi trường trạm van (ẩm ướt, áp suất cao, các van điều tiết khổng lồ)."
+    ],
+    "evaluation_focus": [
+      "Đặc tả hành động chiến đấu không dùng từ sáo rỗng.",
+      "Thể hiện sự quá tải của năng lực Gia tốc nhận thức.",
+      "Đối thoại ngắn gọn, phản ánh sự khẩn trương."
+    ],
+    "emotion_target": "Căng thẳng, hồi hộp, sự mong manh của chiến thắng.",
+    "hook_goal": "Tạo sự lo lắng cho an nguy của Kael ngay khi vừa chiến thắng."
+  }
+}

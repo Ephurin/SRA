@@ -1,0 +1,27 @@
+{
+  "chapter": 46,
+  "title": "Ký ức trên vách đá",
+  "goal": "Giải mã bí mật của bích họa và tạo ra điểm móc câu cho chương tiếp theo.",
+  "conflict": "Sự xung đột giữa việc giải mã bí mật của bích họa và sự bất ổn ngày càng tăng của môi trường xung quanh hang động.",
+  "hook": "Nền hang đột nhiên rung chuyển nhẹ, các vết nứt trên vách đá rỉ ra một chất lỏng phát sáng màu xanh thẫm.",
+  "emotion_arc": "Từ tò mò, hưng phấn khi khám phá được bí mật, chuyển sang lo âu và căng thẳng cực độ trước sự đe dọa từ môi trường.",
+  "contract": {
+    "required_beats": [
+      "Kaela giải thích về hệ thống ký ức sống của mạch Mana.",
+      "Kael nhận ra những biểu tượng trên bích họa khớp với các di tích họ từng đi qua.",
+      "Môi trường hang động bắt đầu biến đổi dữ dội.",
+      "Tiếng bước chân lạ vọng đến, báo hiệu mối đe dọa mới."
+    ],
+    "continuity_checks": [
+      "Vết thương bắp tay trái của Kael cần được nhắc đến hoặc thể hiện qua các cử động hạn chế.",
+      "Kaela tiếp tục sử dụng kiến thức cổ ngữ của mình để giải mã.",
+      "Sự rung chuyển của hang động phải được miêu tả như hệ quả của việc 'hệ thống ký ức' bị đánh thức."
+    ],
+    "evaluation_focus": [
+      "Tính nhất quán của mô tả môi trường hang động.",
+      "Sự tự nhiên trong đối thoại của Kael và Kaela.",
+      "Tránh các cụm từ sáo rỗng đã cấm."
+    ],
+    "emotion_target": "Sự tò mò và lo âu."
+  }
+}

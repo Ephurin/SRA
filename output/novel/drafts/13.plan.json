@@ -1,0 +1,27 @@
+{
+  "chapter": 13,
+  "title": "Đêm tập kích quán trọ",
+  "goal": "Kael và Kaela thoát khỏi sự bao vây của quân Helios tại thị trấn chợ đen.",
+  "conflict": "Kael và Kaela bị quân lính Helios bao vây trong quán trọ tồi tàn, phải chiến đấu để thoát thân trong không gian hẹp.",
+  "hook": "Kael và Kaela thoát ra ngoài, nhưng nhận ra họ đã bị theo dõi bởi một thực thể nguy hiểm hơn cả quân lính Helios.",
+  "emotion_arc": "Từ trạng thái cảnh giác cao độ chuyển sang bùng nổ chiến đấu và kết thúc bằng sự căng thẳng tột độ khi thoát hiểm.",
+  "notes": "Tập trung vào sự phối hợp: Kaela dùng ký ức luân hồi để 'thấy' trước đòn đánh, Kael thực thi. Không được để Kael thắng quá dễ dàng.",
+  "contract": {
+    "required_beats": [
+      "Kael và Kaela nhận ra quán trọ đã bị bao vây.",
+      "Kael sử dụng kiếm thuật kết hợp với sự dẫn dắt của Kaela.",
+      "Chiến đấu trong không gian hẹp, tận dụng môi trường.",
+      "Thoát khỏi quán trọ trong gang tấc."
+    ],
+    "continuity_checks": [
+      "Sức khỏe của Kael sau những chặng đường trước đó.",
+      "Trạng thái tinh thần của Kaela khi phải đối mặt với nguy hiểm cận kề.",
+      "Sự phối hợp giữa kiếm thuật của Kael và dự đoán của Kaela."
+    ],
+    "evaluation_focus": [
+      "Sự phối hợp hành động giữa hai nhân vật chính.",
+      "Miêu tả chiến đấu 'Show, Don't Tell'.",
+      "Đảm bảo không dùng từ ngữ sáo rỗng."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "chapter": 34,
+  "title": "Thị trấn chợ đen",
+  "goal": "Miêu tả hành trình Kael và Kaela lẩn trốn vào thị trấn chợ đen thuộc thành phố ngầm, mua sắm vật tư ngụy trang và chạm trán với mối đe dọa săn tiền thưởng.",
+  "conflict": "Kael và Kaela tìm đường ẩn náu tại một thị trấn chợ đen trong lòng thành phố ngầm, đối mặt với sự hiểm nguy từ những kẻ săn tiền thưởng và thông tin bị lộ.",
+  "hook": "Một kẻ thông tin bí ẩn tiết lộ mức tiền thưởng khổng lồ mà Helios treo cho chiếc đầu của Kael và Kaela, hé lộ vòng vây đang khép chặt.",
+  "emotion_arc": "Từ căng thẳng trốn chạy sang sự cẩn trọng ngột ngạt trong không gian chợ đen, khép lại bằng mối đe dọa trực diện từ kẻ thông tin bí ẩn.",
+  "contract": {
+    "required_beats": [
+      "Miêu tả khung cảnh ồn ào, khói bụi và hỗn tạp của thị trấn biên mậu ngầm.",
+      "Kaela giao dịch mua bán vật tư ngụy trang bằng các linh kiện cổ.",
+      "Sự xuất hiện của kẻ thông tin mang theo cảnh báo về tiền thưởng của Helios."
+    ],
+    "continuity_checks": [
+      "Kiểm tra vết thương bắp tay trái của Kael và triệu chứng mệt mỏi thần kinh.",
+      "Giữ vững nhịp điệu tương tác thực tế giữa Kael và Kaela.",
+      "Đảm bảo bối cảnh thị trấn chợ đen ngầm mang đậm màu sắc cyberpunk và hậu tận thế phương Tây."
+    ]
+  }
+}

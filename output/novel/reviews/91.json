@@ -1,0 +1,64 @@
+{
+  "chapter": 91,
+  "scope": "chapter",
+  "issues": [
+    {
+      "type": "aesthetic",
+      "severity": "warning",
+      "description": "Mô tả trạng thái đau đầu của Kael hơi lặp lại qua các chương, dù hợp lý nhưng cần làm mới cách miêu tả.",
+      "evidence": "'cảm giác đau nhói sau thái dương vẫn còn âm ỉ', 'Những cơn đau đầu do lạm dụng Gia tốc nhận thức vẫn chưa dứt hẳn'",
+      "suggestion": "Có thể miêu tả qua các biểu hiện khác như ù tai, thị giác bị nhiễu màu hoặc mất thăng bằng thay vì chỉ là đau đầu."
+    }
+  ],
+  "dimensions": [
+    {
+      "dimension": "consistency",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Thiết lập không gian thành phố trôi nổi nhất quán với các chương trước."
+    },
+    {
+      "dimension": "character",
+      "score": 92,
+      "verdict": "pass",
+      "comment": "Kael và Kaela giữ vững tính cách: Kael lạnh lùng, quyết đoán; Kaela lo âu nhưng kiên cường."
+    },
+    {
+      "dimension": "pacing",
+      "score": 88,
+      "verdict": "pass",
+      "comment": "Nhịp độ khẩn trương, đan xen giữa hành động và suy ngẫm nội tâm."
+    },
+    {
+      "dimension": "continuity",
+      "score": 85,
+      "verdict": "pass",
+      "comment": "Chuyển cảnh từ hành lang ngoài vào cầu treo tự nhiên, logic."
+    },
+    {
+      "dimension": "foreshadow",
+      "score": 85,
+      "verdict": "pass",
+      "comment": "Phục bút về Valerius và bí mật giống loài được duy trì tốt."
+    },
+    {
+      "dimension": "hook",
+      "score": 88,
+      "verdict": "pass",
+      "comment": "Kết thúc chương bằng việc tiến gần đến tháp trung tâm tạo sức hút tốt."
+    },
+    {
+      "dimension": "aesthetic",
+      "score": 85,
+      "verdict": "pass",
+      "comment": "Văn phong tốt, miêu tả trực quan: 'lớp kính trong suốt phô bày toàn bộ sự rỗng tuếch', 'mùi sắt tanh của máu hòa trong gió lạnh'. Trích dẫn: 'Kael lăn người trên mặt cầu, tay trái anh siết chặt lấy Kaela, kéo cô vào phía sau một trụ đỡ bằng hợp kim'."
+    }
+  ],
+  "contract_status": "met",
+  "contract_notes": "Chương đạt yêu cầu về độ dài (5522 từ) và xung đột (đối đầu tay súng bắn tỉa). Đã thực hiện tốt việc miêu tả hành động và cảm xúc qua giác quan (Show, Don't Tell).",
+  "verdict": "accept",
+  "summary": "Chương 91 hoàn thành tốt nhiệm vụ chuyển tiếp vào khu vực lõi thành phố, xây dựng được không khí căng thẳng và hành động kịch tính. Nhân vật nhất quán, nhịp điệu ổn định. Đề xuất trau chuốt thêm các biểu hiện vật lý của sự quá tải năng lượng để tránh lặp từ.",
+  "affected_chapters": [
+    91
+  ]
+}

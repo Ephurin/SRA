@@ -1,0 +1,1036 @@
+[
+  {
+    "chapter": 1,
+    "entity": "Kael",
+    "field": "Mệt mỏi thần kinh",
+    "old_value": "Bình thường",
+    "new_value": "Có triệu chứng đau đầu nhẹ sau khi dùng Gia tốc nhận thức",
+    "reason": "Sử dụng năng lực bản nguyên trong trận chiến bọ cạp cơ khí"
+  },
+  {
+    "chapter": 2,
+    "entity": "Kael",
+    "field": "Trạng thái thần kinh",
+    "old_value": "Mệt mỏi thần kinh",
+    "new_value": "Vẫn còn mệt mỏi do di chứng chương 1",
+    "reason": "Duy trì cảnh giác cao độ trong môi trường khắc nghiệt"
+  },
+  {
+    "chapter": 3,
+    "entity": "Kael",
+    "field": "Trạng thái thần kinh",
+    "old_value": "Mệt mỏi thần kinh",
+    "new_value": "Chảy máu mũi nhẹ do lạm dụng Gia tốc nhận thức",
+    "reason": "Sử dụng Gia tốc nhận thức trong trận chiến với đơn vị tự động hóa"
+  },
+  {
+    "chapter": 4,
+    "entity": "Kaela",
+    "field": "Trang bị",
+    "old_value": "Chỉ có thiết bị trạm đo cầm tay",
+    "new_value": "Sở hữu phiến đá cổ chứa mật mã mạch Mana chính",
+    "reason": "Được Alistair giao phó phiến đá cổ trước khi trạm quan sát bị bao vây"
+  },
+  {
+    "chapter": 5,
+    "entity": "Kael",
+    "field": "Trạng thái thần kinh",
+    "old_value": "Chảy máu mũi nhẹ",
+    "new_value": "Quá tải nghiêm trọng do gia tốc nhận thức và cộng hưởng Mana",
+    "reason": "Sử dụng năng lực bản nguyên quá mức trong điều kiện cộng hưởng năng lượng cực mạnh"
+  },
+  {
+    "chapter": 5,
+    "entity": "Hệ thống phòng thủ tàn tích",
+    "field": "Trạng thái",
+    "old_value": "Ngủ đông",
+    "new_value": "Hoạt động/Báo động đỏ",
+    "reason": "Được kích hoạt bởi sự cộng hưởng giữa kiếm của Kael và phiến đá cổ"
+  },
+  {
+    "chapter": 6,
+    "entity": "Kael",
+    "field": "Trạng thái thần kinh",
+    "old_value": "Quá tải nhẹ",
+    "new_value": "Căng thẳng cực độ do sử dụng Gia tốc nhận thức",
+    "reason": "Cưỡng ép phản xạ để đỡ đòn tấn công ma pháp từ quân đoàn Helios"
+  },
+  {
+    "chapter": 7,
+    "entity": "Kael",
+    "field": "Trạng thái thần kinh",
+    "old_value": "Căng thẳng cực độ do sử dụng Gia tốc nhận thức",
+    "new_value": "Quá tải nghiêm trọng, xuất huyết mũi và đau đầu dữ dội",
+    "reason": "Lạm dụng Gia tốc nhận thức liên tục trong trận chiến hẻm núi"
+  },
+  {
+    "chapter": 8,
+    "entity": "Kael",
+    "field": "Trạng thái thần kinh",
+    "old_value": "Quá tải nghiêm trọng, xuất huyết mũi và đau đầu dữ dội",
+    "new_value": "Kiệt sức cực độ, thị giác rối loạn và ngã quỵ tạm thời",
+    "reason": "Lạm dụng Gia tốc nhận thức liên tục kết hợp với áp lực từ dị biến năng lượng"
+  },
+  {
+    "chapter": 8,
+    "entity": "Kaela",
+    "field": "Nhận thức lịch sử",
+    "old_value": "Hồi tưởng mờ ảo qua di tích",
+    "new_value": "Thức tỉnh ký ức luân hồi sâu sắc về tiền kiếp bảo hộ mạch Mana",
+    "reason": "Cộng hưởng trực tiếp với cấu trúc cổ đại trong hầm mỏ tinh thể"
+  },
+  {
+    "chapter": 9,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất",
+    "old_value": "Kiệt sức cực độ nhưng chưa có thương tích vật lý hở",
+    "new_value": "Bị thương ở vai và bắp tay, kiệt sức thần kinh nặng do lạm dụng Gia tốc nhận thức",
+    "reason": "Trúng đòn tấn công ma pháp từ ống phóng năng lượng của Valerius trong lúc giao tranh"
+  },
+  {
+    "chapter": 10,
+    "entity": "Kael",
+    "field": "Vị trí",
+    "old_value": "Hành lang dẫn vào phòng lõi",
+    "new_value": "Phòng lõi năng lượng ngầm tàn tích Sahara",
+    "reason": "Tiến vào bên trong phòng lõi cùng Kaela"
+  },
+  {
+    "chapter": 10,
+    "entity": "Kaela",
+    "field": "Trạng thái nhận thức",
+    "old_value": "Đang giải mã cánh cửa phòng lõi",
+    "new_value": "Đang cộng hưởng trực tiếp với hồ Mana nguyên thủy",
+    "reason": "Chạm trán và hòa nhịp với nguồn năng lượng cổ đại bên trong"
+  },
+  {
+    "chapter": 11,
+    "entity": "Kael",
+    "field": "Vị trí",
+    "old_value": "Phòng lõi năng lượng ngầm tàn tích Sahara",
+    "new_value": "Vành đai trạm kiểm soát biên giới số Bốn, giáp lãnh thổ Helios",
+    "reason": "Thoát khỏi tàn tích và di chuyển tới biên giới"
+  },
+  {
+    "chapter": 11,
+    "entity": "Kaela",
+    "field": "Vị trí",
+    "old_value": "Phòng lõi năng lượng ngầm tàn tích Sahara",
+    "new_value": "Vành đai trạm kiểm soát biên giới số Bốn, giáp lãnh thổ Helios",
+    "reason": "Thoát khỏi tàn tích và di chuyển tới biên giới"
+  },
+  {
+    "chapter": 12,
+    "entity": "Kael",
+    "field": "Trạng thái cảnh giác",
+    "new_value": "Cảnh giác cao độ, sẵn sàng chiến đấu",
+    "reason": "Bị bao vây bởi lực lượng quân sự Helios tại thị trấn chợ đen."
+  },
+  {
+    "chapter": 12,
+    "entity": "Kaela",
+    "field": "Trạng thái nhận thức",
+    "new_value": "Lo âu nhưng quyết tâm bảo vệ phiến đá cổ",
+    "reason": "Đối mặt với nguy cơ bị cướp mất phiến đá cổ bởi những kẻ săn tiền thưởng."
+  },
+  {
+    "chapter": 13,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất",
+    "old_value": "Cảnh giác cao độ",
+    "new_value": "Mệt mỏi, đau đầu nhẹ do tiêu hao thể lực và áp lực thần kinh",
+    "reason": "Giao tranh cận chiến và né tránh đạn trong không gian hẹp"
+  },
+  {
+    "chapter": 13,
+    "entity": "Kaela",
+    "field": "Trạng thái tinh thần",
+    "old_value": "Lo âu nhưng quyết tâm",
+    "new_value": "Căng thẳng, nhận thức rõ mối đe dọa từ thực thể mới xuất hiện",
+    "reason": "Chứng kiến sự xuất hiện của kẻ thù bí ẩn không nằm trong ký ức luân hồi"
+  },
+  {
+    "chapter": 14,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất",
+    "old_value": "Mệt mỏi, đau đầu nhẹ do tiêu hao thể lực và áp lực thần kinh",
+    "new_value": "Kiệt sức nhẹ, căng thẳng thần kinh do dùng Gia tốc nhận thức",
+    "reason": "Kích hoạt Gia tốc nhận thức để né đạn và phá rào chắn"
+  },
+  {
+    "chapter": 15,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất",
+    "old_value": "Kiệt sức nhẹ, căng thẳng thần kinh do dùng Gia tốc nhận thức",
+    "new_value": "Kiệt sức, đau đầu nặng do lạm dụng Gia tốc nhận thức và tiêu hao Mana Skin",
+    "reason": "Giao tranh tầm cao với phi đội máy bay không người lái ở tốc độ cao"
+  },
+  {
+    "chapter": 16,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất",
+    "old_value": "Kiệt sức, đau đầu nặng do lạm dụng Gia tốc nhận thức và tiêu hao Mana Skin",
+    "new_value": "Kiệt sức nặng, đau đầu do dư chấn thần kinh và nhiễm lạnh sương mù Mana",
+    "reason": "Trải qua vụ nổ xe tải và băng qua khu rừng mang từ trường Mana dị biệt"
+  },
+  {
+    "chapter": 17,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất",
+    "old_value": "Kiệt sức nặng, đau đầu do dư chấn thần kinh và nhiễm lạnh sương mù Mana",
+    "new_value": "Kiệt sức cực độ, đau đầu dữ dội do sử dụng Gia tốc nhận thức quá giới hạn với vết thương chưa lành",
+    "reason": "Kích hoạt Gia tốc nhận thức và Mana Skin chiến đấu với người máy tàng hình"
+  },
+  {
+    "chapter": 18,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất",
+    "old_value": "Kiệt sức cực độ, đau đầu dữ dội.",
+    "new_value": "Kiệt sức, đau đầu do sử dụng Gia tốc nhận thức kìm hãm, nhưng đã bình tĩnh lại.",
+    "reason": "Trận đấu tay không với Roland."
+  },
+  {
+    "chapter": 19,
+    "entity": "Kael",
+    "field": "Trạng thái chiến đấu",
+    "old_value": "Kiệt sức nhưng đã hồi phục một phần sau khi nghỉ ngơi",
+    "new_value": "Sẵn sàng chiến đấu trong không gian hẹp với năng lực Gia tốc nhận thức",
+    "reason": "Trận đột kích bất ngờ của tập đoàn Helios buộc Kael phải kích hoạt chiến đấu đỉnh cao."
+  },
+  {
+    "chapter": 20,
+    "entity": "Kael",
+    "field": "Trạng thái chiến đấu",
+    "old_value": "Đang trong trạng thái chiến đấu cao độ với Valerius.",
+    "new_value": "Đã rút lui an toàn, kết thúc chuỗi chiến đấu liên tục.",
+    "reason": "Thoát khỏi trạm ngầm bị sập."
+  },
+  {
+    "chapter": 21,
+    "entity": "Kael",
+    "field": "Vị trí",
+    "old_value": "Trạm tiếp tế ngầm của phe kháng chiến",
+    "new_value": "Thành phố ngầm Aethelgard",
+    "reason": "Rút lui thành công qua thang máy khẩn cấp sau trận bao vây của Valerius."
+  },
+  {
+    "chapter": 22,
+    "entity": "Kael",
+    "field": "Vị trí",
+    "old_value": "Lối vào thành phố ngầm",
+    "new_value": "Tầng dân cư thứ tư, thành phố ngầm Aethelgard",
+    "reason": "Di chuyển sâu hơn vào khu vực kiểm soát của băng đảng địa phương."
+  },
+  {
+    "chapter": 23,
+    "entity": "Kael",
+    "field": "Vị trí",
+    "old_value": "Sòng bạc neon ngầm",
+    "new_value": "Hệ thống đường ống ngầm hướng về ga số bảy",
+    "reason": "Rút lui sau cuộc đụng độ với lính đánh thuê Helios."
+  },
+  {
+    "chapter": 24,
+    "entity": "Kael",
+    "field": "Tình trạng vết thương",
+    "old_value": "Bắp tay trái bị rách nhẹ từ sòng bạc neon",
+    "new_value": "Bắp tay trái rớm máu, hệ thần kinh căng thẳng do lạm dụng Gia tốc nhận thức",
+    "reason": "Trận giao tranh cận chiến trong phòng trọ ngầm"
+  },
+  {
+    "chapter": 26,
+    "entity": "Kael",
+    "field": "Tình trạng vết thương",
+    "old_value": "Bắp tay trái rớm máu từ phòng trọ ngầm",
+    "new_value": "Vết thương bắp tay trái rách toạc do áp lực cơ bắp trong Gia tốc nhận thức",
+    "reason": "Sử dụng bạo lực phá rào chắn và lái xe vượt qua trạm kiểm soát Helios"
+  },
+  {
+    "chapter": 27,
+    "entity": "Kael",
+    "field": "Tình trạng thể chất",
+    "old_value": "Bị thương nhẹ ở bắp tay trái.",
+    "new_value": "Kiệt quệ sau khi sử dụng Gia tốc nhận thức, vết thương bắp tay trái trở nặng.",
+    "reason": "Lạm dụng Gia tốc nhận thức ở chương trước và va đập trong ống dẫn."
+  },
+  {
+    "chapter": 28,
+    "entity": "Kael",
+    "field": "Tình trạng thể chất",
+    "old_value": "Kiệt quệ sau khi sử dụng Gia tốc nhận thức.",
+    "new_value": "Kiệt quệ sau khi sử dụng Gia tốc nhận thức và chiến đấu.",
+    "reason": "Tiếp tục chiến đấu trong trạng thái bị thương."
+  },
+  {
+    "chapter": 29,
+    "entity": "Kael",
+    "field": "Tình trạng thể chất",
+    "old_value": "Kiệt quệ sau khi sử dụng Gia tốc nhận thức và chiến đấu.",
+    "new_value": "Đang sơ cứu vết thương, kiệt quệ thần kinh.",
+    "reason": "Sơ cứu sau trận chiến trong ống thông gió."
+  },
+  {
+    "chapter": 30,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất",
+    "old_value": "Sơ cứu vết thương, kiệt quệ thần kinh.",
+    "new_value": "Kiệt quệ sau chiến đấu, bị thương nặng hơn.",
+    "reason": "Tiếp tục chiến đấu trong trạng thái bị thương."
+  },
+  {
+    "chapter": 31,
+    "entity": "Kael",
+    "field": "Tình trạng thể chất",
+    "old_value": "Kiệt quệ sau chiến đấu, bị thương nặng hơn.",
+    "new_value": "Bị thương nặng, kiệt quệ thần kinh do lạm dụng Gia tốc nhận thức.",
+    "reason": "Tiếp tục di chuyển và đối mặt với nguy hiểm ngay sau khi thoát khỏi trạm tiếp tế."
+  },
+  {
+    "chapter": 32,
+    "entity": "Kael",
+    "field": "Tình trạng thể chất",
+    "old_value": "Kiệt quệ thần kinh.",
+    "new_value": "Kiệt quệ, đau đầu dữ dội do lạm dụng năng lực, vết thương rớm máu.",
+    "reason": "Tiếp tục duy trì gia tốc nhận thức để bảo vệ Kaela."
+  },
+  {
+    "chapter": 33,
+    "entity": "Kael",
+    "field": "Tình trạng thể chất",
+    "old_value": "Kiệt quệ, đau đầu dữ dội.",
+    "new_value": "Vết thương bắp tay rớm máu, cơ bắp căng thẳng sẵn sàng chiến đấu.",
+    "reason": "Vượt qua ống dẫn ngầm và chuẩn bị đối đầu trạm kiểm soát."
+  },
+  {
+    "chapter": 34,
+    "entity": "Kael",
+    "field": "Tình trạng thể chất",
+    "old_value": "Vết thương bắp tay rớm máu, cơ bắp căng thẳng.",
+    "new_value": "Vết thương bắp tay rớm máu, tinh thần cảnh giác cực độ.",
+    "reason": "Di chuyển qua khu chợ đen và đối mặt với kẻ thông tin bí ẩn."
+  },
+  {
+    "chapter": 35,
+    "entity": "Kael",
+    "field": "Tình trạng sức khỏe",
+    "old_value": "Vết thương ở bắp tay trái rớm máu.",
+    "new_value": "Kiệt sức thần kinh do sử dụng Gia tốc nhận thức, chảy máu mũi.",
+    "reason": "Lạm dụng năng lực trong chiến đấu cận chiến."
+  },
+  {
+    "chapter": 36,
+    "entity": "Kael",
+    "field": "Tình trạng thể chất",
+    "old_value": "Kiệt sức thần kinh do sử dụng Gia tốc nhận thức, chảy máu mũi.",
+    "new_value": "Vết thương bắp tay rớm máu, kiệt sức thần kinh tạm thời được nén lại.",
+    "reason": "Nén đau đớn để cướp xe và lái xe vượt biên giới."
+  },
+  {
+    "chapter": 37,
+    "entity": "Kael",
+    "field": "Tình trạng thể chất",
+    "old_value": "Vết thương bắp tay rớm máu, kiệt sức thần kinh tạm thời được nén lại.",
+    "new_value": "Vết thương bắp tay trái rách toạc, kiệt sức thần kinh gia tăng.",
+    "reason": "Va đập mạnh khi lái xe vượt rào chắn và né tránh đạn."
+  },
+  {
+    "chapter": 38,
+    "entity": "Kael",
+    "field": "Tình trạng thể chất",
+    "old_value": "Vết thương bắp tay trái rách toạc, kiệt sức thần kinh gia tăng.",
+    "new_value": "Vết thương bắp tay rỉ máu, hệ thần kinh căng thẳng do đối mặt với ảo ảnh và sát khí.",
+    "reason": "Chạy trốn và chịu áp lực từ trường Mana biến thiên trong rừng nhân tạo."
+  },
+  {
+    "chapter": 39,
+    "entity": "Kael",
+    "field": "Tình trạng thể chất",
+    "old_value": "Vết thương bắp tay rỉ máu, hệ thần kinh căng thẳng.",
+    "new_value": "Kiệt sức thần kinh cực độ, vết thương bắp tay trái đau nhức dữ dội sau khi lạm dụng Gia tốc nhận thức.",
+    "reason": "Lạm dụng năng lực Gia tốc nhận thức để đối đầu với robot tàng hình."
+  },
+  {
+    "chapter": 39,
+    "entity": "Hệ thống trinh sát Helios khu vực",
+    "field": "Trạng thái hoạt động",
+    "old_value": "Đang hoạt động và truy đuổi.",
+    "new_value": "Tê liệt hoàn toàn do xung điện.",
+    "reason": "Bị phá hủy bởi vụ nổ lõi năng lượng từ robot."
+  },
+  {
+    "chapter": 40,
+    "entity": "Kael",
+    "field": "Tình trạng thể chất",
+    "old_value": "Kiệt sức thần kinh cực độ, vết thương bắp tay trái đau nhức dữ dội.",
+    "new_value": "Đã được sơ cứu, nhưng vẫn kiệt sức thần kinh.",
+    "reason": "Được Kaela băng bó."
+  },
+  {
+    "chapter": 41,
+    "entity": "Kael",
+    "field": "Vị trí",
+    "old_value": "Trạm tiếp tế ngầm, chuẩn bị phòng thủ",
+    "new_value": "Trạm tiếp tế ngầm, đối đầu trực diện với Valerius",
+    "reason": "Bị lực lượng Helios bao vây toàn bộ lối thoát trên mặt đất."
+  },
+  {
+    "chapter": 42,
+    "entity": "Kael",
+    "field": "Vị trí",
+    "old_value": "Trạm tiếp tế ngầm",
+    "new_value": "Thành phố ngầm Aethelgard",
+    "reason": "Đào tẩu thành công khỏi vòng vây của Valerius bằng thang máy khẩn cấp."
+  },
+  {
+    "chapter": 42,
+    "entity": "Kaela",
+    "field": "Vị trí",
+    "old_value": "Trạm tiếp tế ngầm",
+    "new_value": "Thành phố ngầm Aethelgard",
+    "reason": "Đào tẩu thành công khỏi vòng vây của Valerius bằng thang máy khẩn cấp."
+  },
+  {
+    "chapter": 43,
+    "entity": "Kael",
+    "field": "Vị trí",
+    "old_value": "Trạm tiếp tế ngầm",
+    "new_value": "Thung lũng mạch ngầm Aethelgard",
+    "reason": "Di chuyển xuống thành phố ngầm bằng thang máy khẩn cấp để trốn sự truy sát của Helios."
+  },
+  {
+    "chapter": 43,
+    "entity": "Kaela",
+    "field": "Vị trí",
+    "old_value": "Trạm tiếp tế ngầm",
+    "new_value": "Thung lũng mạch ngầm Aethelgard",
+    "reason": "Di chuyển xuống thành phố ngầm bằng thang máy khẩn cấp để trốn sự truy sát của Helios."
+  },
+  {
+    "chapter": 44,
+    "entity": "Kael",
+    "field": "Tình trạng thể lực",
+    "old_value": "Bị thương nhẹ ở bắp tay trái.",
+    "new_value": "Kiệt sức sau khi kích hoạt Gia tốc nhận thức và chiến đấu.",
+    "reason": "Sử dụng năng lực quá tải để phá hủy lõi cỗ máy nhện."
+  },
+  {
+    "chapter": 45,
+    "entity": "Kael",
+    "field": "Tình trạng thể lực",
+    "old_value": "Kiệt sức sau trận chiến với nhện thép.",
+    "new_value": "Bị thương bắp tay trái, đang mệt mỏi thần kinh.",
+    "reason": "Bị thương do mảnh vỡ hợp kim và tiêu hao thể lực."
+  },
+  {
+    "chapter": 46,
+    "entity": "Kael",
+    "field": "Tình trạng thể lực",
+    "old_value": "Bị thương bắp tay trái, đang mệt mỏi thần kinh.",
+    "new_value": "Vẫn bị thương bắp tay trái, đang nén đau để chiến đấu.",
+    "reason": "Chuẩn bị cho trận chiến tiếp theo."
+  },
+  {
+    "chapter": 47,
+    "entity": "Kael",
+    "field": "Trang bị",
+    "old_value": "Chỉ có kiếm thép và Mana Skin.",
+    "new_value": "Sở hữu thêm súng trường năng lượng và thiết bị liên lạc chiến thuật của Helios.",
+    "reason": "Thu giữ từ nhóm thợ săn tiền thưởng bị tiêu diệt."
+  },
+  {
+    "chapter": 48,
+    "entity": "Kael",
+    "field": "Trạng thái chiến đấu",
+    "old_value": "Đang quan sát và lập kế hoạch",
+    "new_value": "Sẵn sàng đột kích công trường khoan",
+    "reason": "Thời gian cấp bách, cần hành động ngay lập tức."
+  },
+  {
+    "chapter": 50,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất/thần kinh",
+    "old_value": "Bị thương nhẹ, sẵn sàng chiến đấu.",
+    "new_value": "Kiệt sức nặng, mất phương hướng tạm thời do lạm dụng năng lực.",
+    "reason": "Sử dụng Gia tốc nhận thức quá đà trong trận chiến tại trạm van."
+  },
+  {
+    "chapter": 51,
+    "entity": "Kael",
+    "field": "Vị trí",
+    "old_value": "Trạm van điều tiết ngầm",
+    "new_value": "Gờ vực công trường khoan ngầm Aethelgard",
+    "reason": "Di chuyển áp sát khu vực trung tâm công trường của Helios"
+  },
+  {
+    "chapter": 52,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất/thần kinh",
+    "old_value": "Kiệt sức nặng, mất phương hướng tạm thời.",
+    "new_value": "Kiệt sức cực hạn, không gian cộng hưởng bất định.",
+    "reason": "Sử dụng Gia tốc nhận thức trong lúc đã kiệt sức để tấn công Valerius."
+  },
+  {
+    "chapter": 52,
+    "entity": "Valerius",
+    "field": "Trạng thái sức khỏe",
+    "old_value": "Khỏe mạnh, chỉ huy công trường.",
+    "new_value": "Bị thương nặng sau cú đấm của Kael.",
+    "reason": "Bị Kael tấn công trực diện."
+  },
+  {
+    "chapter": 53,
+    "entity": "Kael",
+    "field": "Trạng thái thần kinh",
+    "old_value": "Kiệt sức cực hạn.",
+    "new_value": "Đang đối mặt với ảo ảnh thực thể quá khứ, kiệt sức thần kinh cực độ.",
+    "reason": "Không gian cộng hưởng tác động trực tiếp lên tâm trí."
+  },
+  {
+    "chapter": 53,
+    "entity": "Valerius",
+    "field": "Trạng thái",
+    "old_value": "Bị thương nặng, đang ở đài chỉ huy.",
+    "new_value": "Bị giam cầm trong khối đa diện ánh sáng, mất quyền kiểm soát thực tại.",
+    "reason": "Không gian cộng hưởng tách biệt hắn khỏi công trường."
+  },
+  {
+    "chapter": 54,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất",
+    "old_value": "Kiệt sức extreme trong không gian cộng hưởng.",
+    "new_value": "Kiệt sức trầm trọng, dư chấn thần kinh sau Gia tốc nhận thức.",
+    "reason": "Vừa sử dụng Gia tốc nhận thức để tấn công trạm gác."
+  },
+  {
+    "chapter": 55,
+    "entity": "Kael",
+    "field": "Trạng thái tinh thần",
+    "old_value": "Kiệt sức trầm trọng, dư chấn thần kinh sau Gia tốc nhận thức.",
+    "new_value": "Căng thẳng, cảnh giác cao độ nhưng đã tạm thời ổn định dư chấn.",
+    "reason": "Đã vượt qua được cơn bão cát biên giới và ổn định nhịp thở trong môi trường mới."
+  },
+  {
+    "chapter": 56,
+    "entity": "Kael",
+    "field": "Vết thương tay phải",
+    "old_value": "Đã ổn định tạm thời.",
+    "new_value": "Rách miệng vết thương cũ do vung kiếm mạnh.",
+    "reason": "Do lực vung kiếm đối phó nhóm lính đánh thuê trong không gian hẹp."
+  },
+  {
+    "chapter": 57,
+    "entity": "Kael",
+    "field": "Vết thương tay phải",
+    "old_value": "Rách miệng vết thương cũ do vung kiếm mạnh.",
+    "new_value": "Đau nhức do lực siết vô lăng và xóc nảy, nhưng vẫn trong tầm kiểm soát.",
+    "reason": "Do phải điều khiển xe tải quân sự trên đường cao tốc gồ ghề."
+  },
+  {
+    "chapter": 58,
+    "entity": "Kael",
+    "field": "Vết thương vai phải",
+    "old_value": "Đau nhức tay phải do siết vô lăng.",
+    "new_value": "Bị sượt qua bởi tia laser, rách thêm một phần trang phục và da thịt.",
+    "reason": "Do trúng hỏa lực của lính gác Helios khi tông qua trạm kiểm soát."
+  },
+  {
+    "chapter": 59,
+    "entity": "Kael",
+    "field": "Vết thương vai phải",
+    "old_value": "Rách một phần trang phục và da thịt ở chương trước.",
+    "new_value": "Đau nhức dữ dội, máu rỉ ra do quá trình chạy trốn và va đập.",
+    "reason": "Do quá trình vận động mạnh khi trốn chạy vào rừng nhân tạo."
+  },
+  {
+    "chapter": 60,
+    "entity": "Kael",
+    "field": "Vết thương vai phải",
+    "old_value": "Đau nhức dữ dội, máu rỉ ra do quá trình chạy trốn.",
+    "new_value": "Chịu thêm lực va chạm mạnh khi đối đầu người máy tàng hình, mồ hôi và máu thấm đẫm áo.",
+    "reason": "Do va chạm và dùng lực lớn trong giao tranh cận chiến."
+  },
+  {
+    "chapter": 61,
+    "entity": "Kael",
+    "field": "Vết thương bả vai phải",
+    "old_value": "Đau nhức dữ dội, rỉ máu và nhiễm độc nhẹ sau trận chiến với người máy tàng hình.",
+    "new_value": "Đã được sát trùng và băng bó cẩn thận bằng thiết bị y tế chuyên dụng.",
+    "reason": "Kaela đã sơ cứu và gắp mảnh kim loại ra khỏi vết thương."
+  },
+  {
+    "chapter": 62,
+    "entity": "Kael",
+    "field": "Trạng thái chiến đấu",
+    "old_value": "Đang nghỉ ngơi và băng bó vết thương tại trạm ngầm.",
+    "new_value": "Sẵn sàng đối phó với vòng vây và chuẩn bị kích hoạt bộc phá tẩu thoát.",
+    "reason": "Quân địch do Valerius chỉ huy đã bao vây và đặt tối hậu thư."
+  },
+  {
+    "chapter": 63,
+    "entity": "Kael",
+    "field": "Vị trí",
+    "old_value": "Trạm tiếp tế ngầm",
+    "new_value": "Thành phố ngầm Aethelgard",
+    "reason": "Sử dụng thang máy khẩn cấp trốn chạy khỏi vòng vây của Helios."
+  },
+  {
+    "chapter": 63,
+    "entity": "Kaela",
+    "field": "Vị trí",
+    "old_value": "Trạm tiếp tế ngầm",
+    "new_value": "Thành phố ngầm Aethelgard",
+    "reason": "Cùng Kael trốn chạy xuống tầng sâu."
+  },
+  {
+    "chapter": 64,
+    "entity": "Kael",
+    "field": "Trạng thái chiến đấu",
+    "old_value": "Cảnh giác quan sát môi trường xung quanh.",
+    "new_value": "Sẵn sàng chiến đấu với Mana phủ trên chuôi kiếm trước mối đe dọa từ sinh vật ngầm.",
+    "reason": "Phát hiện sinh vật canh gác khổng lồ xuất hiện từ khe núi."
+  },
+  {
+    "chapter": 64,
+    "entity": "Kaela",
+    "field": "Vị trí",
+    "old_value": "Buồng thang máy khẩn cấp",
+    "new_value": "Thung lũng mạch ngầm Aethelgard",
+    "reason": "Di chuyển ra khỏi khu vực thang máy để tìm đường đến trạm phát tín hiệu cổ đại."
+  },
+  {
+    "chapter": 65,
+    "entity": "Kael",
+    "field": "Trạng thái thần kinh",
+    "old_value": "Ổn định",
+    "new_value": "Chịu áp lực từ Gia tốc nhận thức, đau đầu dữ dội tạm thời",
+    "reason": "Sử dụng Gia tốc nhận thức trong trận chiến với cỗ máy nhện thép."
+  },
+  {
+    "chapter": 66,
+    "entity": "Kael",
+    "field": "Vết thương bắp tay trái",
+    "old_value": "Rách cơ và bỏng nhiệt do tia plasma của cỗ máy nhện thép.",
+    "new_value": "Đã được băng bó vô trùng nhưng vẫn cần thời gian hồi phục thể lực và thần kinh.",
+    "reason": "Bị thương trong trận chiến và được Kaela sơ cứu tại hang động."
+  },
+  {
+    "chapter": 67,
+    "entity": "Kael",
+    "field": "Trạng thái chiến đấu",
+    "old_value": "Tạm trú, băng bó vết thương",
+    "new_value": "Sẵn sàng chiến đấu cao độ, cảnh giác tối đa",
+    "reason": "Kẻ địch đã đuổi kịp và bắt đầu truy quét."
+  },
+  {
+    "chapter": 68,
+    "entity": "Kael",
+    "field": "Trạng thái chiến đấu",
+    "old_value": "Cảnh giác, ẩn nấp né tránh",
+    "new_value": "Quyết đoán, chủ động phản công trước âm mưu của Valerius",
+    "reason": "Sau khi nắm bắt được thông tin về cỗ máy khoan từ thiết bị thu giữ của kẻ địch."
+  },
+  {
+    "chapter": 69,
+    "entity": "Kael",
+    "field": "Trạng thái chiến đấu",
+    "old_value": "Cảnh giác, sẵn sàng phản công",
+    "new_value": "Quá tải thần kinh nhẹ do sử dụng Gia tốc nhận thức, bị thương nhẹ ở vai",
+    "reason": "Trận giao chiến khốc liệt với đơn vị bảo vệ của Helios."
+  },
+  {
+    "chapter": 70,
+    "entity": "Kael",
+    "field": "Trạng thái thần kinh",
+    "old_value": "Quá tải thần kinh nhẹ",
+    "new_value": "Đau đầu dữ dội do lạm dụng Gia tốc nhận thức để cứu Kaela",
+    "reason": "Kích hoạt Gia tốc nhận thức trong tình huống nguy cấp để đỡ đạn cho Kaela"
+  },
+  {
+    "chapter": 71,
+    "entity": "Kael",
+    "field": "Trạng thái sức khỏe",
+    "old_value": "Đau đầu dữ dội, bị thương nhẹ ở vai.",
+    "new_value": "Kiệt sức thần kinh nặng, vết thương vai rỉ máu, đau đầu dữ dội sau khi dùng Gia tốc nhận thức.",
+    "reason": "Lạm dụng Gia tốc nhận thức trong trận chiến tại trạm van."
+  },
+  {
+    "chapter": 72,
+    "entity": "Kael",
+    "field": "Vị trí",
+    "old_value": "Trạm van điều tiết ngầm",
+    "new_value": "Công trường khoan hồ lõi Mana",
+    "reason": "Tiếp cận khu vực trung tâm thung lũng ngầm"
+  },
+  {
+    "chapter": 72,
+    "entity": "Valerius",
+    "field": "Trạng thái",
+    "old_value": "Giám sát từ xa qua màn hình",
+    "new_value": "Chủ động khóa mục tiêu và bao vây Kael cùng Kaela",
+    "reason": "Đón đầu mục tiêu tại công trường khoan"
+  },
+  {
+    "chapter": 73,
+    "entity": "Valerius",
+    "field": "Trạng thái",
+    "old_value": "Chỉ huy bao vây công trường khoan",
+    "new_value": "Bị cuốn vào vùng cộng hưởng năng lượng sau khi thua trận đấu tay đôi với Kael",
+    "reason": "Thất bại trước đợt tấn công chớp nhoáng của Kael"
+  },
+  {
+    "chapter": 73,
+    "entity": "Kael",
+    "field": "Trạng thái",
+    "old_value": "Đang đột phá công trường khoan",
+    "new_value": "Bị cuốn vào không gian cộng hưởng năng lượng lõi Mana trong tình trạng kiệt sức nặng",
+    "reason": "Sự bùng nổ năng lượng nguyên thủy của hồ Mana"
+  },
+  {
+    "chapter": 74,
+    "entity": "Kael",
+    "field": "Vị trí",
+    "old_value": "Công trường khoan hồ lõi Mana",
+    "new_value": "Thành phố trôi nổi (Aethelgard Thượng tầng)",
+    "reason": "Được cuốn qua thang máy thoát hiểm và không gian cộng hưởng năng lượng"
+  },
+  {
+    "chapter": 74,
+    "entity": "Kaela",
+    "field": "Vị trí",
+    "old_value": "Công trường khoan hồ lõi Mana",
+    "new_value": "Thành phố trôi nổi (Aethelgard Thượng tầng)",
+    "reason": "Được cuốn qua thang máy thoát hiểm và không gian cộng hưởng năng lượng"
+  },
+  {
+    "chapter": 75,
+    "entity": "Kael",
+    "field": "Trạng thái",
+    "old_value": "Vừa thoát khỏi thang máy thoát hiểm",
+    "new_value": "Đang ở tầng đáy thành phố trôi nổi, bị thương nhẹ ở bắp tay và cạn kiệt thể lực thần kinh"
+  },
+  {
+    "chapter": 75,
+    "entity": "Kaela",
+    "field": "Trạng thái",
+    "old_value": "Vừa thoát khỏi thang máy thoát hiểm",
+    "new_value": "Đang ở tầng đáy thành phố trôi nổi, bảo toàn thiết bị đo lường đã hư hại"
+  },
+  {
+    "chapter": 76,
+    "entity": "Kael",
+    "field": "Trạng thái",
+    "old_value": "Bị thương nhẹ ở bắp tay trái, cạn kiệt thể lực thần kinh.",
+    "new_value": "Bị thương nhẹ ở bắp tay trái, cạn kiệt thể lực thần kinh nhưng có được thẻ ra vào cấp cao.",
+    "reason": "Vừa trải qua trận chiến với băng đảng địa phương."
+  },
+  {
+    "chapter": 77,
+    "entity": "Kael",
+    "field": "Trạng thái",
+    "old_value": "Đang ở tầng đáy thành phố, bị thương nhẹ ở bắp tay và cạn kiệt thể lực thần kinh.",
+    "new_value": "Đang ẩn nấp trong hệ thống thông gió tầng trung lưu, căng thẳng nhưng sẵn sàng chiến đấu.",
+    "reason": "Vừa vượt qua chốt kiểm soát lên tầng trung lưu."
+  },
+  {
+    "chapter": 78,
+    "entity": "Kael",
+    "field": "Trạng thái",
+    "old_value": "Đang ẩn nấp, căng thẳng nhưng sẵn sàng chiến đấu.",
+    "new_value": "Đang kích hoạt Gia tốc nhận thức, sẵn sàng cho trận chiến quyết định.",
+    "reason": "Bị hệ thống an ninh phát hiện và buộc phải phản công."
+  },
+  {
+    "chapter": 79,
+    "entity": "Kael",
+    "field": "Trạng thái",
+    "old_value": "Đang kích hoạt Gia tốc nhận thức.",
+    "new_value": "Kiệt sức thần kinh nghiêm trọng, bị thương nhẹ, tiếp tục chiến đấu.",
+    "reason": "Sử dụng Gia tốc nhận thức quá mức để hạ gục tiểu đội an ninh."
+  },
+  {
+    "chapter": 80,
+    "entity": "Kael",
+    "field": "Trạng thái",
+    "old_value": "Kiệt sức thần kinh nghiêm trọng, bị thương nhẹ, tiếp tục chiến đấu.",
+    "new_value": "Bị thương nặng, kiệt sức thần kinh nghiêm trọng sau khi dùng Gia tốc nhận thức.",
+    "reason": "Trúng đòn phản công plasma của Valerius trong lúc phá hủy bộ khuếch đại."
+  },
+  {
+    "chapter": 81,
+    "entity": "Kael",
+    "field": "Trạng thái",
+    "old_value": "Bị thương nặng, kiệt sức thần kinh nghiêm trọng.",
+    "new_value": "Bị thương nặng, kiệt sức thần kinh, cận kề cái chết.",
+    "reason": "Chắn đòn năng lượng cho Kaela."
+  },
+  {
+    "chapter": 81,
+    "entity": "Kaela",
+    "field": "Trạng thái",
+    "old_value": "Học giả bối rối trước ký ức mơ hồ.",
+    "new_value": "Nhận thức rõ về thân thế tiền kiếp và quyền kiểm soát hệ thống.",
+    "reason": "Ký ức tiền kiếp ùa về khi giải mã bảng điều khiển."
+  },
+  {
+    "chapter": 82,
+    "entity": "Valerius",
+    "field": "Trạng thái",
+    "old_value": "Kiêu ngạo, nắm quyền kiểm soát cơ chế tự hủy.",
+    "new_value": "Suy sụp, bị tước vũ khí, mất kiểm soát hoàn toàn.",
+    "reason": "Hệ thống tự hủy bị Kaela vô hiệu hóa và bị Kael khống chế."
+  },
+  {
+    "chapter": 82,
+    "entity": "Aethelgard",
+    "field": "Trạng thái",
+    "old_value": "Pháo đài quân sự chứa hệ thống tự hủy.",
+    "new_value": "Thức tỉnh, biến đổi thành thực thể sống/hệ sinh thái độc lập.",
+    "reason": "Mạch Mana nguyên thủy được giải phóng."
+  },
+  {
+    "chapter": 83,
+    "entity": "Aethelgard",
+    "field": "Trạng thái",
+    "old_value": "Đang tái cấu trúc thành hệ sinh thái sống.",
+    "new_value": "Đã thức tỉnh, biến đổi hoàn toàn thành hệ sinh thái sống và phát ra tín hiệu tầng sâu.",
+    "reason": "Lõi Mana nguyên thủy hoàn tất quá trình tích hợp."
+  },
+  {
+    "chapter": 83,
+    "entity": "Kael",
+    "field": "Trạng thái",
+    "old_value": "Bị thương nặng, kiệt sức thần kinh.",
+    "new_value": "Hồi phục nhẹ nhờ mật độ Mana trong không gian mới.",
+    "reason": "Mật độ Mana nguyên thủy bao bọc và chữa lành vết thương sinh học."
+  },
+  {
+    "chapter": 84,
+    "entity": "Kael",
+    "field": "Vị trí",
+    "old_value": "Trạm tiếp tế ngầm",
+    "new_value": "Thành phố trôi nổi Aethelgard",
+    "reason": "Di chuyển xuống tầng sâu qua thang máy khẩn cấp."
+  },
+  {
+    "chapter": 84,
+    "entity": "Kaela",
+    "field": "Vị trí",
+    "old_value": "Trạm tiếp tế ngầm",
+    "new_value": "Thành phố trôi nổi Aethelgard",
+    "reason": "Di chuyển xuống tầng sâu qua thang máy khẩn cấp."
+  },
+  {
+    "chapter": 85,
+    "entity": "Kael",
+    "field": "Trạng thái",
+    "old_value": "Kiệt sức thần kinh.",
+    "new_value": "Kiệt sức thần kinh, hồi phục chậm.",
+    "reason": "Sau khi sử dụng Gia tốc nhận thức ở chương trước, cơ thể anh cần thời gian hồi phục trong môi trường mới."
+  },
+  {
+    "chapter": 86,
+    "entity": "Kael",
+    "field": "Trạng thái",
+    "old_value": "Kiệt sức thần kinh, hồi phục chậm",
+    "new_value": "Cảnh giác cao độ, chịu áp lực nhiệt độ trong ống dẫn",
+    "reason": "Tham gia cuộc tẩu thoát qua hệ thống ống dẫn nhiệt ngầm."
+  },
+  {
+    "chapter": 86,
+    "entity": "Kaela",
+    "field": "Trạng thái",
+    "old_value": "Hoảng loạn nhẹ sau khi nghe đoạn ghi âm",
+    "new_value": "Căng thẳng, tập trung giải mã và điều hướng đường tẩu thoát",
+    "reason": "Phối hợp cùng Kael vượt qua vòng vây của Helios."
+  },
+  {
+    "chapter": 87,
+    "entity": "Kaela",
+    "field": "Trạng thái tinh thần",
+    "old_value": "Căng thẳng, tập trung giải mã đường tẩu thoát.",
+    "new_value": "Choáng ngợp và bàng hoàng trước ký ức tiền kiếp qua bức chân dung cổ.",
+    "reason": "Phát hiện ra bức chân dung của chính mình trong viện nghiên cứu cổ ngữ."
+  },
+  {
+    "chapter": 88,
+    "entity": "Kaela",
+    "field": "Trạng thái",
+    "old_value": "Choáng ngợp trước bức chân dung tiền kiếp",
+    "new_value": "Căng thẳng cực độ, đang tiếp nhận lượng lớn ký ức luân hồi và bị hệ thống khóa mục tiêu",
+    "reason": "Quá trình giải mã dữ liệu kích hoạt hệ thống phòng thủ tự động."
+  },
+  {
+    "chapter": 88,
+    "entity": "Kael",
+    "field": "Trạng thái",
+    "old_value": "Cảnh giác quan sát hành lang",
+    "new_value": "Chuẩn bị chiến đấu, rút kiếm đối phó với hệ thống phòng thủ tự động",
+    "reason": "Tiếng động cơ cơ khí và nòng pháo tự động xuất hiện từ trần nhà."
+  },
+  {
+    "chapter": 89,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất",
+    "old_value": "Sẵn sàng chiến đấu",
+    "new_value": "Kiệt sức nhẹ, tổn thương thần kinh tạm thời do lạm dụng Gia tốc nhận thức",
+    "reason": "Sử dụng Gia tốc nhận thức ở mức cực hạn để né tránh và chém đứt hệ thống pháo tự động."
+  },
+  {
+    "chapter": 89,
+    "entity": "Kaela",
+    "field": "Trạng thái tinh thần",
+    "old_value": "Căng thẳng cực độ",
+    "new_value": "Kiên định, hoàn thành việc giải mã dữ liệu viện nghiên cứu",
+    "reason": "Đã bẻ gãy thành công hệ thống phong tỏa và trích xuất thành công lượng lớn ký ức luân hồi."
+  },
+  {
+    "chapter": 90,
+    "entity": "Kaela",
+    "field": "Trạng thái tinh thần",
+    "old_value": "Căng thẳng sau giải mã phòng thí nghiệm",
+    "new_value": "Chấn động nhưng kiên định, đã lưu trữ dữ liệu bản đồ năng lượng",
+    "reason": "Chứng kiến sự thật tàn khốc về nguồn năng lượng của thành phố trôi nổi."
+  },
+  {
+    "chapter": 91,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất",
+    "old_value": "Kiệt sức nhẹ sau trận chiến viện nghiên cứu.",
+    "new_value": "Kiệt sức thần kinh nghiêm trọng, đau đầu dữ dội do lạm dụng Gia tốc nhận thức cực hạn.",
+    "reason": "Sử dụng Gia tốc nhận thức để né đạn và phản kích tay súng bắn tỉa trong không gian hẹp."
+  },
+  {
+    "chapter": 92,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất",
+    "old_value": "Kiệt sức thần kinh nghiêm trọng, đau đầu dữ dội.",
+    "new_value": "Kiệt sức thần kinh nghiêm trọng, chảy máu mũi, đau đầu dữ dội do lạm dụng Gia tốc nhận thức.",
+    "reason": "Lạm dụng thêm Gia tốc nhận thức để phản công tay súng bắn tỉa."
+  },
+  {
+    "chapter": 93,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất",
+    "old_value": "Kiệt sức thần kinh nghiêm trọng, chảy máu mũi.",
+    "new_value": "Kiệt sức thần kinh, đau đầu dữ dội, sẵn sàng chiến đấu cực hạn.",
+    "reason": "Dư chấn của Gia tốc nhận thức ở chương trước."
+  },
+  {
+    "chapter": 94,
+    "entity": "Kael",
+    "field": "status",
+    "old_value": "Đang chiến đấu",
+    "new_value": "Kiệt sức thần kinh nghiêm trọng, gục ngã",
+    "reason": "Bị thiết bị áp chế thần kinh của Valerius tác động trực tiếp lên hệ thần kinh."
+  },
+  {
+    "chapter": 95,
+    "entity": "Kael",
+    "field": "Trạng thái thể chất",
+    "old_value": "Kiệt sức thần kinh nghiêm trọng, gục ngã.",
+    "new_value": "Đang hồi phục sau dư chấn thần kinh, sẵn sàng đối đầu trực diện.",
+    "reason": "Sự hồi phục tự nhiên của thể chất Bán Bất Lão kết hợp với ý chí kiên định."
+  },
+  {
+    "chapter": 95,
+    "entity": "Kaela",
+    "field": "Trạng thái tinh thần",
+    "old_value": "Căng thẳng, lo âu trước hệ thống bảo mật.",
+    "new_value": "Tập trung tuyệt đối, thức tỉnh hoàn toàn ký ức luân hồi.",
+    "reason": "Thành công vô hiệu hóa lớp màn chắn năng lượng của tháp."
+  },
+  {
+    "chapter": 96,
+    "entity": "Kael",
+    "field": "trạng thái chiến đấu",
+    "old_value": "Chịu ảnh hưởng dư chấn thần kinh",
+    "new_value": "Sẵn sàng cận chiến đỉnh điểm",
+    "reason": "Dùng Gia tốc nhận thức để bảo vệ Kaela trước đòn tấn công của Valerius"
+  },
+  {
+    "chapter": 97,
+    "entity": "Valerius",
+    "field": "state",
+    "old_value": "Khỏe mạnh, uy hiếp Kael và Kaela",
+    "new_value": "Trọng thương ở vai phải nhưng vẫn kích hoạt hệ thống tự hủy",
+    "reason": "Bị lưỡi kiếm của Kael chém rách giáp và trọng thương tại sảnh tháp."
+  },
+  {
+    "chapter": 98,
+    "entity": "Tháp Aethelgard",
+    "field": "Trạng thái hệ thống",
+    "old_value": "Kích hoạt tự hủy",
+    "new_value": "Vô hiệu hóa tự hủy",
+    "reason": "Kaela đã hack thành công hệ thống lõi."
+  },
+  {
+    "chapter": 98,
+    "entity": "Valerius",
+    "field": "Trạng thái chiến đấu",
+    "old_value": "Bị thương nặng",
+    "new_value": "Tấn công tuyệt vọng",
+    "reason": "Hệ thống tự hủy bị vô hiệu hóa khiến gã mất đi quân bài cuối cùng."
+  },
+  {
+    "chapter": 99,
+    "entity": "Valerius",
+    "field": "status",
+    "old_value": "Bị thương nặng",
+    "new_value": "Đã tử vong",
+    "reason": "Trúng nhát kiếm chí mạng của Kael và ngã gục trong sảnh tháp."
+  },
+  {
+    "chapter": 99,
+    "entity": "Cột tinh thể chính tháp Aethelgard",
+    "field": "status",
+    "old_value": "Hoạt động ổn định",
+    "new_value": "Vỡ nát và quá tải",
+    "reason": "Bị Valerius làm vỡ nát trong khoảnh khắc hấp hối."
+  },
+  {
+    "chapter": 100,
+    "entity": "Valerius",
+    "field": "status",
+    "old_value": "Còn sống",
+    "new_value": "Đã chết",
+    "reason": "Bị Kael hạ sát trong trận chiến ở sảnh tháp."
+  },
+  {
+    "chapter": 100,
+    "entity": "Thành phố trôi nổi Aethelgard",
+    "field": "status",
+    "old_value": "Đang trôi nổi trên không trung",
+    "new_value": "Đã hạ cánh xuống mặt đất",
+    "reason": "Hệ thống tự hủy bị vô hiệu hóa và động cơ được điều khiển hạ cánh an toàn."
+  },
+  {
+    "chapter": 101,
+    "entity": "Kaela",
+    "field": "trạng thái tâm lý",
+    "new_value": "nhẹ nhõm, hết gánh nặng ký ức",
+    "reason": "Phiến đá cổ tan biến"
+  },
+  {
+    "chapter": 101,
+    "entity": "Thành phố trôi nổi Aethelgard",
+    "field": "vị trí",
+    "new_value": "đã hạ cánh xuống mặt đất",
+    "reason": "Kết thúc chu kỳ treo ngược"
+  },
+  {
+    "chapter": 102,
+    "entity": "Kael",
+    "field": "trạng thái tinh thần",
+    "old_value": "trĩu nặng, cảnh giác",
+    "new_value": "nhẹ nhõm, tự do",
+    "reason": "Sự kết thúc của cuộc chiến và gánh nặng lịch sử."
+  },
+  {
+    "chapter": 102,
+    "entity": "Kaela",
+    "field": "trạng thái tinh thần",
+    "old_value": "ám ảnh bởi ký ức luân hồi",
+    "new_value": "nhẹ nhõm, bình yên",
+    "reason": "Phiến đá cổ tan biến, gánh nặng ký ức được giải tỏa."
+  }
+]

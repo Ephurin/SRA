@@ -1,0 +1,21 @@
+{
+  "chapter": 41,
+  "title": "Vòng vây siết chặt",
+  "goal": "Mô tả chi tiết cuộc bao vây của tập đoàn Helios và màn đối đầu tâm lý căng thẳng qua màn hình giữa Kael và Đại tá Valerius.",
+  "conflict": "Lực lượng Helios bao vây trạm tiếp tế ngầm, dồn Kael và Kaela vào đường cùng trước khi Valerius đưa ra tối hậu thư.",
+  "hook": "Tối hậu thư mười phút của Đại tá Valerius đếm ngược qua màn hình giám sát, kèm theo tiếng thiết bị cắt cửa hầm bắt đầu réo lên.",
+  "emotion_arc": "Từ tĩnh lặng nghiên cứu sang căng thẳng tột độ khi tiếng bước chân địch vang lên, kết thúc bằng áp lực ngột ngạt của tối hậu thư.",
+  "contract": {
+    "required_beats": [
+      "Tiếng động cơ và tiếng bước chân nặng nề bao vây phía trên cửa hầm ngầm",
+      "Kaela chuẩn bị các tệp dữ liệu và thiết bị kích hoạt thang máy khẩn cấp",
+      "Kael kiểm tra lại lưỡi kiếm và vị trí phòng thủ tại nút cổ chai duy nhất của trạm",
+      "Màn hình trung tâm sáng lên, khuôn mặt lạnh lùng của Valerius hiện ra với lời đe dọa trực diện"
+    ],
+    "continuity_checks": [
+      "Tình trạng mệt mỏi thần kinh của Kael sau trận chiến trước",
+      "Vết thương bắp tay trái của Kael đã được Kaela băng bó",
+      "Không gian chật hẹp của trạm tiếp tế ngầm"
+    ]
+  }
+}

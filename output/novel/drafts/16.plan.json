@@ -1,0 +1,19 @@
+{
+  "chapter": 16,
+  "title": "Rừng công nghiệp sương mù",
+  "goal": "Mô tả cuộc tẩu thoát vào khu rừng nhân tạo u ám, thiết lập bầu không khí hậu chiến và hé lộ dị biến năng lượng tại điểm đến.",
+  "conflict": "Hai người buộc phải nhảy khỏi xe tải trước khi nó phát nổ do chế độ tự hủy, lao vào khu rừng công nghiệp sương mù để trốn sự truy sát của đàn máy bay không người lái.",
+  "hook": "Kaela phát hiện nồng độ Mana trong không khí tại đây bất thường, tạo ra các ảo ảnh quang học đánh lừa thị giác khiến bóng dáng của họ như bị bẻ cong giữa những tán cây kim loại.",
+  "emotion_arc": "Từ căng thẳng cực độ khi phá vòng vây sang sự choáng ngợp và mơ hồ khi bước vào vùng đất xám u ám, bị chi phối bởi các ảo ảnh quang học do Mana dị biệt.",
+  "contract": {
+    "required_beats": [
+      "Kael và Kaela rời khỏi chiếc xe tải trước khi nó phát nổ.",
+      "Chạy bộ vào khu rừng nhân tạo u ám bao quanh khu vực công nghiệp cũ của Helios.",
+      "Cảm giác chóng mặt, mất phương hướng do ảnh hưởng từ trường Mana dị biệt trong rừng sương mù."
+    ],
+    "continuity_checks": [
+      "Vết thương ở bả vai và tình trạng kiệt sức thần kinh của Kael sau khi lạm dụng Gia tốc nhận thức ở chương trước.",
+      "Kaela mang theo thiết bị trắc lượng và phiến đá cổ."
+    ]
+  }
+}

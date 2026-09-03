@@ -1,0 +1,19 @@
+{
+  "chapter": 35,
+  "title": "Đêm tập kích quán trọ",
+  "goal": "Tiêu diệt tiểu đội đánh thuê bám đuôi mà không làm động toàn bộ mạng lưới báo động của khu vực.",
+  "conflict": "Lực lượng đánh thuê Helios tập kích quán trọ lúc nửa đêm, Kael phải dùng không gian chật hẹp để phản công bất ngờ.",
+  "hook": "Xác của tên lính đánh thuê cuối cùng mang một thiết bị phát sóng ngắn đang nhấp nháy tín hiệu kết nối trực tiếp với đài chỉ huy của Valerius.",
+  "emotion_arc": "Từ căng thẳng rình rập chuyển sang bùng nổ cận chiến tốc độ cao rồi kết thúc trong sự tĩnh lặng chết chóc.",
+  "contract": {
+    "required_beats": [
+      "Tiếng bước chân đột nhập trên sàn gỗ mục nát của quán trọ.",
+      "Kael phối hợp cùng Kaela định vị kẻ địch trong bóng tối tuyệt đối.",
+      "Pha ra đòn dứt điểm chớp nhoáng bằng Gia tốc nhận thức trong không gian hẹp."
+    ],
+    "continuity_checks": [
+      "Duy trì vị trí trong thị trấn chợ đen ngầm sau cuộc gặp gỡ ở chương 34.",
+      "Vết thương bắp tay trái của Kael từ chương 33 vẫn ảnh hưởng nhẹ tới lực vung kiếm."
+    ]
+  }
+}

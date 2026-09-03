@@ -1,0 +1,19 @@
+{
+  "chapter": 2,
+  "title": "Hành lang đá ngầm",
+  "goal": "Miêu tả hành trình thâm nhập sâu vào tàn tích ngầm, thể hiện hệ thống ma pháp qua lăng kính vật lý và phản ứng cơ thể nhân vật.",
+  "conflict": "Kael và Kaela phải vượt qua hệ thống bẫy nhiệt tự động trong hành lang ngầm hẹp mà không kích hoạt cơ chế tự hủy của tàn tích.",
+  "hook": "Cánh cổng đá khổng lồ tự động dịch chuyển mở ra một phòng điều khiển hoàn toàn nguyên vẹn với hệ thống hiển thị quang học vẫn đang nhấp nháy.",
+  "emotion_arc": "Từ căng thẳng, cảnh giác cao độ khi bước vào không gian kín đến kinh ngạc trước quy mô công nghệ cổ đại còn nguyên vẹn.",
+  "contract": {
+    "required_beats": [
+      "Kael kích hoạt lớp màng Mana Skin để bảo vệ cơ thể trước bức xạ nhiệt và áp suất ngầm.",
+      "Kaela sử dụng thiết bị cầm tay giải mã các bảng ký tự cổ ngữ trên vách đá.",
+      "Phát hiện dấu vết móng vuốt hoặc vết cắt bằng năng lượng của một đoàn thám hiểm trước đó."
+    ],
+    "continuity_checks": [
+      "Duy trì triệu chứng đau đầu nhẹ của Kael từ cuối chương 1 do lạm dụng Gia tốc nhận thức.",
+      "Mô tả chi tiết cảm giác kích hoạt Mana Skin để chống chịu luồng nhiệt độ khắc nghiệt trong hầm ngầm."
+    ]
+  }
+}

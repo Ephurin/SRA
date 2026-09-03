@@ -1,0 +1,19 @@
+{
+  "chapter": 72,
+  "title": "Bóng đè công trường ngầm",
+  "goal": "Miêu tả chi tiết hành trình áp sát trung tâm lõi Mana, khắc họa quy mô cỗ máy khoan của Valerius và tạo tiền đề cho cuộc đụng độ trực diện cuối cung.",
+  "conflict": "Kael và Kaela áp sát công trường khoan khổng lồ của Valerius tại hồ lõi Mana dưới áp lực từ trường và sự kiểm soát gắt gao của kẻ địch.",
+  "hook": "Valerius đứng trên đài chỉ huy cao ngất, súng nhắm laze đã khóa chặt vào vị trí của Kael và Kaela.",
+  "emotion_arc": "Từ sự căng thẳng ngột ngạt trong đường hầm ngầm đến áp lực choáng ngợp trước quy mô công nghiệp tàn bạo của Helios tại hồ lõi Mana.",
+  "contract": {
+    "required_beats": [
+      "Mô tả không gian công trường khoan khổng lồ dưới lòng đất rực ánh sáng công nghiệp.",
+      "Nhấn mạnh phản ứng thể chất của Kael (đau đầu, vết thương rỉ máu, nhịp thở nặng nhọc).",
+      "Sự xuất hiện áp đảo của Đại tá Valerius trên đài quan sát với vũ khí khóa mục tiêu."
+    ],
+    "continuity_checks": [
+      "Duy trì trạng thái kiệt sức thần kinh và vết thương ở vai của Kael từ chương 71.",
+      "Kiểm tra kỹ các từ cấm và văn phong không dùng sáo ngữ AI."
+    ]
+  }
+}

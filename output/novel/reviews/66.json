@@ -1,0 +1,56 @@
+{
+  "chapter": 66,
+  "scope": "chapter",
+  "issues": [],
+  "dimensions": [
+    {
+      "dimension": "consistency",
+      "score": 92,
+      "verdict": "pass",
+      "comment": "Thiết lập bối cảnh thung lũng ngầm, thương tích của Kael và trạng thái cỗ máy nhện thép hoàn toàn nhất quán với các chương trước."
+    },
+    {
+      "dimension": "character",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Nhân vật Kael giữ vững sự kiên định, lạnh lùng và chịu đựng đau đớn thực tế; Kaela thể hiện rõ tác phong học giả sắc sảo, không lụy tình."
+    },
+    {
+      "dimension": "pacing",
+      "score": 88,
+      "verdict": "pass",
+      "comment": "Nhịp điệu chuyển biến mượt mà từ cảnh chiến đấu căng thẳng sang không gian tĩnh lặng, quan sát và khám phá bích họa cổ."
+    },
+    {
+      "dimension": "continuity",
+      "score": 91,
+      "verdict": "pass",
+      "comment": "Sự chuyển cảnh từ khe núi ngầm vào hang động trú ẩn diễn ra tự nhiên, logic nhân quả thông suốt."
+    },
+    {
+      "dimension": "foreshadow",
+      "score": 89,
+      "verdict": "pass",
+      "comment": "Phục bút về nguồn gốc cỗ máy chiến đấu và lịch sử Aethelgard được tiếp tục phát triển đúng hướng."
+    },
+    {
+      "dimension": "hook",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Điểm móc cuối chương tạo sự tò mò mạnh mẽ khi hệ thống cảnh báo kích hoạt từ vách đá bích họa."
+    },
+    {
+      "dimension": "aesthetic",
+      "score": 89,
+      "verdict": "pass",
+      "comment": "Văn phong sắc nét, tập trung miêu tả cảm giác vật lý (vết thương, thuốc sát trùng lạnh, ánh sáng đèn pin). Trích dẫn bản gốc: «Lớp giáp Mana của anh đã hấp thụ phần lớn sức công phá, nhưng rìa nhiệt lượng vẫn xuyên qua được lớp hợp kim bảo vệ.»"
+    }
+  ],
+  "contract_status": "met",
+  "contract_notes": "Chương 66 đã triển khai đầy đủ các yêu cầu cốt lõi từ hợp đồng: Kael xử lý vết thương ở bắp tay trái, Kaela khám phá hệ thống bích họa cổ trong hang động bằng đèn pin, và cuộc đối thoại sắc sảo giữa hai nhân vật về ý nghĩa lịch sử của di tích. Không có vi phạm quy tắc hệ thống hay độ dài tối thiểu (trên 2.000 từ).",
+  "verdict": "accept",
+  "summary": "Chương 66 đạt yêu cầu xuất sắc về mọi mặt. Quá trình sơ cứu vết thương của Kael và màn khám phá bích họa cổ của Kaela được viết chi tiết, chân thực, tuân thủ nghiêm ngặt nguyên tắc 'Show, Don't Tell' và các quy tắc thế giới, không có lỗi cấu trúc hay văn phong AI.",
+  "affected_chapters": [
+    66
+  ]
+}

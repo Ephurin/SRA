@@ -1,0 +1,27 @@
+{
+  "chapter": 4,
+  "title": "Trạm quan sát chìm",
+  "goal": "Đưa Kael và Kaela tiến sâu hơn vào trạm quan sát, chạm trán Alistair đang bị thương nặng, từ đó nhận được phiến đá cổ chứa mật mã mạch Mana.",
+  "conflict": "Cuộc chạm trán căng thẳng và đầy nghi kỵ giữa Kael, Kaela với Alistair — một cựu kỹ sư đang bị thương nặng trong trạm quan sát ngầm — dưới áp lực từ sự truy đuổi sát nút của lực lượng Helios.",
+  "hook": "Alistair trao phiến đá cổ cho Kaela đúng lúc tiếng động cơ thiết giáp của lực lượng Helios vang lên rền rĩ từ phía cửa hầm phía trên.",
+  "emotion_arc": "Từ sự căng thẳng, nghi ngờ tột độ khi đối đầu với kẻ lạ mặt trong bóng tối cho đến sự hợp tác miễn cưỡng khi nhận ra Alistair đang nắm giữ manh mối sống còn.",
+  "contract": {
+    "required_beats": [
+      "Kael kiểm tra và phát hiện một phòng quan sát phụ còn nguồn điện yếu ớt.",
+      "Sự xuất hiện bất ngờ của Alistair từ trong bóng tối với vết thương đẫm máu trên đùi.",
+      "Màn đấu khẩu và trao đổi thông tin ngầm giữa Kael và Alistair về sự bành trướng của Valerius.",
+      "Alistair giao lại phiến đá cổ có khắc mật mã kích hoạt mạch Mana chính cho Kaela."
+    ],
+    "forbidden_moves": [
+      "Không dùng đại từ trừu tượng tổng kết cảm xúc của nhân vật.",
+      "Không lặp lại từ khóa và cấu trúc câu sáo rỗng đã bị cấm.",
+      "Không có đối thoại mang tính giảng đạo, mọi thông tin phải truyền tải qua hành động và lời nói cụ thể."
+    ],
+    "continuity_checks": [
+      "Kael vẫn chịu di chứng mệt mỏi thần kinh nhẹ từ việc lạm dụng Gia tốc nhận thức ở chương trước.",
+      "Biểu tượng con mắt và bánh răng của Helios vừa được phát hiện ở cuối chương 3 tạo tiền đề cho sự cảnh giác cao độ của Kael đối với bất kỳ ai xuất hiện trong tàn tích.",
+      "Kaela duy trì vai trò giải mã và nhận diện các thiết bị cổ đại."
+    ],
+    "emotion_target": "Sự tò mò và hồi hộp trước những mảnh ghép lịch sử dần hé lộ, đồng thời cảm nhận rõ mối hiểm họa từ tập đoàn Helios đang áp sát."
+  }
+}

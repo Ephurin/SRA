@@ -1,0 +1,32 @@
+{
+  "chapter": 5,
+  "title": "Kiếm cộng hưởng phiến đá cổ",
+  "goal": "Khắc họa khoảnh khắc thanh kiếm của Kael cộng hưởng với phiến đá cổ trong tâm điểm tàn tích, hé lộ ký ức luân hồi của Kaela và kích hoạt hệ thống báo động toàn vùng.",
+  "conflict": "Sự xung đột giữa năng lượng cộng hưởng từ thanh kiếm của Kael và phiến đá cổ với hệ thống phòng thủ tự động toàn khu vực của tập đoàn Helios.",
+  "hook": "Hệ thống báo động toàn vùng phát sáng đỏ rực, tiếng gầm của động cơ thiết giáp Helios áp sát ngay ngoài cửa hầm ngầm.",
+  "emotion_arc": "Từ tĩnh lặng căng thẳng đến bùng nổ năng lượng đột ngột và chấn động nhận thức sâu sắc.",
+  "contract": {
+    "required_beats": [
+      "Kael chạm tay vào phiến đá cổ cùng Kaela",
+      "Thanh kiếm thép luyện cộng hưởng phát ra chùm tia sáng rực rỡ và kích hoạt ký ức luân hồi của Kaela",
+      "Cơn đau đầu thần kinh và hiện tượng gia tốc nhận thức tự phát của Kael",
+      "Hệ thống báo động của căn cứ cổ đại rú lên, đánh động lực lượng Helios bên ngoài"
+    ],
+    "forbidden_moves": [
+      "Không dùng cấu trúc liệt kê ba vế sáo rỗng",
+      "Không dùng từ sáo ngữ AI (dường như, bỗng nhiên, một chút)",
+      "Không tóm tắt nội dung bằng lời người kể chuyện ngoài lề"
+    ],
+    "continuity_checks": [
+      "Kael giữ nguyên kiếm thép luyện và phiến đá cổ nhận từ Alistair",
+      "Kaela có mặt trực tiếp để quan sát hiện tượng cộng hưởng năng lượng",
+      "Trạng thái mệt mỏi thần kinh của Kael tiếp nối từ các chương trước"
+    ],
+    "evaluation_focus": [
+      "Show don't tell cho phản ứng cơ thể Kael (đau đầu thần kinh, gia tốc nhận thức tự phát)",
+      "Miêu tả điện ảnh thời gian thực khi thanh kiếm cộng hưởng phiến đá cổ",
+      "Tuyệt đối không dùng tiêu đề số và không có lời bình luận tác giả"
+    ],
+    "emotion_target": "Sự choáng ngợp trước quy mô của nền văn minh cổ đại và cảm giác nguy hiểm cận kề."
+  }
+}

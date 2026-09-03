@@ -1,0 +1,37 @@
+{
+  "chapter": 52,
+  "title": "Phát súng định mệnh",
+  "goal": "Ngăn cản Valerius kích hoạt phát súng khoan cuối cùng và tạo ra một điểm móc cho sự kiện cộng hưởng năng lượng.",
+  "conflict": "Kael đối đầu với lực lượng quân sự Helios và Valerius để ngăn cản cỗ máy khoan phá hủy lõi Mana.",
+  "hook": "Luồng năng lượng từ hồ Mana bỗng bùng nổ dữ dội, bao trùm lấy toàn bộ khu vực và đẩy tất cả vào một không gian cộng hưởng kỳ lạ.",
+  "emotion_arc": "Căng thẳng tột độ -\u003e Quyết tử -\u003e Kinh ngạc trước biến cố năng lượng.",
+  "notes": "Phải đảm bảo mô tả được sự đau đớn thần kinh của Kael khi sử dụng năng lực trong tình trạng kiệt sức.",
+  "contract": {
+    "required_beats": [
+      "Kael lao mình qua làn đạn.",
+      "Cú đấm quyết định giữa Valerius và Kael trên đài quan sát.",
+      "Ánh sáng xanh chói lọi nuốt chửng không gian."
+    ],
+    "forbidden_moves": [
+      "Kael đột nhiên trở nên bất khả chiến bại.",
+      "Kaela giải quyết mâu thuẫn bằng một phép thuật thần kỳ không giải thích.",
+      "Valerius trở nên ngây ngô hoặc nói quá nhiều về kế hoạch của mình."
+    ],
+    "continuity_checks": [
+      "Kiểm tra trạng thái kiệt sức thần kinh của Kael sau chương 50.",
+      "Kiểm tra vị trí và trạng thái của Kaela.",
+      "Đảm bảo Valerius vẫn giữ phong thái lạnh lùng, tính toán."
+    ],
+    "evaluation_focus": [
+      "Độ chân thực của các cảnh hành động và Gia tốc nhận thức.",
+      "Tính nhất quán của thiết lập sức mạnh.",
+      "Tránh văn phong AI sáo rỗng."
+    ],
+    "emotion_target": "Cảm giác hồi hộp, nghẹt thở khi chứng kiến trận chiến cuối cùng của cung truyện.",
+    "payoff_points": [
+      "Sự đối đầu trực diện giữa Kael và Valerius.",
+      "Kết thúc cung truyện Thung Lũng Mạch Ngầm bằng một biến cố lớn."
+    ],
+    "hook_goal": "Tạo sự tò mò về hậu quả của vụ nổ năng lượng và số phận của Kael, Kaela và Valerius."
+  }
+}

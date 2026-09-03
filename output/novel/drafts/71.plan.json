@@ -1,0 +1,19 @@
+{
+  "chapter": 71,
+  "title": "Trận chiến tại trạm van",
+  "goal": "Hoàn thành trận chiến tại trạm van điều tiết ngầm và mở đường tiếp cận khu vực trung tâm.",
+  "conflict": "Kael và Kaela bị tiểu đội tinh nhuệ Helios chặn đánh tại trạm van điều tiết ngầm, buộc phải vừa giao tranh vừa tìm đường thoát thân.",
+  "hook": "Cơn đau đầu do Gia tốc nhận thức bùng phát dữ dội khiến tầm nhìn của Kael nhòe đi đúng lúc những tiếng gầm rú của cỗ máy khoan lớn vọng đến.",
+  "emotion_arc": "Căng thẳng tột độ, nghẹt thở, chuyển từ thế bị động sang phản công nhờ sự phối hợp trí tuệ và kiếm thuật.",
+  "contract": {
+    "required_beats": [
+      "Kael giao tranh cận chiến với lính tinh nhuệ Helios tại trạm van điều tiết.",
+      "Kaela can thiệp vào hệ thống điều khiển van nước để cô lập một phần kẻ địch.",
+      "Kael chịu đựng cơn đau đầu và áp lực thần kinh để kết thúc trận chiến trong gang tấc."
+    ],
+    "continuity_checks": [
+      "Kiểm tra trạng thái đau đầu dữ dội của Kael do lạm dụng Gia tốc nhận thức ở chương trước.",
+      "Đảm bảo không dùng từ ngữ cấm hoặc phong cách AI."
+    ]
+  }
+}

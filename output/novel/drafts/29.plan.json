@@ -1,0 +1,33 @@
+{
+  "chapter": 29,
+  "title": "Trạm tiếp tế ngầm",
+  "goal": "Kael và Kaela tìm thấy một trạm tiếp tế bị bỏ hoang, nghỉ ngơi, băng bó vết thương và phát hiện ra mối liên hệ bí ẩn giữa Helios và các tàn tích.",
+  "conflict": "Sự kiệt quệ về thể xác sau trận chiến trong ống thông gió và việc tìm thấy một trạm tiếp tế ngầm bị bỏ hoang, nơi sự thật về Helios bắt đầu lộ diện.",
+  "hook": "Đoạn ghi hình cũ trên màn hình CRT hé lộ gương mặt của người sáng lập Helios trong một di tích sa mạc cổ đại.",
+  "emotion_arc": "Căng thẳng tột độ chuyển sang sự trầm mặc, nặng nề khi đối diện với sự thật lịch sử.",
+  "notes": "Trạm tiếp tế cần mang cảm giác cũ kỹ, lạnh lẽo, đầy mùi dầu máy và bụi bặm. Kaela cần được thể hiện sự nhạy bén với cổ ngữ và dữ liệu. Kael cần được thể hiện sự mệt mỏi nhưng vẫn cảnh giác.",
+  "contract": {
+    "required_beats": [
+      "Kael và Kaela vào trạm tiếp tế.",
+      "Kaela băng bó vết thương cho Kael.",
+      "Kaela khám phá dữ liệu trên máy tính cổ điển.",
+      "Đoạn video hé lộ bí mật."
+    ],
+    "forbidden_moves": [
+      "Không để Kael hồi phục hoàn toàn ngay lập tức.",
+      "Không để đoạn video hé lộ mọi bí ẩn của truyện."
+    ],
+    "continuity_checks": [
+      "Tình trạng vết thương ở bắp tay trái của Kael.",
+      "Sự kiệt quệ thần kinh của Kael sau khi dùng Gia tốc nhận thức.",
+      "Mối quan hệ tin tưởng giữa Kael và Kaela."
+    ],
+    "evaluation_focus": [
+      "Show, don't tell trong các phân đoạn đối thoại và tương tác.",
+      "Đảm bảo văn phong không bị nhiễm sáo ngữ AI.",
+      "Kiểm tra số lượng từ."
+    ],
+    "emotion_target": "Sự ám ảnh và nặng nề.",
+    "hook_goal": "Tạo ra sự chấn động về mặt kiến thức cho Kaela và sự cảnh giác cao độ cho Kael."
+  }
+}

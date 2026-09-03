@@ -1,0 +1,28 @@
+{
+  "chapter": 93,
+  "title": "Cửa ngõ tháp trung tâm",
+  "goal": "Đưa Kael và Kaela đến chân tháp trung tâm, mở ra màn chạm trán cao trào với Valerius.",
+  "conflict": "Kael và Kaela tiến đến cửa ngõ tháp trung tâm Aethelgard và đối đầu trực diện với Đại tá Valerius cùng đội hộ vệ giáp nặng.",
+  "hook": "Đại tá Valerius bước ra từ lớp màn chắn năng lượng tím rực, cất lời thách thức lạnh lùng trước thềm trận chiến sinh tử.",
+  "emotion_arc": "Từ sự căng thẳng, thận trọng khi tiếp cận khu vực cốt lõi sang cảm giác nghẹt thở, đối đầu trực diện trước kẻ thù không đội trời chung.",
+  "contract": {
+    "required_beats": [
+      "Mô tả quang cảnh chân tháp trung tâm Aethelgard.",
+      "Kael cố nén cơn đau đầu do dư chấn Gia tốc nhận thức.",
+      "Sự xuất hiện áp đảo của Đại tá Valerius và tiểu đội giáp nặng Helios."
+    ],
+    "forbidden_moves": [
+      "Không dùng từ ngữ tiên hiệp hay tên Hán-Việt.",
+      "Không tóm tắt diễn biến kiểu kể chuyện suông."
+    ],
+    "continuity_checks": [
+      "Kiểm tra tình trạng kiệt sức thần kinh của Kael sau khi sử dụng Gia tốc nhận thức ở chương trước.",
+      "Đảm bảo tên nhân vật đúng chuẩn phương Tây (Kael, Kaela, Valerius)."
+    ],
+    "evaluation_focus": [
+      "Mô tả chi tiết môi trường không gian và phản ứng vật lý của nhân vật.",
+      "Tránh các sáo ngữ AI và từ ngữ cấm."
+    ],
+    "emotion_target": "Sự hồi hộp, nghẹt thở và căng thẳng tột độ trước trận chiến quyết định."
+  }
+}

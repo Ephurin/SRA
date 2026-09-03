@@ -1,0 +1,20 @@
+{
+  "chapter": 66,
+  "title": "Bích họa trong hang đá",
+  "goal": "Mô tả chi tiết quá trình băng bó vết thương trong không gian ngột ngạt và màn khám phá những bức bích họa cổ khắc trên vách đá.",
+  "conflict": "Kael vừa trải qua trận chiến tiêu hao nặng nề với cỗ máy nhện thép và mang thương tích, trong khi không gian xung quanh bị nung chảy cô lập họ trong một hang động nhỏ đầy bí ẩn.",
+  "hook": "Trong ánh sáng mờ ảo của ngọn đèn pin cầm tay, Kaela nhận ra những bức bích họa không chỉ vẽ lịch sử mà còn đang phản chiếu chính sự hiện diện của họ thông qua các đường mạch Mana chìm.",
+  "emotion_arc": "Từ căng thẳng tột độ sau giao tranh sinh tử đến sự kinh ngạc, trầm ngâm khi đối diện với các bức bích họa cổ đại hàng ngàn năm.",
+  "contract": {
+    "required_beats": [
+      "Kael xử lý vết thương ở bắp tay trái và vượt qua cơn đau đầu thần kinh.",
+      "Kaela dùng đèn pin kiểm tra cấu trúc hang động và phát hiện hệ thống bích họa cổ xưa.",
+      "Cuộc đối thoại ngắn gọn giữa hai người về ý nghĩa của các hình vẽ khắc trên đá."
+    ],
+    "continuity_checks": [
+      "Kiểm tra vết thương bắp tay trái của Kael và triệu chứng đau đầu do Gia tốc nhận thức",
+      "Đảm bảo Kaela giữ đúng tác phong học giả sắc sảo, không lụy tình sướt mướt",
+      "Kiểm tra việc sử dụng từ ngữ và văn phong, loại bỏ các cụm từ sáo rỗng bị cấm trong working_memory"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "chapter": 77,
+  "title": "Bóng ma truy đuổi",
+  "goal": "Đưa Kael và Kaela lên tầng trung lưu, mở ra mối đe dọa trực tiếp từ Valerius tại trung tâm thành phố trôi nổi Aethelgard.",
+  "conflict": "Kael và Kaela thâm nhập tầng trung lưu của thành phố trôi nổi bằng thẻ từ vừa thu được, nhưng phát hiện lực lượng Helios của Valerius đã phong tỏa các nút giao thông quan trọng và dựng tổng hành dinh tại tòa tháp trung tâm.",
+  "hook": "Valerius đang trực tiếp ra lệnh qua hệ thống phát thanh chiến thuật, yêu cầu siết chặt phong tỏa toàn bộ các tháp điều hướng.",
+  "emotion_arc": "Từ sự căng thẳng, thận trọng khi bước qua ranh giới an ninh sang sự lo lắng tột độ khi nhận ra quy mô truy lùng của kẻ thù.",
+  "contract": {
+    "required_beats": [
+      "Sử dụng thẻ từ vượt qua cổng trạm kiểm soát từ tầng đáy lên tầng trung lưu.",
+      "Mô tả sự thay đổi kiến trúc và không gian từ nghèo nàn sang xa hoa, công nghệ cao của tầng trung lưu.",
+      "Kaela phân tích bản đồ năng lượng và phát hiện tín hiệu tổng hành dinh của Valerius tại tòa tháp trung tâm.",
+      "Kael nhận ra mức độ nguy hiểm khi binh lính Helios tràn ngập các tuyến phố."
+    ],
+    "continuity_checks": [
+      "Vết thương ở bắp tay trái của Kael từ trận chiến trước vẫn cần lưu ý khi cử động mạnh.",
+      "Tấm thẻ ra vào cao cấp lấy từ tên thủ lĩnh băng đảng tầng đáy là phương tiện duy nhất qua cổng kiểm soát.",
+      "Sự hiện diện sóng năng lượng của Valerius phải được truyền tải qua cảm nhận của Kael hoặc thiết bị của Kaela."
+    ]
+  }
+}

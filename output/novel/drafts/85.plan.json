@@ -1,0 +1,33 @@
+{
+  "chapter": 85,
+  "title": "Ký ức trong khối dữ liệu cũ",
+  "goal": "Kael và Kaela tìm nơi ẩn náu an toàn và phát hiện ra đoạn ghi âm quan trọng về lịch sử thành phố.",
+  "conflict": "Kael và Kaela phải ẩn nấp và tồn tại trong khu ổ chuột ngột ngạt, nguy hiểm của thành phố trôi nổi, đồng thời đối mặt với sự thật chấn động về lịch sử thành phố thông qua dữ liệu cũ.",
+  "hook": "Kaela vô tình chạm vào một thiết bị lưu trữ dữ liệu công cộng cũ, kích hoạt một đoạn ghi âm chấn động về việc thành phố này thực chất được xây dựng trên một giàn giáo khổng lồ để hút cạn năng lượng từ lõi hành tinh.",
+  "emotion_arc": "Từ lo âu, căng thẳng khi lẩn trốn đến kinh ngạc, bàng hoàng khi phát hiện sự thật lịch sử.",
+  "notes": "Khu ổ chuột này nằm ở vành đai ngoài, nơi rác thải công nghiệp và Mana thừa đổ về. Mô tả sự ẩm thấp, rỉ sét và tiếng ồn lạ của thành phố.",
+  "contract": {
+    "required_beats": [
+      "Kael và Kaela di chuyển qua các hẻm nhỏ rỉ sét của khu ổ chuột.",
+      "Tìm thấy một phòng chứa rác thải công nghiệp bị bỏ hoang làm nơi tạm trú.",
+      "Kaela tìm thấy thiết bị lưu trữ dữ liệu cũ và kết nối nó.",
+      "Đoạn ghi âm vang lên, tiết lộ sự thật kinh hoàng."
+    ],
+    "forbidden_moves": [
+      "Không được để Kael hay Kaela giải thích quá nhiều về lịch sử thành phố một cách giáo điều.",
+      "Không được để đội tuần tra Helios phát hiện ra họ quá dễ dàng ở đầu chương."
+    ],
+    "continuity_checks": [
+      "Cảm giác mệt mỏi của Kael sau khi sử dụng Gia tốc nhận thức ở chương trước cần được thể hiện.",
+      "Môi trường thành phố trôi nổi Aethelgard phải mang tính \"lộn ngược\" và \"hệ sinh thái sống\" như đã mô tả ở chương 83.",
+      "Kaela phải giữ được sự tò mò và nhạy bén với cổ ngữ."
+    ],
+    "evaluation_focus": [
+      "Độ chi tiết của môi trường khu ổ chuột và tính nhất quán của thiết lập thành phố trôi nổi.",
+      "Lời thoại tự nhiên, thể hiện được sự phối hợp giữa Kael và Kaela.",
+      "Điểm móc chương phải gây tò mò về lịch sử thành phố."
+    ],
+    "emotion_target": "Sự tò mò pha lẫn nỗi sợ hãi về quy mô của bí mật mà họ vừa chạm tới.",
+    "hook_goal": "Tạo ra sự kinh hãi về quy mô của âm mưu mà họ đang đối mặt."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "chapter": 13,
+  "scope": "arc",
+  "issues": [
+    {
+      "type": "aesthetic",
+      "severity": "warning",
+      "description": "Một số đoạn mô tả hành động vẫn còn hơi mang tính liệt kê động tác, cần tăng cường cảm giác không gian.",
+      "evidence": "'Kael lao lên. Anh không chạy thẳng, thay vào đó là một chuyển động lách người đầy kỹ thuật' (Chương 13)",
+      "suggestion": "Tập trung vào cảm giác của cơ thể và môi trường xung quanh thay vì chỉ liệt kê động tác."
+    }
+  ],
+  "dimensions": [
+    {
+      "dimension": "consistency",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Thiết lập thế giới và hành vi nhân vật nhất quán, không có mâu thuẫn logic."
+    },
+    {
+      "dimension": "character",
+      "score": 88,
+      "verdict": "pass",
+      "comment": "Sự tương tác giữa Kael và Kaela bộc lộ rõ nét tính cách: Kael quyết đoán, Kaela uyên bác và nhạy cảm."
+    },
+    {
+      "dimension": "pacing",
+      "score": 85,
+      "verdict": "pass",
+      "comment": "Nhịp điệu dồn dập, các phân cảnh hành động chuyển tiếp tự nhiên, không bị lê thê."
+    },
+    {
+      "dimension": "continuity",
+      "score": 88,
+      "verdict": "pass",
+      "comment": "Chuyển cảnh từ phòng lõi đến thị trấn và quán trọ mượt mà, logic nhân quả rõ ràng."
+    },
+    {
+      "dimension": "foreshadow",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Phục bút mới về thực thể bí ẩn ở cuối chương 13 rất tốt, tạo sự tò mò."
+    },
+    {
+      "dimension": "hook",
+      "score": 87,
+      "verdict": "pass",
+      "comment": "Các điểm móc câu cuối chương thực hiện tốt vai trò dẫn dắt."
+    },
+    {
+      "dimension": "aesthetic",
+      "score": 85,
+      "verdict": "pass",
+      "comment": "Văn phong mô tả trực quan (Show, Don't Tell) khá tốt, ví dụ: 'vị máu mặn chát tràn vào miệng' (Chương 13). Tránh được sáo ngữ AI."
+    }
+  ],
+  "contract_status": "met",
+  "contract_notes": "Cung truyện đang diễn ra tốt, các chi tiết hành động và miêu tả cảm xúc phù hợp với thiết lập. Đã gieo được phục bút về thực thể mới ở cuối chương 13.",
+  "verdict": "accept",
+  "summary": "Cung truyện 2 đang phát triển tốt, tập trung vào hành trình trốn chạy và sự phối hợp giữa Kael và Kaela. Các phân cảnh hành động được mô tả chi tiết, tuân thủ đúng quy tắc thế giới. Việc giới thiệu thực thể bí ẩn ở cuối chương 13 là điểm nhấn tốt cho nhịp độ cung truyện tiếp theo.",
+  "affected_chapters": [
+    11,
+    12,
+    13
+  ]
+}

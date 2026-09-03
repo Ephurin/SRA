@@ -1,0 +1,29 @@
+{
+  "chapter": 95,
+  "title": "Sảnh ký ức vĩnh hằng",
+  "goal": "Kaela phá vỡ lớp màn chắn năng lượng, tạo ra lối đi vào bên trong tháp Aethelgard cho cả hai.",
+  "conflict": "Màn chắn năng lượng khổng lồ chặn đứng lối vào tháp trung tâm; Kaela phải đối mặt với áp lực thời gian và dòng dữ liệu phức tạp để phá vỡ nó trước khi viện binh của Helios áp sát.",
+  "hook": "Bên trong sảnh chính của tháp là một cỗ máy khổng lồ đang lưu trữ hàng ngàn ký ức luân hồi của nhân loại.",
+  "emotion_arc": "Từ sự căng thẳng ngột ngạt, tuyệt vọng bên ngoài màn chắn đến sự bùng nổ của ánh sáng và lối đi mở ra trước mắt.",
+  "contract": {
+    "required_beats": [
+      "Kaela thao tác trên thiết bị và phân tích tần số của bức tường năng lượng.",
+      "Lớp màn chắn năng lượng rung động rồi vỡ vụn thành các hạt sáng li ti.",
+      "Kael gượng đứng dậy bước theo Kaela qua ngưỡng cửa chính vào sảnh trong.",
+      "Hé lộ không gian nội thất của tháp trung tâm với các cột tinh thể khổng lồ."
+    ],
+    "forbidden_moves": [
+      "Không lạm dụng các cụm từ sáo rỗng hoặc từ cấm trong quy tắc.",
+      "Không để Kael hồi phục quá nhanh sau dư chấn thần kinh."
+    ],
+    "continuity_checks": [
+      "Đảm bảo miêu tả đúng cơn đau đầu dữ dội của Kael sau dư chấn Gia tốc nhận thức ở chương trước.",
+      "Kaela tập trung tối đa vào cấu trúc ma pháp tính toán của bức tường năng lượng."
+    ],
+    "evaluation_focus": [
+      "Show, don't tell trong việc miêu tả quá trình Kaela phá vỡ lớp chắn năng lượng.",
+      "Miêu tả chi tiết không gian sảnh chính của tháp theo đúng yêu cầu đề cương."
+    ],
+    "emotion_target": "Sự hồi hộp nghẹt thở và cảm giác vỡ òa khi bước vào không gian bí ẩn bên trong tháp."
+  }
+}

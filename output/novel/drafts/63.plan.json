@@ -1,0 +1,33 @@
+{
+  "chapter": 63,
+  "title": "Cửa khẩu thành phố ngầm",
+  "goal": "Kael và Kaela thoát khỏi trạm tiếp tế ngầm thông qua thang máy khẩn cấp, tiến vào thành phố ngầm.",
+  "conflict": "Kael và Kaela đối mặt với việc bị bao vây bởi quân Helios trong trạm tiếp tế ngầm, phải quyết định hy sinh trạm để tẩu thoát xuống thành phố ngầm.",
+  "hook": "Ánh đèn neon rực rỡ và những tòa nhà chọc trời lộn ngược của thành phố trôi nổi hiện ra trước mắt khi thang máy hạ xuống tầng sâu.",
+  "emotion_arc": "Từ căng thẳng tột độ khi bị bao vây, đến quyết tâm hành động, và cuối cùng là choáng ngợp khi chứng kiến thành phố ngầm.",
+  "notes": "Tập trung vào sự tương phản giữa không gian chật hẹp, u tối của trạm tiếp tế và sự rộng lớn, rực rỡ của thành phố ngầm.",
+  "contract": {
+    "required_beats": [
+      "Kael đặt thuốc nổ.",
+      "Kael và Kaela chạy đến thang máy.",
+      "Kích hoạt thang máy ngay khi cửa trạm bị phá vỡ.",
+      "Cảnh tượng thành phố ngầm lần đầu xuất hiện."
+    ],
+    "forbidden_moves": [
+      "Không để Kael chiến thắng Valerius trong chương này.",
+      "Không để Kael hoặc Kaela bị bắt."
+    ],
+    "continuity_checks": [
+      "Vết thương bả vai của Kael từ chương 61 còn đau nhức, ảnh hưởng đến khả năng chiến đấu.",
+      "Phiến đá cổ vẫn nằm trong túi của Kaela.",
+      "Valerius đang chỉ huy trực tiếp bên ngoài trạm."
+    ],
+    "evaluation_focus": [
+      "Đặc tả hành động phá cửa và tẩu thoát.",
+      "Mô tả môi trường thành phố ngầm khi thang máy hạ xuống.",
+      "Cảm xúc của Kael và Kaela trong khoảnh khắc sinh tử."
+    ],
+    "emotion_target": "Hồi hộp, kinh ngạc.",
+    "hook_goal": "Tạo sự choáng ngợp và khao khát muốn khám phá thành phố ngầm của độc giả."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "chapter": 71,
+  "scope": "chapter",
+  "issues": [],
+  "dimensions": [
+    {
+      "dimension": "consistency",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Sự kiện nhất quán với diễn biến chương 70, trạng thái Kael và Kaela được duy trì hợp lý."
+    },
+    {
+      "dimension": "character",
+      "score": 92,
+      "verdict": "pass",
+      "comment": "Hành vi nhân vật khớp với thiết lập, sự phối hợp giữa Kael (kiếm thuật) và Kaela (hack/hỗ trợ) rất tự nhiên."
+    },
+    {
+      "dimension": "pacing",
+      "score": 88,
+      "verdict": "pass",
+      "comment": "Nhịp độ dồn dập, chuyển cảnh giữa giao tranh và nỗ lực phối hợp nhịp nhàng, không bị loãng."
+    },
+    {
+      "dimension": "continuity",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Chuyển cảnh giữa các phân đoạn hành động trôi chảy, logic nhân quả rõ ràng."
+    },
+    {
+      "dimension": "foreshadow",
+      "score": 85,
+      "verdict": "pass",
+      "comment": "Phục bút về cỗ máy khoan được nhắc lại và đẩy cao trào, phục vụ tốt cho chương sau."
+    },
+    {
+      "dimension": "hook",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Điểm móc cuối chương (tiếng gầm của máy khoan) tạo sức ép khiến độc giả muốn đọc tiếp."
+    },
+    {
+      "dimension": "aesthetic",
+      "score": 92,
+      "verdict": "pass",
+      "comment": "Văn phong tốt, đặc tả được cơn đau thần kinh qua phản ứng cơ thể (\"mảnh thủy tinh sắc nhọn vào sâu bên trong thùy trán\"). Không dùng sáo ngữ AI."
+    }
+  ],
+  "contract_status": "met",
+  "contract_notes": "Chương hoàn thành tốt các mục yêu cầu: giao tranh cận chiến, Kaela phối hợp hack hệ thống, Kael chịu đựng cơn đau thần kinh. Không vi phạm quy tắc.",
+  "verdict": "accept",
+  "summary": "Chương 71 hoàn thành xuất sắc nhiệm vụ, mô tả trận chiến tại trạm van điều tiết với nhịp độ cao, đặc tả tốt trạng thái quá tải của Kael và sự phối hợp giữa hai nhân vật chính. Không phát hiện vấn đề nghiêm trọng nào."
+}

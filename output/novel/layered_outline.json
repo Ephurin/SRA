@@ -1,0 +1,1018 @@
+[
+  {
+    "index": 1,
+    "title": "Tàn Tích Dưới Cát Lạnh",
+    "theme": "Thâm nhập tàn tích sa mạc Sahara và giải mã mạch năng lượng ngầm dưới lòng đất",
+    "arcs": [
+      {
+        "index": 1,
+        "title": "Bão Cát Biên Giới",
+        "goal": "Vượt qua bão cát Sahara và trạm gác tự động của tàn dư quân sự để đặt chân đến rìa vùng cấm",
+        "estimated_chapters": 10,
+        "chapters": [
+          {
+            "chapter": 0,
+            "title": "Bão cát ngoài vành đai",
+            "core_event": "Kael và Kaela đối mặt với cơn bão cát dị thường chứa bức xạ Mana; Kael phải sử dụng kiếm khí để dọn đường qua bầy sinh vật đột biến bọc giáp.",
+            "hook": "Thiết bị định vị dò thấy tín hiệu phát ra từ một cấu trúc ngầm chưa từng được ghi nhận.",
+            "scenes": [
+              "Cảnh mở đầu bão cát rít gào qua bộ giáp lữ hành.",
+              "Trận chiến ngắn với bầy bọ cạp cơ khí rỉ sét.",
+              "Phát hiện lối xuống hầm ngầm cổ đại."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Hành lang đá ngầm",
+            "core_event": "Hai người tiến vào hành lang ngầm lạnh lẽo; Kaela kích hoạt thiết bị đo lường năng lượng để vô hiệu hóa bẫy tia nhiệt tự động.",
+            "hook": "Cánh cổng đá khổng lồ tự động dịch chuyển mở ra một phòng điều khiển hoàn toàn nguyên vẹn.",
+            "scenes": [
+              "Khảo sát kiến trúc đá cổ kết hợp hợp kim.",
+              "Kaela giải mã bảng ký tự ma pháp bằng thiết bị cầm tay.",
+              "Phát hiện vết tích của một đoàn thám hiểm đi trước."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Dư ảnh chiến trường cũ",
+            "core_event": "Đụng độ với những binh lính tự động hóa dạng hình người vẫn đang thực hiện mệnh lệnh canh gác từ thế kỷ trước.",
+            "hook": "Kael nhận ra ký hiệu trên giáp của kẻ địch thuộc về một tập đoàn quân sự đã sụp đổ từ lâu.",
+            "scenes": [
+              "Giao tranh cận chiến trong không gian chật hẹp.",
+              "Kael kích hoạt chớp nhoáng Gia tốc nhận thức để phá hủy lõi năng lượng robot.",
+              "Kaela thu thập dữ liệu lưu trữ từ boongke."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Trạm quan sát chìm",
+            "core_event": "Đoàn dừng chân tại một trạm quan sát cũ, gặp gỡ Alistair trong tình trạng bị thương và đang ẩn trốn sự truy sát.",
+            "hook": "Alistair trao cho Kaela một phiến đá cổ có chứa mật mã kích hoạt mạch Mana chính.",
+            "scenes": [
+              "Cuộc đối thoại căng thẳng giữa Kael và Alistair.",
+              "Alistair cảnh báo về sự truy đuổi của Đại tá Valerius.",
+              "Đêm nghỉ ngơi dưới ánh đèn năng lượng yếu ớt."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Kiếm cộng hưởng phiến đá cổ",
+            "core_event": "Khi Kael chạm tay vào phiến đá cổ, thanh kiếm thép luyện của anh cộng hưởng với dòng Mana tinh khiết, phát ra luồng kiếm khí chói lọi.",
+            "hook": "Sức mạnh cộng hưởng vô tình kích hoạt hệ thống báo động toàn vùng, đánh động lực lượng quân sự Helios ở phía xa.",
+            "scenes": [
+              "Hiện tượng quang học kỳ ảo khi Mana hấp thụ vào lưỡi kiếm.",
+              "Sự kinh ngạc của Kaela trước phản ứng cộng hưởng.",
+              "Tiếng còi báo động vang lên từ sâu trong lòng đất."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Cuộc tập kích bất ngờ",
+            "core_event": "Đội trinh sát cơ giới của tập đoàn Helios do Valerius phái đến bất ngờ bao vây trạm quan sát.",
+            "hook": "Kael phải đơn độc chặn cửa hầm để Kaela và Alistair tẩu thoát xuống tầng sâu hơn.",
+            "scenes": [
+              "Tiếng động cơ thiết giáp rầm rập ngoài cửa.",
+              "Kael bước ra hiên đá đối đầu với tiểu đội quân sự.",
+              "Đòn đánh phủ đầu bằng súng trường ma pháp."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Nhịp thở trong giao tranh",
+            "core_event": "Kael quần thảo với một tiểu đội lính đánh thuê trang bị áo giáp cường lực trong hẻm núi đá hẹp.",
+            "hook": "Hệ thần kinh quá tải khiến Kael xuất hiện triệu chứng đau đầu dữ dội sau khi lạm dụng Gia tốc nhận thức.",
+            "scenes": [
+              "Mô tả chi tiết nhịp đập tim và mồ hôi lạnh.",
+              "Các đường kiếm cắt ngang lớp giáp hợp kim.",
+              "Khoảnh khắc Kael ngậm đắng nuốt cay vượt qua giới hạn thể lực."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Hầm mỏ ngầm dưới lòng cát",
+            "core_event": "Kaela và Alistair tìm đường lui xuống hệ thống hầm mỏ khai thác tinh thể cổ xưa; Kaela sử dụng trí nhớ luân hồi để tìm lối đi bí mật.",
+            "hook": "Họ tìm thấy một bản đồ địa chất khắc trên vách đá chỉ dẫn đến trung tâm mạch Mana.",
+            "scenes": [
+              "Ánh sáng xanh phát ra từ các khối tinh thể thạch anh.",
+              "Kaela hồi tưởng mờ ảo về một tiền kiếp từng đứng tại nơi này.",
+              "Alistair gục xuống do vết thương cũ trở nặng."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Hội ngộ trong bóng tối",
+            "core_event": "Kael cắt đuôi thành công kẻ địch và đuổi theo kịp Kaela dưới tầng ngầm; ba người hội quân chuẩn bị tiến vào phòng lõi.",
+            "hook": "Cánh cửa phòng lõi bị khóa chặt bằng một cơ chế tính toán ma pháp phức tạp đòi hỏi cả kiếm khí lẫn tri thức cổ ngữ.",
+            "scenes": [
+              "Kael bước vào hầm mỏ với vết thương rớm máu trên bả vai.",
+              "Cuộc hội ngộ ngắn đầy lo âu.",
+              "Kaela và Kael phối hợp giải mã cánh cửa."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Ánh sáng từ lõi sâu",
+            "core_event": "Cánh cửa mở ra, hé lộ một hồ nước chứa đầy năng lượng Mana lỏng đang tỏa sáng rực rỡ giữa lòng đất.",
+            "hook": "Bóng dáng Đại tá Valerius xuất hiện ở phía đầu bên kia hành lang cùng khẩu pháo năng lượng nặng.",
+            "scenes": [
+              "Khung cảnh tráng lệ của hồ Mana nguyên thủy.",
+              "Hơi thở gấp gáp của các nhân vật trước áp lực năng lượng cực lớn.",
+              "Valerius cất tiếng thách thức từ bóng tối."
+            ]
+          },
+          {
+            "chapter": 11,
+            "title": "Chương 11",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 12,
+            "title": "Chương 12",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 13,
+            "title": "Chương 13",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 14,
+            "title": "Chương 14",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 15,
+            "title": "Chương 15",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 16,
+            "title": "Chương 16",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 17,
+            "title": "Chương 17",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 18,
+            "title": "Chương 18",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 19,
+            "title": "Chương 19",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 20,
+            "title": "Chương 20",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 21,
+            "title": "Chương 21",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 22,
+            "title": "Chương 22",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 23,
+            "title": "Chương 23",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 24,
+            "title": "Chương 24",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 25,
+            "title": "Chương 25",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 26,
+            "title": "Chương 26",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 27,
+            "title": "Chương 27",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 28,
+            "title": "Chương 28",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 29,
+            "title": "Chương 29",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 30,
+            "title": "Chương 30",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 31,
+            "title": "Chương 31",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 32,
+            "title": "Chương 32",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 33,
+            "title": "Chương 33",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 34,
+            "title": "Chương 34",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 35,
+            "title": "Chương 35",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 36,
+            "title": "Chương 36",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 37,
+            "title": "Chương 37",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 38,
+            "title": "Chương 38",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 39,
+            "title": "Chương 39",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 40,
+            "title": "Chương 40",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 41,
+            "title": "Chương 41",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 42,
+            "title": "Chương 42",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 43,
+            "title": "Chương 43",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 44,
+            "title": "Chương 44",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 45,
+            "title": "Chương 45",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 46,
+            "title": "Chương 46",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 47,
+            "title": "Chương 47",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 48,
+            "title": "Chương 48",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 49,
+            "title": "Chương 49",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 50,
+            "title": "Chương 50",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 51,
+            "title": "Chương 51",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 52,
+            "title": "Chương 52",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          },
+          {
+            "chapter": 53,
+            "title": "Chương 53",
+            "core_event": "",
+            "hook": "",
+            "scenes": null
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "title": "Bóng Đen Tập Đoàn Helios",
+        "goal": "Truy tìm trạm phát tín hiệu cổ đại và đối đầu với lực lượng truy sát của tập đoàn Helios",
+        "chapters": [
+          {
+            "chapter": 11,
+            "title": "Vượt ranh giới cát",
+            "core_event": "Kael và Kaela rời khỏi ranh giới sa mạc Sahara, đối mặt với trạm kiểm soát biên giới công nghệ cao của tập đoàn Helios.",
+            "hook": "Hệ thống nhận diện quét qua phiến đá cổ và phát tín hiệu báo động đỏ khắp mạng lưới khu vực.",
+            "scenes": [
+              "Cảnh hoàng hôn đỏ rực trên vành đai cát vàng.",
+              "Sự thay đổi cảnh quan từ hoang mạc sang vùng đất công nghiệp.",
+              "Cuộc chạm trán với lính gác máy móc tại trạm kiểm soát."
+            ]
+          },
+          {
+            "chapter": 12,
+            "title": "Thị trấn chợ đen",
+            "core_event": "Cả hai lẩn trốn vào một thị trấn biên mậu hỗn tạp, nơi các thương nhân chợ đen giao dịch linh kiện ma pháp cũ và dữ liệu mạch Mana.",
+            "hook": "Một người thông tin bí ẩn tiếp cận Kaela, đưa ra lời cảnh báo rằng tập đoàn Helios đang treo thưởng lớn cho chiếc đầu của họ.",
+            "scenes": [
+              "Không gian ồn ã và khói bụi của thị trấn biên giới.",
+              "Kaela giao dịch mua bán vật tư ngụy trang.",
+              "Ánh mắt dò xét của những kẻ săn tiền thưởng trong quán rượu tối tăm."
+            ]
+          },
+          {
+            "chapter": 13,
+            "title": "Đêm tập kích quán trọ",
+            "core_event": "Một nhóm lính đánh thuê dưới quyền Valerius tập kích quán trọ nơi Kael và Kaela đang trú ẩn trong đêm.",
+            "hook": "Kael sử dụng bóng tối và địa hình chật hẹp để phản công, hạ sát nhóm lính trước khi chúng kịp gọi viện binh.",
+            "scenes": [
+              "Tiếng bước chân nặng nề trên sàn gỗ mục nát.",
+              "Đòn kiếm chớp nhoáng cắt đứt nguồn sáng trong phòng.",
+              "Hơi thở gấp gáp và vết thương nhỏ trên tay Kael."
+            ]
+          },
+          {
+            "chapter": 14,
+            "title": "Chuyến xe ngụy trang",
+            "core_event": "Kael và Kaela cướp một chuyến xe tải chở thiết bị của tập đoàn Helios để cải trang thành nhân viên kỹ thuật di chuyển vào nội địa.",
+            "hook": "Trạm kiểm soát tiếp theo yêu cầu mã xác thực sinhometric cấp cao mà chiếc xe không hề có.",
+            "scenes": [
+              "Thao tác kỹ thuật thô bạo trên bảng điều khiển xe tải.",
+              "Cảm giác xóc nảy khi vượt qua các cung đường cao tốc bỏ hoang.",
+              "Sự căng thẳng khi tiến sát cổng kiểm soát thứ hai."
+            ]
+          },
+          {
+            "chapter": 15,
+            "title": "Phá rào chắn biên phòng",
+            "core_event": "Hệ thống xác thực từ chối quyền truy cập; Kael buộc phải phá rào chắn bằng bạo lực, tông thẳng qua trạm gác dưới làn đạn dày đặc.",
+            "hook": "Thiết bị phát tín hiệu trên xe bị kích hoạt chế độ tự hủy, thu hút toàn bộ phi đội máy bay không người lái truy đuổi.",
+            "scenes": [
+              "Tiếng kim loại va chạm và kính vỡ vụn.",
+              "Cảnh sát cơ giới Helios xuất hiện với súng laser hạng nặng.",
+              "Pha né tránh ngoạn mục của chiếc xe tải trên cầu cạn sụp đổ."
+            ]
+          },
+          {
+            "chapter": 16,
+            "title": "Rừng công nghiệp sương mù",
+            "core_event": "Hai người bỏ xe chạy bộ vào khu rừng nhân tạo u ám bao quanh khu vực công nghiệp cũ của Helios.",
+            "hook": "Kaela phát hiện nồng độ Mana trong không khí tại đây bất thường, tạo ra các ảo ảnh quang học đánh lừa thị giác.",
+            "scenes": [
+              "Sương mù nhân tạo cuồn cuộn dưới tán cây kim loại.",
+              "Tiếng máy bay không người lái bay vo ve trên mái vòm lá cây.",
+              "Cảm giác chóng mặt do ảnh hưởng từ trường Mana dị biệt."
+            ]
+          },
+          {
+            "chapter": 17,
+            "title": "Đụng độ người máy tàng hình",
+            "core_event": "Kael chạm trán với một đơn vị chiến đấu người máy tuần tra thế hệ mới sử dụng công nghệ tàng hình quang học.",
+            "hook": "Kiếm khí của Kael chém trúng lõi năng lượng của robot, giải phóng một luồng xung điện mạnh làm tê liệt toàn bộ hệ thống thông tin quanh vùng.",
+            "scenes": [
+              "Bóng người kim loại xuất hiện và biến mất trong chớp mắt.",
+              "Cảm giác nguy hiểm rợn gáy kích hoạt Gia tốc nhận thức.",
+              "Đường kiếm sắc lẹm xé toạc lớp ngụy trang quang học."
+            ]
+          },
+          {
+            "chapter": 18,
+            "title": "Trạm tiếp tế ngầm",
+            "core_event": "Họ tìm thấy một trạm tiếp tế ngầm bị bỏ hoang của lực lượng kháng chiến cũ, tạm thời nghỉ ngơi và chữa trị vết thương.",
+            "hook": "Trên màn hình máy tính cổ điển tại trạm, một đoạn video ghi hình cũ hé lộ mối liên hệ giữa người sáng lập Helios và di tích sa mạc.",
+            "scenes": [
+              "Ánh sáng xanh yếu ớt từ màn hình CRT cũ kỹ.",
+              "Kaela băng bó vết thương trên vai cho Kael bằng dung dịch khử trùng lạnh ngắt.",
+              "Nội dung đoạn ghi hình gây sốc về nguồn gốc mạch Mana."
+            ]
+          },
+          {
+            "chapter": 19,
+            "title": "Vòng vây siết chặt",
+            "core_event": "Lực lượng phản ứng nhanh của Helios do Đại tá Valerius trực tiếp chỉ huy đã lần ra dấu vết và bao vây toàn bộ trạm tiếp tế ngầm.",
+            "hook": "Valerius xuất hiện qua màn hình giám sát, đưa ra tối hậu thư yêu cầu Kael giao nộp phiến đá cổ trong vòng mười phút.",
+            "scenes": [
+              "Tiếng nổ rung chuyển cấu trúc bê tông bên ngoài.",
+              "Kẻ địch đặt thuốc nổ chuẩn bị phá cửa hầm.",
+              "Sự bình tĩnh đáng sợ của Kael khi chuẩn bị cho trận chiến đường hẹp."
+            ]
+          },
+          {
+            "chapter": 20,
+            "title": "Cửa khẩu thành phố ngầm",
+            "core_event": "Kael tạo ra một vụ nổ nhỏ đánh sập lối vào hầm để cản chân địch, trong khi Kaela kích hoạt hệ thống thang máy khẩn cấp dẫn sâu xuống thành phố ngầm.",
+            "hook": "Ánh đèn neon rực rỡ và những tòa nhà chọc trời lộn ngược của thành phố trôi nổi hiện ra trước mắt khi thang máy hạ xuống tầng sâu.",
+            "scenes": [
+              "Khói bụi mịt mờ và tiếng rầm rập của binh lính Helios phía sau.",
+              "Cần gạt thang máy kẹt cứng trước khi tự động tuột xuống.",
+              "Khoảnh khắc rơi tự do thót tim vào lòng thành phố ngầm."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "title": "Vùng Đất Sương Mù",
+    "theme": "Khám phá tầng sâu của thung lũng ngầm và tìm ra lõi Mana nguyên thủy",
+    "arcs": [
+      {
+        "index": 1,
+        "title": "Thung Lũng Mạch Ngầm",
+        "goal": "Khám phá tầng sâu của thung lũng ngầm và tìm ra lõi Mana nguyên thủy",
+        "chapters": [
+          {
+            "chapter": 1,
+            "title": "Mạch nước ngầm lạnh lẽo",
+            "core_event": "Kael và Kaela bước chân vào thung lũng mạch ngầm dưới ánh sáng mập mờ của các tinh thể khoáng sản, đối mặt với dòng không khí ẩm ướt và lạnh giá.",
+            "hook": "Tiếng gầm rú trầm đục từ sâu trong lòng đất vang lên, báo hiệu sự tồn tại của một sinh vật canh gác khổng lồ.",
+            "scenes": [
+              "Cảnh hai người bước ra từ thang máy khẩn cấp xuống lòng thung lũng ngầm.",
+              "Mô tả môi trường sinh thái kỳ dị dưới lòng đất với nấm phát quang và mạch nước Mana.",
+              "Kaela sử dụng thiết bị đo lường để định hướng dòng chảy năng lượng."
+            ]
+          },
+          {
+            "chapter": 2,
+            "title": "Thành cổ dưới lòng đá",
+            "core_event": "Đội ngũ chạm trán với một cỗ máy chiến đấu cổ đại dạng nhện khổng lồ đang bảo vệ lối đi duy nhất qua khe núi ngầm.",
+            "hook": "Cỗ máy phóng ra các luồng tia plasma năng lượng cao, cắt đứt con đường lui duy nhất của hai người.",
+            "scenes": [
+              "Kael kích hoạt Mana Skin để chống chọi sức ép nhiệt độ.",
+              "Pha né tránh và phản kích bằng kiếm khí trong không gian hẹp.",
+              "Sự phối hợp ăn ý giữa Kaela và Kael để tìm điểm yếu của cỗ máy."
+            ]
+          },
+          {
+            "chapter": 3,
+            "title": "Cổ ngữ trên thạch bích",
+            "core_event": "Kael tiêu diệt thành công cỗ máy nhện nhưng bị thương ở bắp tay trái; cả hai tìm một hang động nhỏ để tạm trú và băng bó vết thương.",
+            "hook": "Trong ánh sáng mờ ảo của hang động, Kaela phát hiện những bức bích họa cổ khắc trên vách đá kể về lịch sử của nền văn minh đầu tiên.",
+            "scenes": [
+              "Cảnh băng bó vết thương đầy căng thẳng và im lặng.",
+              "Kaela soi đèn pin đọc các ký tự bích họa cổ xưa.",
+              "Sự suy ngẫm của Kael về vòng lặp lịch sử nhân loại."
+            ]
+          },
+          {
+            "chapter": 4,
+            "title": "Tiếng vọng từ thời đại cũ",
+            "core_event": "Kaela giải mã được bí mật của bích họa, chỉ ra rằng mạch Mana ngầm không chỉ là nguồn năng lượng mà còn là một hệ thống ký ức sống.",
+            "hook": "Nền hang đột nhiên rung chuyển nhẹ, các vết nứt trên vách đá rỉ ra một chất lỏng phát sáng màu xanh thẫm.",
+            "scenes": [
+              "Cuộc thảo luận chuyên sâu về bản chất của Mana.",
+              "Sự biến đổi bất thường của môi trường xung quanh hang động.",
+              "Tiếng bước chân lạ vọng đến từ phía đường hầm tối tăm bên cạnh."
+            ]
+          },
+          {
+            "chapter": 5,
+            "title": "Bẫy quang học và thạch anh",
+            "core_event": "Một nhóm thợ săn tiền thưởng thuộc tàn dư của tập đoàn Helios đã lần theo dấu vết và đột nhập vào khu vực hang động.",
+            "hook": "Kael tung đòn bất ngờ trong bóng tối, hạ gục tên dẫn đường trước khi chúng kịp phát tín hiệu.",
+            "scenes": [
+              "Cuộc đấu súng và giáp lá cà chớp nhoáng trong không gian tối tăm.",
+              "Cảm giác căng thẳng khi từng giây trôi qua dưới áp lực của kẻ thù.",
+              "Kael thu giữ thiết bị liên lạc của kẻ địch để dò la tình hình."
+            ]
+          },
+          {
+            "chapter": 6,
+            "title": "Đụng độ đội tuần tra ngầm",
+            "core_event": "Thông qua thiết bị liên lạc thu giữ, Kael và Kaela phát hiện Đại tá Valerius đang chuẩn bị kích hoạt một cỗ máy khoan xuyên tầng để trực tiếp hút cạn lõi Mana.",
+            "hook": "Thời gian không còn nhiều; nếu cỗ máy hoạt động, toàn bộ thung lũng ngầm sẽ sụp đổ hoàn toàn.",
+            "scenes": [
+              "Kael lắng nghe đoạn thông tin liên lạc chiến thuật của Helios.",
+              "Sự phẫn nộ và quyết tâm của Kaela trước âm mưu tàn phá của tập đoàn.",
+              "Lên kế hoạch đột kích thẳng vào công trường khoan của địch."
+            ]
+          },
+          {
+            "chapter": 7,
+            "title": "Bóng máy khoan khổng lồ",
+            "core_event": "Hai người luồn lách qua các hầm mỏ bỏ hoang, tránh né các trạm cảm ứng chuyển động của lực lượng Helios.",
+            "hook": "Kaela vô tình chạm vào một chùm tinh thể cộng hưởng, phát ra một tiếng chuông ngân vang đánh động toàn bộ khu vực tuần tra.",
+            "scenes": [
+              "Di chuyển thận trọng qua bãi mìn quang học.",
+              "Khoảnh khắc sơ suất và tiếng chuông ngân vang xé rách sự yên tĩnh.",
+              "Kael kéo Kaela lao vào khe đá ngay trước khi làn đạn sạt qua."
+            ]
+          },
+          {
+            "chapter": 8,
+            "title": "Trận chiến trước hồ lõi",
+            "core_event": "Kael đối đầu trực diện với một tiểu đội tinh nhuệ của Helios tại trạm van điều tiết của mạch ngầm.",
+            "hook": "Việc sử dụng Gia tốc nhận thức quá đà khiến Kael một lần nữa bị những cơn đau đầu dữ dội hành hạ.",
+            "scenes": [
+              "Trận chiến khốc liệt giữa kiếm khí và súng trường năng lượng.",
+              "Triệu chứng kiệt sức thần kinh bắt đầu xuất hiện qua góc nhìn chao đảo của Kael.",
+              "Kaela hỗ trợ bằng cách hack hệ thống đóng mở van nước để cô lập kẻ địch."
+            ]
+          },
+          {
+            "chapter": 9,
+            "title": "Cộng hưởng năng lượng nguyên thủy",
+            "core_event": "Hai người áp sát khu vực trung tâm, nơi cỗ máy khoan khổng lồ của Đại tá Valerius đang ngầm gầm rú chuẩn bị khoan thủng hồ lõi Mana.",
+            "hook": "Valerius đứng trên đài chỉ huy cao ngất, súng nhắm laze đã khóa chặt vào vị trí của Kael và Kaela.",
+            "scenes": [
+              "Toàn cảnh công trường khoan khổng lồ rực ánh sáng công nghiệp.",
+              "Hơi thở nặng nhọc và dòng mồ hôi lạnh của Kael trong trạng thái quá tải.",
+              "Tiếng bước chân chậm rãi và uy quyền của Valerius vang lên."
+            ]
+          },
+          {
+            "chapter": 10,
+            "title": "Quyết định bên bờ vực thẳm",
+            "core_event": "Trận chiến cao trào mở màn khi Kael lao thẳng về phía đài chỉ huy để ngăn cản Valerius kích hoạt phát súng khoan cuối cùng vào lõi Mana.",
+            "hook": "Luồng năng lượng từ hồ Mana bỗng bùng nổ dữ dội, bao trùm lấy toàn bộ khu vực và đẩy tất cả vào một không gian cộng hưởng kỳ lạ.",
+            "scenes": [
+              "Pha lao mình bất chấp hiểm nguy của Kael qua làn đạn.",
+              "Cú đấm quyết định giữa Valerius và Kael trên đài quan sát.",
+              "Ánh sáng xanh chói lọi nuốt chửng không gian trước khi màn hình tối sầm."
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "title": "Thành Phố Trôi Nổi",
+        "goal": "Đối quyết quyết định tại thành phố trôi nổi và định hình hướng đi mới cho nhân loại",
+        "chapters": [
+          {
+            "chapter": 0,
+            "title": "Vượt ranh giới cát",
+            "core_event": "Kael và Kaela rời khỏi ranh giới sa mạc Sahara, đối mặt với trạm kiểm soát biên giới công nghệ cao của tập đoàn Helios.",
+            "hook": "Hệ thống nhận diện quét qua phiến đá cổ và phát tín hiệu báo động đỏ khắp mạng lưới khu vực.",
+            "scenes": [
+              "Cảnh hoàng hôn đỏ rực trên vành đai cát vàng.",
+              "Sự thay đổi cảnh quan từ hoang mạc sang vùng đất công nghiệp.",
+              "Cuộc chạm trán với lính gác máy móc tại trạm kiểm soát."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Thị trấn chợ đen",
+            "core_event": "Cả hai lẩn trốn vào một thị trấn biên mậu hỗn tạp, nơi các thương nhân chợ đen giao dịch linh kiện ma pháp cũ và dữ liệu mạch Mana.",
+            "hook": "Một người thông tin bí ẩn tiếp cận Kaela, đưa ra lời cảnh báo rằng tập đoàn Helios đang treo thưởng lớn cho chiếc đầu của họ.",
+            "scenes": [
+              "Không gian ồn ã và khói bụi của thị trấn biên giới.",
+              "Kaela giao dịch mua bán vật tư ngụy trang.",
+              "Ánh mắt dò xét của những kẻ săn tiền thưởng trong quán rượu tối tăm."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Đêm tập kích quán trọ",
+            "core_event": "Một nhóm lính đánh thuê dưới quyền Valerius tập kích quán trọ nơi Kael và Kaela đang trú ẩn trong đêm.",
+            "hook": "Kael sử dụng bóng tối và địa hình chật hẹp để phản công, hạ sát nhóm lính trước khi chúng kịp gọi viện binh.",
+            "scenes": [
+              "Tiếng bước chân nặng nề trên sàn gỗ mục nát.",
+              "Đòn kiếm chớp nhoáng cắt đứt nguồn sáng trong phòng.",
+              "Hơi thở gấp gáp và vết thương nhỏ trên tay Kael."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Chuyến xe ngụy trang",
+            "core_event": "Kael và Kaela cướp một chuyến xe tải chở thiết bị của tập đoàn Helios để cải trang thành nhân viên kỹ thuật di chuyển vào nội địa.",
+            "hook": "Trạm kiểm soát tiếp theo yêu cầu mã xác thực sinhometric cấp cao mà chiếc xe không hề có.",
+            "scenes": [
+              "Thao tác kỹ thuật thô bạo trên bảng điều khiển xe tải.",
+              "Cảm giác xóc nảy khi vượt qua các cung đường cao tốc bỏ hoang.",
+              "Sự căng thẳng khi tiến sát cổng kiểm soát thứ hai."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Phá rào chắn biên phòng",
+            "core_event": "Hệ thống xác thực từ chối quyền truy cập; Kael buộc phải phá rào chắn bằng bạo lực, tông thẳng qua trạm gác dưới làn đạn dày đặc.",
+            "hook": "Thiết bị phát tín hiệu trên xe bị kích hoạt chế độ tự hủy, thu hút toàn bộ phi đội máy bay không người lái truy đuổi.",
+            "scenes": [
+              "Tiếng kim loại va chạm và kính vỡ vụn.",
+              "Cảnh sát cơ giới Helios xuất hiện với súng laser hạng nặng.",
+              "Pha né tránh ngoạn mục của chiếc xe tải trên cầu cạn sụp đổ."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Rừng công nghiệp sương mù",
+            "core_event": "Hai người bỏ xe chạy bộ vào khu rừng nhân tạo u ám bao quanh khu vực công nghiệp cũ của Helios.",
+            "hook": "Kaela phát hiện nồng độ Mana trong không khí tại đây bất thường, tạo ra các ảo ảnh quang học đánh lừa thị giác.",
+            "scenes": [
+              "Sương mù nhân tạo cuồn cuộn dưới tán cây kim loại.",
+              "Tiếng máy bay không người lái bay vo ve trên mái vòm lá cây.",
+              "Cảm giác chóng mặt do ảnh hưởng từ trường Mana dị biệt."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Đụng độ người máy tàng hình",
+            "core_event": "Kael chạm trán với một đơn vị chiến đấu người máy tuần tra thế hệ mới sử dụng công nghệ tàng hình quang học.",
+            "hook": "Kiếm khí của Kael chém trúng lõi năng lượng của robot, giải phóng một luồng xung điện mạnh làm tê liệt toàn bộ hệ thống thông tin quanh vùng.",
+            "scenes": [
+              "Bóng người kim loại xuất hiện và biến mất trong chớp mắt.",
+              "Cảm giác nguy hiểm rợn gáy kích hoạt Gia tốc nhận thức.",
+              "Đường kiếm sắc lẹm xé toạc lớp ngụy trang quang học."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Trạm tiếp tế ngầm",
+            "core_event": "Họ tìm thấy một trạm tiếp tế ngầm bị bỏ hoang của lực lượng kháng chiến cũ, tạm thời nghỉ ngơi và chữa trị vết thương.",
+            "hook": "Trên màn hình máy tính cổ điển tại trạm, một đoạn video ghi hình cũ hé lộ mối liên hệ giữa người sáng lập Helios và di tích sa mạc.",
+            "scenes": [
+              "Ánh sáng xanh yếu ớt từ màn hình CRT cũ kỹ.",
+              "Kaela băng bó vết thương trên vai cho Kael bằng dung dịch khử trùng lạnh ngắt.",
+              "Nội dung đoạn ghi hình gây sốc về nguồn gốc mạch Mana."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Vòng vây siết chặt",
+            "core_event": "Lực lượng phản ứng nhanh của Helios do Đại tá Valerius trực tiếp chỉ huy đã lần ra dấu vết và bao vây toàn bộ trạm tiếp tế ngầm.",
+            "hook": "Valerius xuất hiện qua màn hình giám sát, đưa ra tối hậu thư yêu cầu Kael giao nộp phiến đá cổ trong vòng mười phút.",
+            "scenes": [
+              "Tiếng nổ rung chuyển cấu trúc bê tông bên ngoài.",
+              "Kẻ địch đặt thuốc nổ chuẩn bị phá cửa hầm.",
+              "Sự bình tĩnh đáng sợ của Kael khi chuẩn bị cho trận chiến đường hẹp."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Cửa khẩu thành phố ngầm",
+            "core_event": "Kael tạo ra một vụ nổ nhỏ đánh sập lối vào hầm để cản chân địch, trong khi Kaela kích hoạt hệ thống thang máy khẩn cấp dẫn sâu xuống thành phố ngầm.",
+            "hook": "Ánh đèn neon rực rỡ và những tòa nhà chọc trời lộn ngược của thành phố trôi nổi hiện ra trước mắt khi thang máy hạ xuống tầng sâu.",
+            "scenes": [
+              "Khói bụi mịt mờ và tiếng rầm rập của binh lính Helios phía sau.",
+              "Cần gạt thang máy kẹt cứng trước khi tự động tuột xuống.",
+              "Khoảnh khắc rơi tự do thót tim vào lòng thành phố ngầm."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "title": "Thành Phố Trôi Nổi (Phần 2)",
+    "theme": "Khám phá bí ẩn lịch sử của thành phố trôi nổi và đối mặt với thực thể kiểm soát dòng chảy Mana toàn cầu.",
+    "arcs": [
+      {
+        "index": 1,
+        "title": "Bí Mật Thành Phố Trôi Nổi",
+        "goal": "Thâm nhập cốt lõi thành phố trôi nổi, giải mã ký ức tiền kiếp của Kaela và đối đầu với tầng lớp thống trị Helios.",
+        "estimated_chapters": 12,
+        "chapters": [
+          {
+            "chapter": 0,
+            "title": "Ánh đèn neon ngược hướng",
+            "core_event": "Kael và Kaela bước ra từ thang máy khẩn cấp, đặt chân lên quảng trường trung tâm của thành phố trôi nổi dưới màn sương mù và ánh đèn neon mờ ảo.",
+            "hook": "Một đội tuần tra của Helios bất ngờ xuất hiện từ góc phố, chiếu đèn pha thẳng vào vị trí của họ.",
+            "scenes": [
+              "Mô tả kiến trúc lộn ngược kỳ vĩ của thành phố treo ngược.",
+              "Hơi thở lạnh giá và tiếng giọt nước nhỏ giọt từ trần hầm.",
+              "Pha ẩn nấp nhanh chóng vào bóng râm của một đài phun nước cạn."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Ký ức trong khối dữ liệu cũ",
+            "core_event": "Hai người lẩn trốn vào một khu dân cư ổ chuột bị bỏ hoang ở vành đai ngoài của thành phố trôi nổi.",
+            "hook": "Kaela vô tình chạm vào một thiết bị lưu trữ dữ liệu công cộng cũ, kích hoạt một đoạn ghi âm chấn động về lịch sử xây dựng thành phố.",
+            "scenes": [
+              "Không gian chật hẹp và ẩm thấp của khu ổ chuột công nghiệp.",
+              "Kaela cắm thiết bị vào cổng kết nối trên tường.",
+              "Âm thanh rè rè của đoạn ghi âm vang lên trong bóng tối."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Ống dẫn nhiệt và hơi sương",
+            "core_event": "Kael phát hiện một đội truy sát do cấp dưới của Valerius đang càn quét khu ổ chuột, buộc họ phải tìm đường thoát qua các hệ thống ống dẫn nhiệt.",
+            "hook": "Tiếng còi báo động vang lên khi hệ thống an ninh quét được dấu vết sinhometric của Kaela.",
+            "scenes": [
+              "Tiếng bước chân giẫm trên tôn sắt vang dội từ xa.",
+              "Kael dọn đường bằng những nhát kiếm ngắn cắt đứt đường ống hơi nước.",
+              "Hơi nóng phả rát da thịt trong không gian hẹp."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Gương kính phản chiếu tiền kiếp",
+            "core_event": "Họ trốn thoát đến một viện nghiên cứu cổ ngữ bị phong tỏa, nơi lưu giữ các tài liệu về công nghệ luân hồi trí nhớ.",
+            "hook": "Bên trong phòng thí nghiệm, Kaela nhìn thấy bức chân dung của chính mình được khắc trên một phiến kính từ hàng thế kỷ trước.",
+            "scenes": [
+              "Cánh cửa phòng thí nghiệm bị khóa bằng mật mã cổ ngữ.",
+              "Ánh sáng xanh từ các màn hình thiết bị cổ chớp tắt.",
+              "Sự sững sờ của Kaela khi đối diện với quá khứ qua gương kính."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Báo động viện nghiên cứu",
+            "core_event": "Kael cảnh giác canh gác bên ngoài phòng thí nghiệm trong khi Kaela chìm đắm vào việc giải mã dữ liệu ký ức luân hồi.",
+            "hook": "Hệ thống phòng thủ tự động của viện nghiên cứu bỗng dưng chuyển sang chế độ bảo vệ cấp độ cao.",
+            "scenes": [
+              "Tiếng động cơ cơ khí rít lên từ trần nhà.",
+              "Kael siết chặt chuôi kiếm, chuẩn bị tư thế chiến đấu.",
+              "Mồ hôi túa ra trên trán Kaela khi luồng thông tin ồ ạt tràn vào trí não."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Lời khiêu chiến từ tháp cao",
+            "core_event": "Các tháp pháo tự động trên trần nhà xả đạn xuyên thủng vách tường; Kael lao lên chắn đạn và chém nát hệ thống điều khiển trung tâm.",
+            "hook": "Một thông điệp từ Đại tá Valerius xuất hiện trên màn hình chính, mời họ đến tháp trung tâm để giải quyết dứt điểm ân oán.",
+            "scenes": [
+              "Tia đạn plasma cày xới mặt sàn bê tông.",
+              "Động tác xoay người đỡ đòn điêu luyện của Kael.",
+              "Tiếng cười lạnh lùng vang lên từ loa phát thanh."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Bản đồ năng lượng ngầm",
+            "core_event": "Kaela hoàn tất quá trình giải mã, chia sẻ với Kael thông tin về điểm yếu cấu trúc của tháp trung tâm thành phố.",
+            "hook": "Họ phát hiện nguồn năng lượng nuôi sống toàn bộ thành phố trôi nổi thực chất được hút trực tiếp từ cơ thể của những kẻ Bán Bất Lão bị giam giữ.",
+            "scenes": [
+              "Bản đồ cấu trúc không gian ba chiều hiển thị trên bàn làm việc.",
+              "Khuôn mặt trắng bệch của Kaela khi nhận ra sự thật tàn khốc.",
+              "Ánh mắt Kael trầm ngâm khi đối mặt với bí mật của chính giống loài mình."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Cầu treo trên vực thẳm",
+            "core_event": "Kael và Kaela băng qua cây cầu treo giữa các tòa nhà chọc trời lộn ngược dưới bầu trời nhân tạo xám xịt.",
+            "hook": "Một tay súng bắn tỉa của Helios khai hỏa từ một tòa tháp đối diện, suýt lấy mạng Kaela.",
+            "scenes": [
+              "Gió thổi lồng lộng qua khe vực giữa hai tòa nhà.",
+              "Tiếng đạn xé gió rít qua tai đầy đe dọa.",
+              "Pha lăn người né đòn sát nút trên mặt kính cầu."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Đòn phản kích chớp nhoáng",
+            "core_event": "Kael kích hoạt chớp nhoáng Gia tốc nhận thức để xác định vị trí tay súng bắn tỉa và phóng kiếm khí vượt khoảng cách không gian.",
+            "hook": "Tên bắn tỉa rơi xuống vực sâu, để lại thiết bị liên lạc đang kết nối với kênh nội bộ của Valerius.",
+            "scenes": [
+              "Thế giới chậm lại qua nhãn quan của Kael.",
+              "Đường kiếm xé gió bay vút đi trong không trung.",
+              "Tiếng va chạm mạnh và sự im lặng đột ngột ở tháp đối diện."
+            ]
+          },
+          {
+            "chapter": 0,
+            "title": "Cửa ngõ tháp trung tâm",
+            "core_event": "Hai người tiếp cận chân tháp trung tâm, nơi hàng rào năng lượng dày đặc đang bao bọc toàn bộ lối vào chính.",
+            "hook": "Đại tá Valerius bước ra từ lớp màn chắn năng lượng, dẫn theo một tiểu đội chiến binh giáp nặng chờ sẵn.",
+            "scenes": [
+              "Bức tường năng lượng phát ra ánh sáng tím rực rỡ.",
+              "Tiếng bước chân nặng nề của Valerius trên bậc thềm thép.",
+              "Khoảnh khắc đối đầu trực diện giữa hai thế lực."
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "title": "Sự Thật Về Mạch Ngầm",
+        "goal": "Tìm kiếm sự thật về nguồn gốc Bán Bất Lão và đưa ra lựa chọn cuối cùng về dòng chảy Mana.",
+        "estimated_chapters": 10,
+        "chapters": [
+          {
+            "chapter": 1,
+            "title": "Trận chiến dưới chân tháp",
+            "core_event": "Trận chiến nổ ra trước cửa tháp trung tâm khi Kael lao vào chiến đấu với đội hộ vệ giáp nặng của Valerius.",
+            "hook": "Valerius kích hoạt thiết bị áp chế thần kinh, khiến Kael cảm thấy những cơn đau đầu dữ dội bộc phát.",
+            "scenes": [
+              "Tiếng va chạm kim loại đinh tai nhức óc.",
+              "Kael cắn răng chịu đựng cơn đau thần kinh do Gia tốc nhận thức.",
+              "Kaela tận dụng thời gian hack bảng điều khiển năng lượng của tháp."
+            ]
+          },
+          {
+            "chapter": 2,
+            "title": "Sảnh ký ức vĩnh hằng",
+            "core_event": "Kaela phá vỡ lớp màn chắn năng lượng, tạo ra lối đi vào bên trong tháp cho cả hai.",
+            "hook": "Bên trong sảnh chính của tháp là một cỗ máy khổng lồ đang lưu trữ hàng ngàn ký ức luân hồi của nhân loại.",
+            "scenes": [
+              "Cánh cửa năng lượng vụn vỡ thành những hạt sáng li ti.",
+              "Không gian mênh mông chứa các cột tinh thể phát sáng bên trong tháp.",
+              "Tiếng thở dốc của Kael sau khi áp chế cơn đau."
+            ]
+          },
+          {
+            "chapter": 3,
+            "title": "Đối đầu trong sảnh tháp",
+            "core_event": "Valerius đuổi theo vào bên trong tháp, dùng vũ khí tối tân đe dọa ép Kaela giao nộp quyền kiểm soát hệ thống.",
+            "hook": "Kael đứng chắn trước mặt Kaela, dùng lưỡi kiếm rớm máu chỉ thẳng vào ngực Valerius.",
+            "scenes": [
+              "Ánh đèn báo động đỏ nhấp nháy khắp không gian sảnh tháp.",
+              "Lời đối thoại sắc sảo giữa Valerius và Kael về vận mệnh nhân loại.",
+              "Sự kiên định trong ánh mắt của Kaela."
+            ]
+          },
+          {
+            "chapter": 4,
+            "title": "Kiếm và súng trên tầng cao",
+            "core_event": "Một cuộc giao tranh tay đôi quyết liệt diễn ra giữa Kael và Valerius giữa các tầng tháp cao vút.",
+            "hook": "Valerius bị thương nặng ở vai nhưng vẫn gượng đứng dậy kích hoạt cơ chế tự hủy của tháp.",
+            "scenes": [
+              "Đường kiếm dứt khoát xé rách lớp áo giáp chiến thuật của Valerius.",
+              "Tiếng kim loại nghiến ken két khi cơ chế tự hủy khởi động.",
+              "Màn hình đếm ngược xuất hiện rực đỏ trên vách tường."
+            ]
+          },
+          {
+            "chapter": 5,
+            "title": "giải mã lõi hệ thống",
+            "core_event": "Kaela sử dụng trí nhớ luân hồi để xâm nhập vào hệ thống lõi, tìm cách vô hiệu hóa lệnh tự hủy trước khi quá muộn.",
+            "hook": "Hệ thống phòng thủ ảo hiện ra hình ảnh những kiếp sống trước đây của Kaela, cố gắng ngăn cản cô truy cập.",
+            "scenes": [
+              "Kaela ngồi bất động trước màn hình trung tâm, mồ hôi đầm đìa.",
+              "Hình ảnh các ký ức quá khứ lướt qua tâm trí như thước phim tua nhanh.",
+              "Kael bảo vệ phía sau, gạt bỏ mọi mảnh vỡ rơi xuống từ trần nhà."
+            ]
+          },
+          {
+            "chapter": 6,
+            "title": "Hồi kết của kẻ độc tài",
+            "core_event": "Valerius dồn hết sức lực tung đòn quyết định cuối cùng vào Kael trước khi ngã gục xuống sàn tháp.",
+            "hook": "Đòn đánh của Valerius làm vỡ nát cột tinh thể chính, giải phóng luồng năng lượng khổng lồ tràn ngập không gian.",
+            "scenes": [
+              "Cú vung súng tuyệt vọng của Valerius.",
+              "Kael né đòn trong gang tấc và phản công chí mạng.",
+              "Tiếng nổ lớn vang lên từ các tầng phụ của tháp."
+            ]
+          },
+          {
+            "chapter": 7,
+            "title": "Thành phố hạ cánh",
+            "core_event": "Kaela thành công vô hiệu hóa lệnh tự hủy vào giây cuối cùng, nhưng luồng năng lượng nguyên thủy đã lan tỏa khắp thành phố trôi nổi.",
+            "hook": "Toàn bộ các cấu trúc nhân tạo của thành phố bắt đầu hạ độ cao, từ từ chạm xuống mặt đất hoang mạc bên dưới.",
+            "scenes": [
+              "Ánh sáng xanh rực rỡ bao trùm toàn bộ không gian treo ngược.",
+              "Cảm giác rung chấn nhẹ khi thành phố dịch chuyển.",
+              "Sự im lặng bao trùm sau cơn bão năng lượng."
+            ]
+          },
+          {
+            "chapter": 8,
+            "title": "Bình minh trên mặt đất",
+            "core_event": "Kael và Kaela bước ra ban công tầng cao nhất của tháp, nhìn ngắm ánh bình minh đầu tiên chiếu rọi xuống mặt đất không bị che khuất bởi sương mù.",
+            "hook": "Phiến đá cổ trong tay Kaela hoàn toàn tan biến thành cát bụi, khép lại một chu kỳ lịch sử dài đằng đẵng.",
+            "scenes": [
+              "Ánh nắng vàng ấm áp xua tan màn sương lạnh giá.",
+              "Cảm giác nhẹ nhõm trên khuôn mặt Kael sau nhiều thế kỷ lang thang.",
+              "Nụ cười mệt mỏi nhưng đầy hy vọng của Kaela."
+            ]
+          },
+          {
+            "chapter": 9,
+            "title": "Con đường phía trước",
+            "core_event": "Hai người rời khỏi tháp trung tâm, bước đi trên con đường mòn dẫn về phương xa giữa vùng đất hoang mạc đang hồi sinh.",
+            "hook": "Một dấu chân mới để lại trên cát, không còn bị truy sát hay bóng tối che khuất.",
+            "scenes": [
+              "Cảnh quan hoang mạc bắt đầu mọc lên những mầm cây xanh nhỏ.",
+              "Bước chân vững chãi của Kael và Kaela hướng về chân trời.",
+              "Khung cảnh khép lại trong sự bình yên vĩnh hằng."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

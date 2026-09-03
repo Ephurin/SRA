@@ -1,0 +1,53 @@
+{
+  "chapter": 83,
+  "scope": "global",
+  "issues": [],
+  "dimensions": [
+    {
+      "dimension": "consistency",
+      "score": 92,
+      "verdict": "pass",
+      "comment": "Hệ thống thiết lập, quy tắc thế giới, dòng thời gian và trạng thái nhân vật xuyên suốt 83 chương được duy trì vô cùng chặt chẽ, không phát hiện mâu thuẫn lớn."
+    },
+    {
+      "dimension": "character",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Động cơ của Kael và Kaela bám sát mục tiêu sinh tồn và khám phá; tuyến đối đầu với Valerius sắc nét, giữ vững đặc trưng tính cách phong cách Tây phương."
+    },
+    {
+      "dimension": "pacing",
+      "score": 88,
+      "verdict": "pass",
+      "comment": "Nhịp điệu phân bố hợp lý giữa các trường đoạn thám hiểm di tích, xung đột vũ trang và giải mã cổ ngữ qua 2 tập truyện lớn."
+    },
+    {
+      "dimension": "continuity",
+      "score": 91,
+      "verdict": "pass",
+      "comment": "Chuyển cảnh, quan hệ nhân quả và mạch thông tin giữa các chương, các cung truyện được nối kết liền mạch."
+    },
+    {
+      "dimension": "foreshadow",
+      "score": 89,
+      "verdict": "pass",
+      "comment": "Các phục bút về mạch Mana và ký ức luân hồi được gieo rắc và thu hồi đúng nhịp, tạo độ sâu cho thế giới hậu tận thế."
+    },
+    {
+      "dimension": "hook",
+      "score": 90,
+      "verdict": "pass",
+      "comment": "Các điểm móc câu (cliffhanger) cuối chương duy trì lực kéo tốt, thúc đẩy hành vi đọc liên tục của độc giả."
+    },
+    {
+      "dimension": "aesthetic",
+      "score": 91,
+      "verdict": "pass",
+      "comment": "Văn phong tuân thủ nguyên tắc 'Show, Don't Tell', miêu tả ngũ quan sinh động, tránh lạm dụng sáo ngữ AI, kiểm soát tốt các từ khóa mệt mỏi."
+    }
+  ],
+  "contract_status": "met",
+  "contract_notes": "Đã hoàn thành đánh giá toàn cục (book_complete=true) cho toàn bộ 83 chương của tác phẩm.",
+  "verdict": "accept",
+  "summary": "Đánh giá toàn cục (book_complete=true) toàn bộ tác phẩm ghi nhận tổng số 83 chương hoàn thành với quy mô 453.202 từ trên 2 tập truyện. Tác phẩm duy trì sự nhất quán xuất sắc về thiết lập thế giới, phát triển nhân vật, nhịp điệu và chất lượng thẩm mỹ theo đúng tiêu chuẩn Fantasy phương Tây và hệ thống quy tắc kỹ nghệ - ma pháp."
+}

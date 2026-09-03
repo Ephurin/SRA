@@ -1,0 +1,64 @@
+{
+  "chapter": 77,
+  "scope": "chapter",
+  "issues": [
+    {
+      "type": "pacing",
+      "severity": "warning",
+      "description": "Độ dài chương dài hơn so với quy chuẩn thông thường (gần 7.700 từ), cần lưu ý tối ưu hóa độ dài trong các chương tiếp theo nếu cần đẩy nhanh nhịp điệu cốt truyện.",
+      "evidence": "Chương 77 có tổng số từ là 7728 từ, vượt mức khuyến nghị thông thường của một chương tiêu chuẩn.",
+      "suggestion": "Duy trì độ dài trong khoảng từ 2000 đến 4500 từ theo quy tắc cấu trúc chương để đảm bảo nhịp phát hành ổn định."
+    }
+  ],
+  "dimensions": [
+    {
+      "dimension": "consistency",
+      "score": 88,
+      "verdict": "pass",
+      "comment": "Thiết lập thế giới về cấu trúc phân tầng của thành phố trôi nổi Aethelgard và sự hiện diện của lực lượng Helios được duy trì hoàn toàn nhất quán với các chương trước."
+    },
+    {
+      "dimension": "character",
+      "score": 86,
+      "verdict": "pass",
+      "comment": "Động cơ hành động và phong cách đối thoại của Kael và Kaela bám sát hồ sơ tâm lý cốt lõi: Kael lạnh lùng, dứt khoát; Kaela điềm tĩnh, chuyên nghiệp."
+    },
+    {
+      "dimension": "pacing",
+      "score": 85,
+      "verdict": "pass",
+      "comment": "Nhịp độ chương được đẩy từ sự ngột ngạt của tầng đáy sang sự căng thẳng, rón rén tại tầng trung lưu xa hoa trước khi khép lại bằng mệnh lệnh trực tiếp của Valerius."
+    },
+    {
+      "dimension": "continuity",
+      "score": 87,
+      "verdict": "pass",
+      "comment": "Chuyển cảnh từ hành lang rực rỡ ánh sáng sang đường ống kỹ thuật ngầm diễn ra vô cùng tự nhiên và logic."
+    },
+    {
+      "dimension": "foreshadow",
+      "score": 84,
+      "verdict": "pass",
+      "comment": "Phục bút về quyền lực và sự kiểm soát của Đại tá Valerius tiếp tục được đẩy mạnh, củng cố mối đe dọa trực tiếp cho các chương tới."
+    },
+    {
+      "dimension": "hook",
+      "score": 86,
+      "verdict": "pass",
+      "comment": "Điểm móc cuối chương (hook) tạo ra sức ép lớn khi Valerius trực tiếp ra lệnh phong tỏa, ép nhân vật chính phải trốn vào đường ống thông gió."
+    },
+    {
+      "dimension": "aesthetic",
+      "score": 85,
+      "verdict": "pass",
+      "comment": "Văn phong miêu tả chi tiết, tuân thủ nguyên tắc Show, Don't Tell. Ví dụ tiêu biểu: 'Những chiếc xe bọc thép hạng nhẹ mang huy hiệu của tập đoàn Helios đang rầm rập di chuyển trên các làn đường cao tốc từ tính. Ánh đèn pha màu vàng chói lọi quét qua từng góc phố, từng tòa nhà, cắt ngang màn đêm như những lưỡi dao quang học.'"
+    }
+  ],
+  "contract_status": "met",
+  "contract_notes": "Chương 77 đã hoàn thành đầy đủ tất cả các required_beats và continuity_checks trong hợp đồng, khắc họa thành công sự chuyển biến không gian từ tầng đáy lên tầng trung lưu xa hoa nhưng đầy rẫy sự kiềm tỏa của lực lượng Helios.",
+  "verdict": "accept",
+  "summary": "Chương 77 hoàn thành xuất sắc yêu cầu thâm nhập tầng trung lưu của Kael và Kaela, khắc họa sự tương phản rõ rệt giữa hai tầng thành phố, đồng thời đẩy cao sự căng thẳng thông qua sự xuất hiện và lệnh phong tỏa trực tiếp của Đại tá Valerius. Hợp đồng chương được hoàn thành trọn vẹn (met).",
+  "affected_chapters": [
+    77
+  ]
+}

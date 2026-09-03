@@ -1,0 +1,7 @@
+{
+  "started_at": "2026-09-03T15:10:01+07:00",
+  "provider": "gemini",
+  "style": "default",
+  "model": "gemini-3.5-flash-lite",
+  "planning_tier": "long"
+}

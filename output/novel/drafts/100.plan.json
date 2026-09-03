@@ -1,0 +1,31 @@
+{
+  "chapter": 100,
+  "title": "Thành phố hạ cánh",
+  "goal": "Miêu tả chi tiết khoảnh khắc Kaela hack thành công hệ thống tự hủy, giải phóng luồng năng lượng nguyên thủy khiến thành phố treo ngược bắt đầu hạ độ cao xuống mặt đất.",
+  "conflict": "Kaela phải hoàn thành việc vô hiệu hóa cơ chế tự hủy trong những giây đếm ngược cuối cùng khi luồng năng lượng nguyên thủy bắt đầu bùng nổ khắp tháp.",
+  "hook": "Toàn bộ các cấu trúc nhân tạo của thành phố bắt đầu hạ độ cao, từ từ chạm xuống mặt đất hoang mạc bên dưới trong tiếng rít của kim loại.",
+  "emotion_arc": "Từ căng thẳng tột độ, tuyệt vọng đến sự nhẹ nhõm nghẹn ngào khi thảm họa bị ngăn chặn thành công.",
+  "contract": {
+    "required_beats": [
+      "Kaela thao tác trên bàn điều khiển lõi với các dòng ký ức tiền kiếp hiện lên.",
+      "Kael gượng đứng dậy canh chừng giữa đống đổ nát của phòng điều khiển.",
+      "Bảng đếm ngược dừng lại ở con số không và chuyển sang màu xanh dương.",
+      "Cảm giác rung chấn toàn thành phố khi các động cơ đảo chiều hướng đẩy xuống dưới."
+    ],
+    "forbidden_moves": [
+      "Không để Valerius sống sót",
+      "Không để tháp phát nổ toàn bộ"
+    ],
+    "continuity_checks": [
+      "Kiểm tra trạng thái kiệt sức của Kael sau trận chiến với Valerius",
+      "Đảm bảo Kaela sử dụng chính xác trí nhớ luân hồi để ghi đè mã khóa",
+      "Mô tả trực quan quá trình thành phố trôi nổi bắt đầu hạ độ cao xuống hoang mạc"
+    ],
+    "evaluation_focus": [
+      "Không dùng các cụm từ sáo rỗng đã cấm",
+      "Đảm bảo số từ tối thiểu 2000 từ",
+      "Tuân thủ nguyên tắc Show, Don't Tell"
+    ],
+    "emotion_target": "Sự hồi hộp và nghẹt thở trước thời khắc định mệnh của cả thành phố."
+  }
+}

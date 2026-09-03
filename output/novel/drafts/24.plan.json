@@ -1,0 +1,29 @@
+{
+  "chapter": 24,
+  "title": "Đêm tập kích quán trọ",
+  "goal": "Miêu tả chi tiết cuộc tập kích ban đêm trong quán trọ ngầm và cách Kael lật ngược tình thế trước lính đánh thuê Helios.",
+  "conflict": "Kael và Kaela bị một nhóm lính đánh thuê dưới quyền Valerius tập kích bất ngờ khi đang trú ẩn tại một quán trọ cũ kỹ trong hệ thống ngầm Aethelgard.",
+  "hook": "Xác kẻ địch cuối cùng đổ gục xuống vũng nước đen, để lại Kael với ánh mắt sắc lạnh hướng về phía đường ống đang rỉ máu tươi.",
+  "emotion_arc": "Từ căng thẳng cảnh giác chuyển sang bùng nổ chiến đấu cực độ và kết thúc bằng sự lạnh lùng quyết đoán.",
+  "contract": {
+    "required_beats": [
+      "Tiếng bước chân nặng nề áp sát căn phòng trọ mục nát.",
+      "Đòn kiếm chớp nhoáng cắt đứt nguồn sáng duy nhất trong không gian hẹp.",
+      "Kael sử dụng Gia tốc nhận thức để triệt hạ từng tên lính trước khi chúng kịp phát tín hiệu cứu viện."
+    ],
+    "forbidden_moves": [
+      "Không dùng các câu triết lý sáo rỗng cuối chương.",
+      "Không lạm dụng từ chỉ thời lượng đơn điệu hoặc các cụm từ cấm."
+    ],
+    "continuity_checks": [
+      "Duy trì thương tích nhẹ ở bắp tay trái của Kael từ trận chiến sòng bạc ngầm.",
+      "Không khí ẩm ướt, mùi dầu máy và tiếng nước rỉ giọt đặc trưng của hệ thống ngầm thành phố trôi nổi.",
+      "Kiểm soát chặt chẽ các từ cấm và số từ theo quy định."
+    ],
+    "evaluation_focus": [
+      "Đảm bảo nguyên tắc Show, Don't Tell và không gian chiến đấu cận chiến nghẹt thở.",
+      "Tuân thủ phong cách chiến đấu thực tế của Kael với Gia tốc nhận thức."
+    ],
+    "emotion_target": "Cảm giác nghẹt thở, hồi hộp theo từng nhịp thở và tiếng bước chân trong bóng tối."
+  }
+}

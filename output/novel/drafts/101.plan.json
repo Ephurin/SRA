@@ -1,0 +1,31 @@
+{
+  "chapter": 101,
+  "title": "Bình minh trên mặt đất",
+  "goal": "Viết chương 101 với nhịp điệu chậm rãi, tập trung miêu tả khung cảnh bình minh trên đỉnh tháp khi thành phố trôi nổi chính thức hạ cánh.",
+  "conflict": "Sự kết thúc của trật tự treo ngược và áp lực chuyển giao thời đại trên đỉnh tháp Aethelgard.",
+  "hook": "Phiến đá cổ trong tay Kaela hoàn toàn tan biến thành cát bụi, khép lại một chu kỳ lịch sử dài đằng đẵng.",
+  "emotion_arc": "Từ căng thẳng tột độ của trận chiến chuyển sang sự nhẹ nhõm, trống trải và hy vọng trước ánh bình minh.",
+  "contract": {
+    "required_beats": [
+      "Kael và Kaela bước ra ban công tầng cao nhất của tháp Aethelgard.",
+      "Ánh nắng đầu tiên chiếu rọi xuống mặt đất hoang mạc.",
+      "Sự tan biến của phiến đá cổ trên tay Kaela."
+    ],
+    "forbidden_moves": [
+      "Không dùng từ 'bỗng nhiên', 'dường như', 'im lặng' quá số lần quy định.",
+      "Không có hồi tưởng dài dòng không cần thiết.",
+      "Không kết thúc bằng kết luận triết lý sáo rỗng."
+    ],
+    "continuity_checks": [
+      "Đảm bảo không dùng các từ sáo rỗng bị cấm.",
+      "Giữ nguyên vẹn tính cách trầm mặc của Kael và sự kiên cường của Kaela.",
+      "Miêu tả chi tiết cảm giác không trọng lượng khi tháp hạ cánh."
+    ],
+    "evaluation_focus": [
+      "Tính trực quan của cảnh quan bình minh.",
+      "Sự chuyển biến tâm lý tự nhiên giữa hai nhân vật.",
+      "Không có sáo ngữ AI."
+    ],
+    "emotion_target": "Cảm giác bình yên và sự giải thoát sau một hành trình dài đằng đẵng."
+  }
+}

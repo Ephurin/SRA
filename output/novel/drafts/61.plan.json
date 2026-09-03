@@ -1,0 +1,20 @@
+{
+  "chapter": 61,
+  "title": "Trạm tiếp tế ngầm",
+  "goal": "Viết chương 61: Trạm tiếp tế ngầm, hoàn thành cảnh nghỉ ngơi, băng bó vết thương và khám phá đoạn băng ghi hình bí mật của người sáng lập Helios.",
+  "conflict": "Kael và Kaela tìm nơi trú ẩn tại trạm tiếp tế ngầm cũ, đối diện với những thương tích và một bí mật chấn động từ đoạn phim lưu trữ.",
+  "hook": "Màn hình CRT nhấp nháy hiển thị khuôn mặt của người sáng lập Helios đứng trước cổng di tích sa mạc từ nhiều thập kỷ trước, hé lộ hắn chính là kẻ đã khởi xướng thảm họa.",
+  "emotion_arc": "Từ căng thẳng, mệt mỏi sau cuộc rượt đuổi chuyển sang sự kinh ngạc, trầm lắng khi đối mặt với sự thật lịch sử qua đoạn ghi hình.",
+  "contract": {
+    "required_beats": [
+      "Kaela sơ cứu vết thương bả vai cho Kael bằng dung dịch y tế lạnh ngắt.",
+      "Hai người khám phá không gian trạm tiếp tế ngầm bị bỏ hoang của lực lượng kháng chiến cũ.",
+      "Phát hiện máy tính cổ điển còn nguồn điện phụ trợ và xem đoạn video ghi hình cũ về người sáng lập Helios."
+    ],
+    "continuity_checks": [
+      "Kiểm tra vết thương bả vai của Kael từ chương trước",
+      "Đảm bảo bối cảnh trạm tiếp tế ngầm phù hợp với tàn dư kháng chiến cũ",
+      "Không dùng từ cấm và văn phong AI"
+    ]
+  }
+}

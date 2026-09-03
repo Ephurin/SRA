@@ -1,0 +1,22 @@
+{
+  "chapter": 30,
+  "title": "Vòng vây siết chặt",
+  "goal": "Khép lại Cung 2 bằng việc Kael và Kaela thoát khỏi vòng vây của Valerius, tạo tiền đề cho hành trình xuống thành phố ngầm.",
+  "conflict": "Valerius bao vây trạm tiếp tế, Kael đối đầu với tối hậu thư của hắn trong khi tìm đường thoát thân.",
+  "hook": "Valerius xuất hiện qua màn hình, đưa ra tối hậu thư mười phút giao nộp phiến đá.",
+  "emotion_arc": "Căng thẳng tột độ, cảm giác bị dồn vào đường cùng chuyển sang sự quyết tâm tàn khốc.",
+  "contract": {
+    "required_beats": [
+      "Tiếng nổ và rung chuyển bên ngoài trạm tiếp tế.",
+      "Valerius xuất hiện trên màn hình giám sát.",
+      "Kael chuẩn bị vũ khí và kế hoạch phản công/tẩu thoát.",
+      "Kết thúc Cung 2 với sự kiện bắt đầu tẩu thoát xuống thành phố ngầm."
+    ],
+    "continuity_checks": [
+      "Kael đang bị thương bắp tay trái và kiệt quệ thần kinh.",
+      "Kaela đang giữ phiến đá cổ.",
+      "Trạm tiếp tế là hầm ngầm cũ.",
+      "Valerius dùng công nghệ quân sự Helios."
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema": 2,
+  "updated_at": "2026-09-03T15:53:48.2655289+07:00",
+  "overall": {
+    "input": 44235841,
+    "output": 395996,
+    "cache_read": 16905987,
+    "cache_write": 0,
+    "cost_usd": 8.88464494500001,
+    "saved_usd": 4.281963255,
+    "cache_capable": true
+  },
+  "per_agent": {
+    "architect": {
+      "input": 950552,
+      "output": 32809,
+      "cache_read": 173135,
+      "cache_write": 0,
+      "cost_usd": 0.3029246750000001,
+      "saved_usd": 0.044152425,
+      "cache_capable": true
+    },
+    "coordinator": {
+      "input": 20604594,
+      "output": 17448,
+      "cache_read": 5971278,
+      "cache_write": 0,
+      "cost_usd": 4.171017289999999,
+      "saved_usd": 1.5473757600000009,
+      "cache_capable": true
+    },
+    "editor": {
+      "input": 3906673,
+      "output": 57916,
+      "cache_read": 1541319,
+      "cache_write": 0,
+      "cost_usd": 0.8081419749999998,
+      "saved_usd": 0.3690443250000001,
+      "cache_capable": true
+    },
+    "writer": {
+      "input": 18774022,
+      "output": 287823,
+      "cache_read": 9220255,
+      "cache_write": 0,
+      "cost_usd": 3.602561004999995,
+      "saved_usd": 2.321390745000001,
+      "cache_capable": true
+    }
+  },
+  "per_model": {
+    "gemini/gemini-3.1-flash-lite": {
+      "input": 19130582,
+      "output": 137605,
+      "cache_read": 6281183,
+      "cache_write": 0,
+      "cost_usd": 3.5757868250000002,
+      "saved_usd": 1.413266175,
+      "cache_capable": true
+    },
+    "gemini/gemini-3.5-flash-lite": {
+      "input": 25105259,
+      "output": 258391,
+      "cache_read": 10624804,
+      "cache_write": 0,
+      "cost_usd": 5.308858119999996,
+      "saved_usd": 2.868697080000001,
+      "cache_capable": true
+    }
+  },
+  "missing_assistant_usage": 1
+}

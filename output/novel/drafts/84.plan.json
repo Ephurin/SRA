@@ -1,0 +1,29 @@
+{
+  "chapter": 84,
+  "title": "Ánh đèn neon ngược hướng",
+  "goal": "Mô tả khung cảnh choáng ngợp của thành phố trôi nổi Aethelgard và đưa nhân vật chính vào tình huống sinh tồn mới dưới sự truy sát của Helios.",
+  "conflict": "Kael và Kaela vừa đặt chân xuống thành phố trôi nổi Aethelgard thì phải đối mặt với đội tuần tra quân sự của tập đoàn Helios đang càn quét khu vực.",
+  "hook": "Một đội tuần tra của Helios bất ngờ xuất hiện từ góc phố, chiếu đèn pha thẳng vào vị trí ẩn nấp của họ.",
+  "emotion_arc": "Từ sự ngỡ ngàng trước không gian lộn ngược kỳ vĩ sang sự căng thẳng tột độ khi đối mặt với hiểm họa cận kề.",
+  "contract": {
+    "required_beats": [
+      "Miêu tả cấu trúc lộn ngược và bầu không khí ẩm ướt của thành phố treo ngược.",
+      "Kael và Kaela tìm chỗ ẩn nấp sau khi thang máy hạ xuống.",
+      "Ánh đèn pha quét qua bóng râm, tạo ra điểm móc câu căng thẳng."
+    ],
+    "forbidden_moves": [
+      "Không dùng tên nhân vật phong cách Á Đông",
+      "Không giải thích dài dòng triết lý sáo rỗng"
+    ],
+    "continuity_checks": [
+      "Đảm bảo không sử dụng các từ ngữ sáo rỗng hoặc cấm trong working_memory.user_rules.structured.fatigue_words và forbidden_phrases.",
+      "Kiểm tra văn phong tả thực, tránh tóm tắt sự kiện."
+    ],
+    "evaluation_focus": [
+      "Mô tả 5 giác quan của thành phố trôi ngược",
+      "Nhịp độ chiến đấu và ẩn nấp ngột ngạt",
+      "Giọng văn sắc sảo, không sáo rỗng"
+    ],
+    "emotion_target": "Hồi hộp, kịch tính và tò mò."
+  }
+}

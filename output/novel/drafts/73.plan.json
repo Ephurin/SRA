@@ -1,0 +1,20 @@
+{
+  "chapter": 73,
+  "title": "Phát súng định mệnh",
+  "goal": "Hoàn thành cao trào của cung truyện với trận chiến trực diện giữa Kael và Valerius, dẫn đến việc hồ lõi Mana bùng nổ cộng hưởng.",
+  "conflict": "Kael lao qua làn đạn trực diện để đột nhập đài quan sát, đối đầu trực tiếp với Valerius nhằm ngăn chặn phát súng khoan cuối cùng vào lõi Mana.",
+  "hook": "Luồng năng lượng từ hồ Mana bỗng bùng nổ dữ dội, bao trùm lấy toàn bộ khu vực và đẩy tất cả vào một không gian cộng hưởng kỳ lạ.",
+  "emotion_arc": "Từ áp lực ngột ngạt và căng thẳng tột độ của vòng vây chuyển sang sự bùng nổ bạo lực tốc độ cao, kết thúc bằng cơn lốc năng lượng choáng ngợp.",
+  "contract": {
+    "required_beats": [
+      "Kael kích hoạt Gia tốc nhận thức để phá vỡ vòng vây đạn laze của Helios.",
+      "Cuộc giáp lá cà giữa Kael và Valerius trên đài chỉ huy cao ngất.",
+      "Phát súng khoan chạm đích lõi Mana, kích hoạt hiện tượng cộng hưởng năng lượng quy mô lớn."
+    ],
+    "continuity_checks": [
+      "Kiểm tra trạng thái kiệt sức thần kinh và vết thương vai của Kael từ chương trước",
+      "Đảm bảo hành động của Valerius phản ánh đúng tính cách kiêu ngạo, thực dụng và tàn nhẫn",
+      "Tuân thủ nghiêm ngặt quy tắc tối thiểu 2000 từ và không dùng sáo ngữ AI"
+    ]
+  }
+}

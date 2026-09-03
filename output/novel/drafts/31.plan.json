@@ -1,0 +1,23 @@
+{
+  "chapter": 31,
+  "title": "Cửa khẩu thành phố ngầm",
+  "goal": "Mô tả cảnh tượng thành phố ngầm lộn ngược và bắt đầu hành trình ẩn náu.",
+  "conflict": "Sự truy đuổi của mạng lưới giám sát Helios tại thành phố ngầm và áp lực sinh tồn khi tìm nơi ẩn náu trong một môi trường xa lạ, hỗn loạn.",
+  "hook": "Kael và Kaela nhận ra họ đang bị theo dõi bởi các cảm biến nhiệt của Helios ngay khi vừa đặt chân xuống khu dân cư.",
+  "emotion_arc": "Từ căng thẳng tột độ (đào tẩu) sang choáng ngợp, hoang mang, rồi tập trung tìm kiếm sự an toàn.",
+  "contract": {
+    "required_beats": [
+      "Mô tả khoảnh khắc thang máy hạ xuống, cảnh quan thành phố ngầm hiện ra.",
+      "Mô tả kiến trúc lộn ngược và ánh sáng neon rực rỡ.",
+      "Kael và Kaela bước ra khỏi thang máy, cảm nhận sự hỗn loạn của thành phố.",
+      "Bắt đầu tìm kiếm nơi ẩn náu tạm thời.",
+      "Cảm giác bị truy lùng bởi mạng lưới giám sát Helios."
+    ],
+    "continuity_checks": [
+      "Mô tả đúng kiến trúc lộn ngược của thành phố ngầm.",
+      "Trạng thái sức khỏe của Kael (đang bị thương, kiệt quệ thần kinh).",
+      "Sự choáng ngợp của Kaela khi nhìn thấy kiến trúc và ánh sáng neon."
+    ],
+    "emotion_target": "Sự choáng ngợp và cảm giác bị đe dọa trong một không gian đô thị ngầm."
+  }
+}

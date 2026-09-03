@@ -1,0 +1,20 @@
+{
+  "chapter": 82,
+  "title": "Lõi năng lượng thức tỉnh",
+  "goal": "Vô hiệu hóa hệ thống tự hủy của Aethelgard trong tích tắc cuối cùng và khai mở nguồn năng lượng nguyên thủy.",
+  "conflict": "Hệ thống tự hủy do Valerius khởi động đe dọa xóa sổ toàn bộ Aethelgard, đòi hỏi Kaela phải can thiệp trực tiếp vào lõi dữ liệu cổ đại trong khi Kael đối mặt với Valerius ở ranh giới của sự sống và cái chết.",
+  "hook": "Một nguồn năng lượng cổ đại từ lõi Mana bất ngờ trào dâng, bao phủ toàn bộ thành phố và thay đổi cấu trúc vật chất của nó.",
+  "emotion_arc": "Từ tuyệt vọng, căng thẳng tột độ đến sự vỡ òa khi thảm họa bị chặn đứng và lõi năng lượng cổ đại thức tỉnh.",
+  "contract": {
+    "required_beats": [
+      "Kaela hoàn tất việc viết lại mã lệnh trên bảng điều khiển trung tâm đúng thời hạn.",
+      "Hệ thống cảnh báo tự hủy tắt ngấm, còi báo động chuyển sang tiếng ngân vang trầm đục.",
+      "Valerius rơi vào hoảng loạn, suy sụp khi dã tâm sụp đổ hoàn toàn trước ký ức của Kaela.",
+      "Kael tước vũ khí của Valerius trong trạng thái thương tích trầm trọng."
+    ],
+    "continuity_checks": [
+      "Đảm bảo trạng thái bị thương nặng của Kael từ chương trước được phản ánh qua từng bước di chuyển và phản xạ cơ thể.",
+      "Mô tả chính xác sự chuyển đổi trạng thái của bảng điều khiển từ mã độc hại sang cấu trúc ban đầu dưới sự điều khiển của Kaela."
+    ]
+  }
+}
